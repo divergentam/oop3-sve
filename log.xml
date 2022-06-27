@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-12T17:55:08.017179400Z</date>
+  <millis>1652378108017</millis>
+  <nanos>179400</nanos>
+  <sequence>0</sequence>
+  <logger>rs.ac.ni.oop3.tamara333.vezbe_17_3.logging.MyLoggerVezba4</logger>
+  <level>SEVERE</level>
+  <class>rs.ac.ni.oop3.tamara333.vezbe_17_3.logging.MyLoggerVezba4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>FILE: A big problem</message>
+</record>
+</log>

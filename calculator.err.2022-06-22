@@ -1,0 +1,1169 @@
+[pool-3-thread-1] 2022-06-22 00:00:04:355 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:00:04:361 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:00:04:361 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:00:04:361 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-1] 2022-06-22 00:00:04:362 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-2] 2022-06-22 00:00:04:361 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-2-thread-1] 2022-06-22 00:00:04:362 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:00:04:364 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:00:04:365 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:00:04:366 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:00:04:764 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:00:04:873 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:00:05:172 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-3] 2022-06-22 00:02:45:942 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:02:45:942 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:02:45:942 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:02:46:857 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:02:46:951 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:02:46:951 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:46:953 DEBUG Waiter:23 - Waiter: I'm notifying chief to prepare next meal
+[pool-2-thread-1] 2022-06-22 00:02:46:953 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:02:47:455 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:02:51:969 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:02:51:970 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:02:51:971 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:02:51:971 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:02:51:971 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 00:02:51:971 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:02:51:972 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:51:975 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:51:976 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:51:977 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:52:948 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:02:53:474 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-22 00:02:53:481 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:02:53:951 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:53:952 DEBUG Waiter:23 - Waiter: I'm notifying chief to prepare next meal
+[pool-2-thread-1] 2022-06-22 00:02:53:952 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:02:53:982 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:02:58:964 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:02:58:965 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:02:58:966 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:02:58:966 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-2] 2022-06-22 00:02:58:966 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-22 00:02:58:966 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-2-thread-1] 2022-06-22 00:02:58:966 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:58:968 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:58:968 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:02:58:969 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:02:59:369 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:02:59:480 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:02:59:779 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-3] 2022-06-22 00:04:23:602 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:04:23:602 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:04:23:602 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:04:24:511 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:04:24:607 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:04:24:607 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:24:608 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:04:24:608 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:04:25:112 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:04:29:613 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:04:29:613 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:04:29:614 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:04:29:614 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 00:04:29:614 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:04:29:614 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:04:29:614 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:29:616 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:29:617 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:29:617 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:30:612 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:04:31:115 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-22 00:04:31:117 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:04:31:614 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:31:615 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:04:31:615 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:04:31:628 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:04:36:627 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:04:36:627 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:04:36:628 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:04:36:628 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-2] 2022-06-22 00:04:36:628 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-1-thread-1] 2022-06-22 00:04:36:628 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-2-thread-1] 2022-06-22 00:04:36:628 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:36:630 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:36:630 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:04:36:630 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:04:37:030 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:04:37:142 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:04:37:429 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-2] 2022-06-22 00:08:59:325 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:08:59:325 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:08:59:325 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-2-thread-1] 2022-06-22 00:08:59:829 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:09:00:239 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:09:00:333 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:09:00:835 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-22 00:09:00:835 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:09:00:836 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:09:00:838 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-3-thread-1] 2022-06-22 00:09:05:844 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:09:05:845 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:09:05:846 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:09:05:846 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:09:05:846 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 00:09:05:846 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:09:05:847 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:05:850 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:05:851 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:05:852 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:06:835 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:09:07:351 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-22 00:09:07:351 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:09:07:838 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:07:839 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:09:07:839 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:09:07:854 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:09:12:843 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:09:12:843 INFO  Waiter:28 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-22 00:09:12:844 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-2-thread-1] 2022-06-22 00:09:12:844 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:09:12:844 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-3] 2022-06-22 00:09:12:844 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-2-thread-1] 2022-06-22 00:09:12:845 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:12:846 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:12:846 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:12:846 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:09:13:251 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:09:13:358 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:09:13:646 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-3] 2022-06-22 00:09:47:240 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:09:47:240 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:09:47:240 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-2-thread-1] 2022-06-22 00:09:47:746 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:09:48:151 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:09:48:245 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-1-thread-2] 2022-06-22 00:09:48:748 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:09:48:748 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:49:754 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:50:761 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:51:767 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:52:779 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:53:786 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:54:800 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:55:814 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:56:823 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:57:834 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:58:835 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:09:59:849 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:00:865 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:01:877 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:02:889 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:03:890 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:04:891 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:05:905 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:06:912 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:10:26:923 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:10:26:924 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:10:26:924 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:10:27:830 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:10:27:932 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:10:27:932 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:27:933 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:10:27:933 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:10:28:437 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:10:32:945 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:10:32:946 INFO  Waiter:28 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-22 00:10:32:947 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 00:10:32:947 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 00:10:32:947 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:10:33:953 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:10:34:456 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-22 00:10:34:456 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-2] 2022-06-22 00:10:34:949 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:10:34:968 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:35:983 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:36:991 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:37:996 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:38:999 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:40:007 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:41:010 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:42:017 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:43:023 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:44:036 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:45:050 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:46:053 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:10:58:268 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:10:58:268 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:10:58:268 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:10:59:178 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:10:59:272 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:10:59:274 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-1-thread-1] 2022-06-22 00:10:59:275 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:10:59:277 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:10:59:776 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:11:04:279 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:11:04:280 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:11:04:281 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:11:04:282 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 00:11:04:282 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:11:04:281 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:11:04:282 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:04:286 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:04:286 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:04:287 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:05:274 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:11:05:795 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-22 00:11:05:795 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:11:06:266 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:06:266 DEBUG Waiter:23 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:11:06:266 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:11:06:298 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:11:11:273 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:11:11:273 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:11:11:274 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:11:11:274 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-2] 2022-06-22 00:11:11:274 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-1-thread-1] 2022-06-22 00:11:11:274 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-2-thread-1] 2022-06-22 00:11:11:274 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:11:275 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:11:276 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:11:11:276 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:11:11:678 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:11:11:788 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:11:12:075 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-3] 2022-06-22 00:13:22:556 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:13:22:556 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:13:22:556 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:13:23:463 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:13:23:556 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:13:23:569 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:13:23:663 DEBUG Waiter:25 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:13:23:664 INFO  Waiter:28 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:13:24:068 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:13:28:676 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:13:28:677 INFO  Waiter:30 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:13:28:677 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:13:28:677 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 00:13:28:677 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:13:28:677 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:13:28:779 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:28:880 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:28:989 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:29:099 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:29:569 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:13:30:180 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-22 00:13:30:180 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:13:30:557 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:30:667 DEBUG Waiter:25 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:13:30:668 INFO  Waiter:28 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:13:30:682 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:13:35:669 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:13:35:669 INFO  Waiter:30 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:13:35:670 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:13:35:670 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-3] 2022-06-22 00:13:35:670 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-2] 2022-06-22 00:13:35:670 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-2-thread-1] 2022-06-22 00:13:35:771 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:35:873 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:35:983 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:13:36:077 INFO  Guests:56 - Guest Zika: finished desert
+[pool-2-thread-1] 2022-06-22 00:13:36:093 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:13:36:171 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:13:36:484 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-2] 2022-06-22 00:13:50:790 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:13:50:790 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:13:50:790 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:13:51:707 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:13:51:802 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:13:51:802 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:51:804 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:13:51:805 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:13:52:304 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:13:56:807 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:13:56:807 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:13:56:808 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:13:56:808 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 00:13:56:808 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:13:56:808 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:13:56:808 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:56:810 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:56:810 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:56:810 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:57:792 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:13:58:309 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-22 00:13:58:309 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:13:58:797 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:13:58:798 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:13:58:798 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:13:58:813 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:14:03:810 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:14:03:811 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:14:03:812 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:14:03:812 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-2] 2022-06-22 00:14:03:812 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-22 00:14:03:812 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-2-thread-1] 2022-06-22 00:14:03:812 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:03:814 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:03:815 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:03:815 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:14:04:220 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:14:04:315 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:14:04:615 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-1] 2022-06-22 00:14:22:069 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:14:22:069 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 00:14:22:069 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-2-thread-1] 2022-06-22 00:14:23:072 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 00:14:23:088 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-1-thread-3] 2022-06-22 00:14:23:477 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-2] 2022-06-22 00:14:23:587 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:14:24:083 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:25:082 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:26:077 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:27:069 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:28:079 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:29:078 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:30:081 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:31:072 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:32:074 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-22 00:14:39:194 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:14:39:194 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 00:14:39:194 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 00:14:39:998 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 00:14:40:205 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 00:14:40:205 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:40:206 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:14:40:206 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:14:40:698 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 00:14:45:217 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:14:45:218 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:14:45:219 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:14:45:219 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 00:14:45:219 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 00:14:45:219 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 00:14:45:220 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:45:223 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:45:224 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:45:224 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:46:197 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:14:46:721 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-22 00:14:46:732 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-22 00:14:47:201 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:47:202 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 00:14:47:203 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 00:14:47:233 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 00:14:52:205 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 00:14:52:205 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 00:14:52:205 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:52:205 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-22 00:14:52:205 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-22 00:14:52:205 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-1] 2022-06-22 00:14:52:205 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-2-thread-1] 2022-06-22 00:14:52:206 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:52:207 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 00:14:52:207 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 00:14:52:613 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 00:14:52:721 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 00:14:53:007 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-2] 2022-06-22 14:48:37:593 INFO  Robot:59 - ROBOT 1 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 14:48:37:593 INFO  Robot:59 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 14:48:37:593 INFO  Robot:59 - ROBOT 1 started on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 14:48:37:595 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[3][2] in 1 color
+[pool-1-thread-2] 2022-06-22 14:48:37:595 INFO  Robot:77 - ROBOT 1: I give up on 0. move
+[pool-1-thread-1] 2022-06-22 14:48:37:596 INFO  Robot:71 - ROBOT 1 moved on position matrix[3][2]
+[pool-1-thread-3] 2022-06-22 14:48:37:596 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[3][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:48:37:596 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[0][3] in 1 color
+[pool-1-thread-3] 2022-06-22 14:48:37:596 INFO  Robot:71 - ROBOT 1 moved on position matrix[3][1]
+[pool-1-thread-2] 2022-06-22 14:48:37:597 INFO  Robot:71 - ROBOT 1 moved on position matrix[0][3]
+[pool-1-thread-3] 2022-06-22 14:48:37:597 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[4][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:48:37:597 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[0][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:48:37:597 INFO  Robot:71 - ROBOT 1 moved on position matrix[4][1]
+[pool-1-thread-2] 2022-06-22 14:48:37:598 INFO  Robot:71 - ROBOT 1 moved on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 14:48:37:598 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[4][0] in 1 color
+[pool-1-thread-2] 2022-06-22 14:48:37:598 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[1][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:48:37:598 INFO  Robot:71 - ROBOT 1 moved on position matrix[4][0]
+[pool-1-thread-2] 2022-06-22 14:48:37:599 INFO  Robot:71 - ROBOT 1 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 14:48:37:599 INFO  Robot:69 - ROBOT 1 I'm coloring matrix[3][0] in 1 color
+[pool-1-thread-3] 2022-06-22 14:48:37:599 INFO  Robot:71 - ROBOT 1 moved on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 14:51:37:121 INFO  Robot:59 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 14:51:37:121 INFO  Robot:59 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:51:37:121 INFO  Robot:59 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 14:51:37:123 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-1] 2022-06-22 14:51:37:122 INFO  Robot:63 - ROBOT 1: I want to move on matrix[3][2] 
+[pool-1-thread-3] 2022-06-22 14:51:37:123 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:51:37:123 INFO  Robot:63 - ROBOT 2: I want to move on matrix[-1][4] 
+[pool-1-thread-3] 2022-06-22 14:51:37:124 INFO  Robot:72 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 14:51:37:123 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[3][2] in 1 color
+[pool-1-thread-3] 2022-06-22 14:51:37:124 INFO  Robot:63 - ROBOT 3: I want to move on matrix[4][1] 
+[pool-1-thread-2] 2022-06-22 14:51:37:124 INFO  Robot:81 - ROBOT 2: I give up on 0. move
+[pool-1-thread-3] 2022-06-22 14:51:37:125 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[4][1] in 1 color
+[pool-1-thread-1] 2022-06-22 14:51:37:125 INFO  Robot:72 - ROBOT 1 moved on position matrix[3][2]
+[pool-1-thread-3] 2022-06-22 14:51:37:126 INFO  Robot:72 - ROBOT 3 moved on position matrix[4][1]
+[pool-1-thread-2] 2022-06-22 14:51:37:125 INFO  Robot:63 - ROBOT 2: I want to move on matrix[0][3] 
+[pool-1-thread-3] 2022-06-22 14:51:37:126 INFO  Robot:63 - ROBOT 3: I want to move on matrix[4][0] 
+[pool-1-thread-1] 2022-06-22 14:51:37:126 INFO  Robot:63 - ROBOT 1: I want to move on matrix[3][1] 
+[pool-1-thread-3] 2022-06-22 14:51:37:127 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[4][0] in 1 color
+[pool-1-thread-2] 2022-06-22 14:51:37:126 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[0][3] in 1 color
+[pool-1-thread-3] 2022-06-22 14:51:37:127 INFO  Robot:72 - ROBOT 3 moved on position matrix[4][0]
+[pool-1-thread-2] 2022-06-22 14:51:37:127 INFO  Robot:72 - ROBOT 2 moved on position matrix[0][3]
+[pool-1-thread-3] 2022-06-22 14:51:37:128 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-2] 2022-06-22 14:51:37:128 INFO  Robot:63 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-3] 2022-06-22 14:51:37:128 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][0] in 1 color
+[pool-1-thread-2] 2022-06-22 14:51:37:128 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[0][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:51:37:129 INFO  Robot:72 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:51:37:129 INFO  Robot:72 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 14:51:37:129 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 14:51:37:129 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 1 color
+[pool-1-thread-2] 2022-06-22 14:51:37:130 INFO  Robot:72 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-1] 2022-06-22 14:53:15:998 INFO  Robot:59 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 14:53:15:998 INFO  Robot:59 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:53:15:998 INFO  Robot:59 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 14:53:15:999 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-1] 2022-06-22 14:53:15:999 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-3] 2022-06-22 14:53:16:000 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:53:16:000 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 14:53:16:000 INFO  Robot:72 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 14:53:16:000 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 14:53:16:001 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 14:53:16:001 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:53:16:001 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 14:53:16:001 INFO  Robot:72 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-3] 2022-06-22 14:53:16:002 INFO  Robot:72 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 14:53:16:001 INFO  Robot:72 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 14:53:16:002 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-1] 2022-06-22 14:53:16:002 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-3] 2022-06-22 14:53:16:002 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][0] in 1 color
+[pool-1-thread-2] 2022-06-22 14:53:16:002 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-3] 2022-06-22 14:53:16:003 INFO  Robot:72 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 14:53:16:002 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-3] 2022-06-22 14:53:16:003 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-2] 2022-06-22 14:53:16:003 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][3] in 1 color
+[pool-1-thread-3] 2022-06-22 14:53:16:003 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][0] in 1 color
+[pool-1-thread-1] 2022-06-22 14:53:16:003 INFO  Robot:72 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-3] 2022-06-22 14:53:16:004 INFO  Robot:72 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:53:16:004 INFO  Robot:72 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-1] 2022-06-22 14:53:16:004 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 14:53:16:004 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 14:55:12:176 INFO  Robot:59 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-2] 2022-06-22 14:55:12:176 INFO  Robot:59 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 14:55:12:176 INFO  Robot:59 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:55:12:178 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 14:55:12:178 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-2] 2022-06-22 14:55:12:179 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:55:12:178 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 14:55:12:179 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-1] 2022-06-22 14:55:12:179 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-2] 2022-06-22 14:55:12:179 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-3] 2022-06-22 14:55:12:179 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:55:12:180 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][3] in 1 color
+[pool-1-thread-1] 2022-06-22 14:55:12:180 INFO  Robot:73 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 14:55:12:180 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 14:55:12:180 INFO  Robot:73 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-2] 2022-06-22 14:55:12:181 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 14:55:12:181 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-2] 2022-06-22 14:55:12:181 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:55:12:181 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 14:55:12:182 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-2] 2022-06-22 14:55:12:182 INFO  Robot:63 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-1] 2022-06-22 14:55:12:181 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:55:12:182 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[0][4] in 1 color
+[pool-1-thread-3] 2022-06-22 14:55:12:182 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:55:12:183 INFO  Robot:73 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 14:55:12:183 INFO  Robot:73 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-3] 2022-06-22 14:55:12:183 INFO  Robot:73 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 14:55:12:183 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 14:55:12:184 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-3] 2022-06-22 14:55:12:184 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-1] 2022-06-22 14:55:12:184 INFO  Robot:73 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-3] 2022-06-22 14:55:12:184 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][0] in 1 color
+[pool-1-thread-1] 2022-06-22 14:55:12:184 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-3] 2022-06-22 14:55:12:185 INFO  Robot:73 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 14:55:12:185 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-3] 2022-06-22 14:55:12:185 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-1] 2022-06-22 14:55:12:185 INFO  Robot:73 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 14:55:12:185 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][0] in 1 color
+[pool-1-thread-3] 2022-06-22 14:55:12:186 INFO  Robot:73 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:56:15:574 INFO  Robot:59 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 14:56:15:574 INFO  Robot:59 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 14:56:15:574 INFO  Robot:59 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 14:56:15:576 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 14:56:15:576 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 14:56:15:577 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-1] 2022-06-22 14:56:15:576 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-3] 2022-06-22 14:56:15:577 INFO  Robot:73 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-2] 2022-06-22 14:56:15:577 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-3] 2022-06-22 14:56:15:577 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-3] 2022-06-22 14:56:15:578 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-1] 2022-06-22 14:56:15:577 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 14:56:15:578 INFO  Robot:73 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 14:56:15:578 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 14:56:15:579 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-1] 2022-06-22 14:56:15:578 INFO  Robot:73 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-3] 2022-06-22 14:56:15:579 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-2] 2022-06-22 14:56:15:579 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-2] 2022-06-22 14:56:15:580 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 14:56:15:579 INFO  Robot:73 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 14:56:15:579 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-3] 2022-06-22 14:56:15:580 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-2] 2022-06-22 14:56:15:580 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 14:56:15:580 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-1] 2022-06-22 14:56:15:580 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-3] 2022-06-22 14:56:15:581 INFO  Robot:73 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 14:56:15:581 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 14:56:15:581 INFO  Robot:73 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 14:56:15:581 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 14:56:15:582 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 14:56:15:582 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-1] 2022-06-22 14:56:15:582 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-2] 2022-06-22 14:56:15:582 INFO  Robot:63 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-1] 2022-06-22 14:56:15:582 INFO  Robot:73 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 14:56:15:583 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-1] 2022-06-22 14:56:15:583 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-2] 2022-06-22 14:56:15:583 INFO  Robot:73 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 14:56:15:583 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-1] 2022-06-22 14:56:15:583 INFO  Robot:73 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:02:44:235 INFO  Robot:59 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-3] 2022-06-22 15:02:44:236 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-1] 2022-06-22 15:02:44:235 INFO  Robot:59 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-2] 2022-06-22 15:02:44:235 INFO  Robot:59 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:02:44:237 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-1] 2022-06-22 15:02:44:237 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 15:02:44:236 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-1] 2022-06-22 15:02:44:237 INFO  Robot:73 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 15:02:44:237 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 15:02:44:238 INFO  Robot:63 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-3] 2022-06-22 15:02:44:238 INFO  Robot:73 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:02:44:238 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-2] 2022-06-22 15:02:44:238 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:02:44:239 INFO  Robot:73 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-1] 2022-06-22 15:02:44:239 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-3] 2022-06-22 15:02:44:239 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:02:44:239 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-2] 2022-06-22 15:02:44:239 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:02:44:240 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:02:44:240 INFO  Robot:73 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 15:02:44:240 INFO  Robot:73 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-3] 2022-06-22 15:02:44:241 INFO  Robot:63 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-2] 2022-06-22 15:02:44:240 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-3] 2022-06-22 15:02:44:241 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-1] 2022-06-22 15:02:44:241 INFO  Robot:63 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-3] 2022-06-22 15:02:44:242 INFO  Robot:73 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-2] 2022-06-22 15:02:44:242 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 15:02:44:242 INFO  Robot:63 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-1] 2022-06-22 15:02:44:242 INFO  Robot:70 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-3] 2022-06-22 15:02:44:243 INFO  Robot:70 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-2] 2022-06-22 15:02:44:243 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:02:44:243 INFO  Robot:73 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 15:02:44:243 INFO  Robot:73 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:02:44:243 INFO  Robot:78 - ROBOT 3: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:02:44:243 INFO  Robot:63 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 15:02:44:244 INFO  Robot:78 - ROBOT 1: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:02:44:244 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:02:44:245 INFO  Robot:73 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-2] 2022-06-22 15:02:44:245 INFO  Robot:63 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-2] 2022-06-22 15:02:44:245 INFO  Robot:70 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:02:44:245 INFO  Robot:73 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 15:02:44:245 INFO  Robot:78 - ROBOT 2: I finished all moves
+[pool-1-thread-1] 2022-06-22 15:04:07:535 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:04:07:535 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 15:04:07:535 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:04:08:546 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-3] 2022-06-22 15:04:08:546 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 15:04:08:546 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 15:04:08:546 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-1] 2022-06-22 15:04:08:546 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 15:04:08:546 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-2] 2022-06-22 15:04:08:546 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:04:08:547 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 15:04:08:547 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-2] 2022-06-22 15:04:09:548 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-1] 2022-06-22 15:04:09:548 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-3] 2022-06-22 15:04:09:548 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:04:09:549 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-2] 2022-06-22 15:04:09:548 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-1] 2022-06-22 15:04:09:549 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-3] 2022-06-22 15:04:09:549 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-2] 2022-06-22 15:04:09:549 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:04:09:550 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:04:10:562 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 15:04:10:562 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-3] 2022-06-22 15:04:10:562 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-1] 2022-06-22 15:04:10:562 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-2] 2022-06-22 15:04:10:562 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:04:10:563 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-3] 2022-06-22 15:04:10:562 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-2] 2022-06-22 15:04:10:563 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:04:10:563 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-2] 2022-06-22 15:04:11:567 INFO  Robot:65 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-2] 2022-06-22 15:04:11:567 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:04:11:567 INFO  Robot:75 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 15:04:11:567 INFO  Robot:80 - ROBOT 2: I finished all moves
+[pool-1-thread-1] 2022-06-22 15:04:11:574 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-3] 2022-06-22 15:04:11:574 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-1] 2022-06-22 15:04:11:574 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-3] 2022-06-22 15:04:11:574 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-1] 2022-06-22 15:04:11:574 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:04:11:574 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 15:04:11:574 INFO  Robot:80 - ROBOT 1: I finished all moves
+[pool-1-thread-3] 2022-06-22 15:04:11:574 INFO  Robot:80 - ROBOT 3: I finished all moves
+[pool-1-thread-1] 2022-06-22 15:04:50:358 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:04:50:358 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 15:04:50:358 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:04:51:373 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-3] 2022-06-22 15:04:51:373 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 15:04:51:373 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 15:04:51:373 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-1] 2022-06-22 15:04:51:373 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 15:04:51:373 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-2] 2022-06-22 15:04:51:373 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:04:51:374 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 15:04:51:374 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-1] 2022-06-22 15:04:52:376 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-1] 2022-06-22 15:04:52:376 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:04:52:376 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 15:04:52:389 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-3] 2022-06-22 15:04:52:389 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 15:04:52:389 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 15:04:52:389 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:04:52:390 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:04:52:390 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-1] 2022-06-22 15:04:53:387 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:04:53:387 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:04:53:387 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:04:53:403 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 15:04:53:404 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-3] 2022-06-22 15:04:53:403 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-3] 2022-06-22 15:04:53:405 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-2] 2022-06-22 15:04:53:404 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:04:53:405 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 15:04:54:396 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-1] 2022-06-22 15:04:54:396 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:04:54:397 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-2] 2022-06-22 15:04:54:406 INFO  Robot:65 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-2] 2022-06-22 15:04:54:406 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:04:54:406 INFO  Robot:75 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 15:04:54:412 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-3] 2022-06-22 15:04:54:412 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:04:54:412 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 15:05:29:862 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:05:29:862 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 15:05:29:862 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:05:30:867 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-2] 2022-06-22 15:05:30:867 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 15:05:30:867 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-2] 2022-06-22 15:05:30:867 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:05:30:867 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-1] 2022-06-22 15:05:30:867 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-3] 2022-06-22 15:05:30:868 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-3] 2022-06-22 15:05:30:868 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:05:30:868 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:05:31:868 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-1] 2022-06-22 15:05:31:868 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:05:31:868 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-3] 2022-06-22 15:05:31:883 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 15:05:31:883 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-2] 2022-06-22 15:05:31:883 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 15:05:31:883 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-2] 2022-06-22 15:05:31:883 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:05:31:883 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 15:05:32:882 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:05:32:882 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:05:32:882 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:05:32:884 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 15:05:32:884 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:05:32:884 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:05:32:898 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-3] 2022-06-22 15:05:32:898 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:05:32:898 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 15:05:33:890 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-2] 2022-06-22 15:05:33:890 INFO  Robot:65 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-1] 2022-06-22 15:05:33:890 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-2] 2022-06-22 15:05:33:890 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:05:33:891 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-2] 2022-06-22 15:05:33:891 INFO  Robot:75 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:05:33:896 DEBUG Robot:80 - ROBOT 1: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:05:33:896 DEBUG Robot:80 - ROBOT 2: I finished all moves
+[pool-1-thread-3] 2022-06-22 15:05:33:905 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-3] 2022-06-22 15:05:33:905 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:05:33:905 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-3] 2022-06-22 15:05:33:905 DEBUG Robot:80 - ROBOT 3: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:07:07:238 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:07:07:238 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:07:07:238 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 15:07:08:243 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 15:07:08:243 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:07:08:243 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:07:08:251 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-1] 2022-06-22 15:07:08:251 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-3] 2022-06-22 15:07:08:251 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:07:08:251 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:07:08:251 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:07:08:252 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 15:07:09:250 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-2] 2022-06-22 15:07:09:250 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-2] 2022-06-22 15:07:09:250 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-1] 2022-06-22 15:07:09:265 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-3] 2022-06-22 15:07:09:265 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-3] 2022-06-22 15:07:09:265 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-1] 2022-06-22 15:07:09:265 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:07:09:266 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-3] 2022-06-22 15:07:09:266 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:07:10:262 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 15:07:10:262 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:07:10:262 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:07:10:277 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-3] 2022-06-22 15:07:10:277 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-1] 2022-06-22 15:07:10:277 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:07:10:277 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-3] 2022-06-22 15:07:10:277 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 15:07:10:278 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:07:11:272 INFO  Robot:65 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-2] 2022-06-22 15:07:11:272 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:07:11:272 INFO  Robot:75 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 15:07:11:273 DEBUG Robot:80 - ROBOT 2: I finished all moves
+[pool-1-thread-3] 2022-06-22 15:07:11:279 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-3] 2022-06-22 15:07:11:279 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:07:11:279 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-3] 2022-06-22 15:07:11:279 DEBUG Robot:80 - ROBOT 3: I finished all moves
+[pool-1-thread-1] 2022-06-22 15:07:11:288 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-1] 2022-06-22 15:07:11:288 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:07:11:288 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-1] 2022-06-22 15:07:11:288 DEBUG Robot:80 - ROBOT 1: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:07:45:123 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 15:07:45:123 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 15:07:45:123 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-1] 2022-06-22 15:07:46:136 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-2] 2022-06-22 15:07:46:136 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 15:07:46:136 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 15:07:46:136 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:07:46:136 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-2] 2022-06-22 15:07:46:136 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:07:46:136 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-1] 2022-06-22 15:07:46:137 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-3] 2022-06-22 15:07:46:137 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:07:47:138 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-1] 2022-06-22 15:07:47:138 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:07:47:138 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 15:07:47:151 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-3] 2022-06-22 15:07:47:151 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 15:07:47:151 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 15:07:47:151 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-2] 2022-06-22 15:07:47:151 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:07:47:151 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 15:08:20:105 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:08:20:105 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 15:08:20:105 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 15:08:21:113 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 15:08:21:113 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-1] 2022-06-22 15:08:21:113 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 15:08:21:113 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-1] 2022-06-22 15:08:21:113 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 15:08:21:113 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:08:21:114 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:08:21:114 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:08:21:115 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:08:22:123 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-1] 2022-06-22 15:08:22:123 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:08:22:123 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 15:08:22:123 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-2] 2022-06-22 15:08:22:123 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 15:08:22:123 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 15:08:22:124 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:08:22:124 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:08:22:125 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 15:08:23:124 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:08:23:124 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:08:23:124 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:08:23:125 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 15:08:23:125 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:08:23:125 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:08:23:135 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-3] 2022-06-22 15:08:23:135 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:08:23:135 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-2] 2022-06-22 15:08:24:131 INFO  Robot:65 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-1] 2022-06-22 15:08:24:131 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-2] 2022-06-22 15:08:24:131 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-1] 2022-06-22 15:08:24:131 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-2] 2022-06-22 15:08:24:131 INFO  Robot:75 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:08:24:131 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-1] 2022-06-22 15:08:24:135 DEBUG Robot:80 - ROBOT 1: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:08:24:135 DEBUG Robot:80 - ROBOT 2: I finished all moves
+[pool-1-thread-3] 2022-06-22 15:08:24:146 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-3] 2022-06-22 15:08:24:146 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:08:24:146 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-3] 2022-06-22 15:08:24:146 DEBUG Robot:80 - ROBOT 3: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:08:55:995 INFO  Robot:60 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 15:08:55:995 INFO  Robot:60 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 15:08:55:995 INFO  Robot:60 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-2] 2022-06-22 15:08:56:999 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 15:08:56:999 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 15:08:56:999 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-3] 2022-06-22 15:08:56:999 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-2] 2022-06-22 15:08:56:999 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:08:57:000 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:08:57:012 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-1] 2022-06-22 15:08:57:012 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:08:57:012 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-2] 2022-06-22 15:08:58:007 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-3] 2022-06-22 15:08:58:007 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 15:08:58:007 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-3] 2022-06-22 15:08:58:007 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-2] 2022-06-22 15:08:58:008 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:08:58:008 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 15:08:58:023 INFO  Robot:65 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-1] 2022-06-22 15:08:58:023 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:08:58:023 INFO  Robot:75 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 15:08:59:009 INFO  Robot:65 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-2] 2022-06-22 15:08:59:009 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:08:59:009 INFO  Robot:75 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:08:59:015 INFO  Robot:65 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-3] 2022-06-22 15:08:59:015 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:08:59:015 INFO  Robot:75 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 15:08:59:031 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:08:59:031 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:08:59:032 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:09:00:012 INFO  Robot:65 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-2] 2022-06-22 15:09:00:012 INFO  Robot:72 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:09:00:012 INFO  Robot:75 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 15:09:00:017 DEBUG Robot:80 - ROBOT 2: I finished all moves
+[pool-1-thread-3] 2022-06-22 15:09:00:027 INFO  Robot:65 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-3] 2022-06-22 15:09:00:027 INFO  Robot:72 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:09:00:028 INFO  Robot:75 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-3] 2022-06-22 15:09:00:028 DEBUG Robot:80 - ROBOT 3: I finished all moves
+[pool-1-thread-1] 2022-06-22 15:09:00:043 INFO  Robot:65 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-1] 2022-06-22 15:09:00:043 INFO  Robot:72 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:09:00:043 INFO  Robot:75 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-1] 2022-06-22 15:09:00:043 DEBUG Robot:80 - ROBOT 1: I finished all moves
+[pool-1-thread-2] 2022-06-22 15:21:58:481 INFO  Robot:63 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-1] 2022-06-22 15:21:58:481 INFO  Robot:63 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 15:21:58:481 INFO  Robot:63 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 15:21:59:484 INFO  Robot:68 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 15:21:59:484 INFO  Robot:68 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-3] 2022-06-22 15:21:59:485 INFO  Robot:75 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-2] 2022-06-22 15:21:59:484 INFO  Robot:75 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:21:59:486 INFO  Robot:78 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:21:59:485 INFO  Robot:78 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 15:21:59:491 INFO  Robot:68 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-1] 2022-06-22 15:21:59:491 INFO  Robot:75 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:21:59:492 INFO  Robot:78 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-3] 2022-06-22 15:22:00:487 INFO  Robot:68 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 15:22:00:487 INFO  Robot:68 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-2] 2022-06-22 15:22:00:488 INFO  Robot:75 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-2] 2022-06-22 15:22:00:488 INFO  Robot:78 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 15:22:00:487 INFO  Robot:75 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-3] 2022-06-22 15:22:00:488 INFO  Robot:78 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 15:22:00:503 INFO  Robot:68 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-1] 2022-06-22 15:22:00:504 INFO  Robot:75 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:22:00:504 INFO  Robot:78 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 15:22:01:502 INFO  Robot:68 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 15:22:01:502 INFO  Robot:68 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-2] 2022-06-22 15:22:01:502 INFO  Robot:75 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-3] 2022-06-22 15:22:01:502 INFO  Robot:75 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-2] 2022-06-22 15:22:01:502 INFO  Robot:78 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 15:22:01:502 INFO  Robot:78 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 15:22:01:517 INFO  Robot:68 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-1] 2022-06-22 15:22:01:517 INFO  Robot:75 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 15:22:01:517 INFO  Robot:78 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-2] 2022-06-22 15:22:02:503 INFO  Robot:68 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-2] 2022-06-22 15:22:02:503 INFO  Robot:75 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-2] 2022-06-22 15:22:02:504 INFO  Robot:78 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 15:22:02:512 DEBUG Robot:83 - ROBOT 2: I finished all moves
+[pool-1-thread-3] 2022-06-22 15:22:02:517 INFO  Robot:68 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-3] 2022-06-22 15:22:02:517 INFO  Robot:75 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-3] 2022-06-22 15:22:02:517 INFO  Robot:78 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-3] 2022-06-22 15:22:02:517 DEBUG Robot:83 - ROBOT 3: I finished all moves
+[pool-1-thread-1] 2022-06-22 15:22:02:531 INFO  Robot:68 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-1] 2022-06-22 15:22:02:531 INFO  Robot:75 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-1] 2022-06-22 15:22:02:531 INFO  Robot:78 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-1] 2022-06-22 15:22:02:531 DEBUG Robot:83 - ROBOT 1: I finished all moves
+[pool-1-thread-1] 2022-06-22 22:02:14:448 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:02:14:448 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:02:14:448 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:02:15:260 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 22:02:15:464 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:02:15:464 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:15:465 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:02:15:466 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:02:15:967 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 22:02:20:467 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:02:20:467 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 22:02:20:468 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 22:02:20:468 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 22:02:20:468 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 22:02:20:468 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:02:20:468 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:20:470 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:20:471 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:20:471 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:21:455 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 22:02:21:974 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-22 22:02:21:974 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-22 22:02:22:448 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:22:448 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:02:22:448 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:02:22:479 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 22:02:27:458 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:02:27:459 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-22 22:02:27:459 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 22:02:27:459 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-3] 2022-06-22 22:02:27:459 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-2] 2022-06-22 22:02:27:459 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-2-thread-1] 2022-06-22 22:02:27:459 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:27:461 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:27:461 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:02:27:462 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 22:02:27:869 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 22:02:27:962 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 22:02:28:272 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-3] 2022-06-22 22:07:53:835 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-22 22:07:53:835 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:07:53:835 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:07:54:648 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:07:54:840 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:07:54:840 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:07:54:840 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-1] 2022-06-22 22:07:54:856 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-1-thread-2] 2022-06-22 22:07:55:344 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 22:07:59:855 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:07:59:856 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-22 22:07:59:857 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:07:59:857 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 22:07:59:857 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 22:07:59:857 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-2] 2022-06-22 22:07:59:859 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:07:59:861 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:07:59:862 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:07:59:863 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:08:00:840 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 22:08:01:360 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-22 22:08:01:375 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-2-thread-3] 2022-06-22 22:08:01:839 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:08:01:839 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-3] 2022-06-22 22:08:01:840 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:08:01:858 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-22 22:08:06:846 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-3] 2022-06-22 22:08:06:847 INFO  Waiter:29 - Waiter: serve meals
+[pool-2-thread-3] 2022-06-22 22:08:06:848 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 22:08:06:848 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-1] 2022-06-22 22:08:06:848 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-2] 2022-06-22 22:08:06:848 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-2-thread-3] 2022-06-22 22:08:06:848 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:08:06:851 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:08:06:852 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:08:06:853 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-22 22:08:07:250 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 22:08:07:358 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 22:08:07:652 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-1] 2022-06-22 22:13:03:313 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:13:03:313 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:13:03:313 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:13:04:123 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 22:13:04:328 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:13:04:328 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:13:04:329 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:13:04:329 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:13:04:832 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 22:13:09:343 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:13:09:343 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-22 22:13:09:345 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 22:13:09:345 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 22:13:09:345 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:13:10:347 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 22:13:10:847 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-22 22:13:10:856 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-2] 2022-06-22 22:13:11:346 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-2-thread-2] 2022-06-22 22:13:11:356 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-22 22:13:12:360 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:13:374 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:14:376 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:15:384 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:16:388 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:17:394 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:18:408 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:19:415 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:20:428 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:21:430 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:22:443 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:23:460 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:24:462 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:25:472 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:26:483 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:27:489 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:28:502 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:29:504 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:30:512 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:31:517 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:32:529 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:33:530 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:34:543 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:35:547 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:36:561 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:37:570 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:38:573 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:39:585 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:40:597 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-3] 2022-06-22 22:13:41:606 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-22 22:17:07:803 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:17:07:804 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:17:07:804 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:17:08:612 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 22:17:08:818 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:17:08:818 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (1)
+[pool-2-thread-1] 2022-06-22 22:17:08:820 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:17:08:821 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:17:09:310 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 22:17:13:823 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:17:13:823 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-22 22:17:13:824 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 22:17:13:824 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 22:17:13:824 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:17:14:831 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-1] 2022-06-22 22:17:15:326 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-22 22:17:15:332 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-2] 2022-06-22 22:17:15:826 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-2-thread-2] 2022-06-22 22:17:15:846 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-1] 2022-06-22 22:17:16:847 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:17:864 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:18:866 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:19:868 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:20:882 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:21:888 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:22:902 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:17:23:916 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-1] 2022-06-22 22:26:33:889 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:26:33:889 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:26:33:889 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:26:34:693 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 22:26:34:899 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:26:34:899 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (1)
+[pool-2-thread-1] 2022-06-22 22:26:34:900 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:26:34:901 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:26:35:393 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-1-thread-2] 2022-06-22 22:26:35:394 INFO  Guests:33 - Parties: 3
+[pool-3-thread-1] 2022-06-22 22:26:39:914 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:26:39:915 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-3] 2022-06-22 22:26:39:916 INFO  Guests:42 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 22:26:39:916 INFO  Guests:42 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 22:26:39:916 INFO  Guests:42 - Guest Pera: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:26:40:918 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-3] 2022-06-22 22:26:41:419 INFO  Guests:44 - Guest Zika: finished mainCourse
+[pool-1-thread-3] 2022-06-22 22:26:41:419 INFO  Guests:47 - Guest Zika is waiting on second barrier
+[pool-1-thread-1] 2022-06-22 22:26:41:421 INFO  Guests:44 - Guest Pera: finished mainCourse
+[pool-1-thread-1] 2022-06-22 22:26:41:421 INFO  Guests:47 - Guest Pera is waiting on second barrier
+[pool-2-thread-2] 2022-06-22 22:26:41:923 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (2)
+[pool-2-thread-2] 2022-06-22 22:26:41:923 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-1-thread-2] 2022-06-22 22:26:41:923 INFO  Guests:44 - Guest Mika: finished mainCourse
+[pool-1-thread-2] 2022-06-22 22:26:41:924 INFO  Guests:47 - Guest Mika is waiting on second barrier
+[pool-2-thread-2] 2022-06-22 22:26:41:924 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-1] 2022-06-22 22:26:41:925 INFO  Guests:49 - Guest Pera is waiting for second meal
+[pool-1-thread-3] 2022-06-22 22:26:41:925 INFO  Guests:49 - Guest Zika is waiting for second meal
+[pool-1-thread-2] 2022-06-22 22:26:41:924 INFO  Guests:49 - Guest Mika is waiting for second meal
+[pool-3-thread-1] 2022-06-22 22:26:46:936 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-2] 2022-06-22 22:26:46:936 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-1] 2022-06-22 22:26:46:937 INFO  Guests:57 - Guest Pera: starting the desert
+[pool-1-thread-2] 2022-06-22 22:26:46:937 INFO  Guests:57 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-22 22:26:46:937 INFO  Guests:57 - Guest Zika: starting the desert
+[pool-1-thread-3] 2022-06-22 22:26:47:341 INFO  Guests:59 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-22 22:26:47:438 INFO  Guests:59 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-22 22:26:47:750 INFO  Guests:59 - Guest Mika: finished desert
+[pool-1-thread-1] 2022-06-22 22:29:05:202 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:29:05:202 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:29:05:202 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:29:06:006 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 22:29:06:214 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:29:06:214 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (1)
+[pool-2-thread-1] 2022-06-22 22:29:06:215 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:29:06:215 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:29:06:719 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-22 22:29:11:217 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:29:11:218 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-22 22:29:11:219 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-3] 2022-06-22 22:29:11:219 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 22:29:11:219 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:29:12:227 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-3] 2022-06-22 22:29:12:723 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-3] 2022-06-22 22:29:12:723 INFO  Guests:46 - Guest Zika is waiting on second barrier
+[pool-1-thread-1] 2022-06-22 22:29:12:727 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-1-thread-1] 2022-06-22 22:29:12:727 INFO  Guests:46 - Guest Pera is waiting on second barrier
+[pool-1-thread-2] 2022-06-22 22:29:13:220 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-1-thread-2] 2022-06-22 22:29:13:220 INFO  Guests:46 - Guest Mika is waiting on second barrier
+[pool-1-thread-2] 2022-06-22 22:29:13:221 INFO  Guests:48 - Guest Mika is waiting for second meal
+[pool-1-thread-1] 2022-06-22 22:29:13:221 INFO  Guests:48 - Guest Pera is waiting for second meal
+[pool-1-thread-3] 2022-06-22 22:29:13:221 INFO  Guests:48 - Guest Zika is waiting for second meal
+[pool-2-thread-2] 2022-06-22 22:29:13:237 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-1] 2022-06-22 22:29:14:240 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:15:256 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:16:269 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:17:279 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:18:293 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:19:305 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:20:318 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:21:331 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:29:22:332 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-1] 2022-06-22 22:31:09:246 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-22 22:31:09:246 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:31:09:246 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-3] 2022-06-22 22:31:10:050 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-22 22:31:10:252 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-22 22:31:10:252 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (1)
+[pool-2-thread-1] 2022-06-22 22:31:10:252 DEBUG Waiter:24 - Waiter: I'M NOTIFYING CHIEF TO PREPARE NEXT MEAL
+[pool-2-thread-1] 2022-06-22 22:31:10:253 INFO  Waiter:27 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-22 22:31:10:751 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-1-thread-2] 2022-06-22 22:31:10:752 INFO  Guests:33 - Parties: 3
+[pool-3-thread-1] 2022-06-22 22:31:15:268 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-22 22:31:15:269 INFO  Waiter:29 - Waiter: serve meals
+[pool-1-thread-3] 2022-06-22 22:31:15:270 INFO  Guests:42 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-22 22:31:15:270 INFO  Guests:42 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-22 22:31:15:270 INFO  Guests:42 - Guest Pera: starting the mainCourse
+[pool-2-thread-1] 2022-06-22 22:31:16:283 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-3] 2022-06-22 22:31:16:772 INFO  Guests:44 - Guest Zika: finished mainCourse
+[pool-1-thread-3] 2022-06-22 22:31:16:773 INFO  Guests:47 - Guest Zika is waiting on second barrier
+[pool-1-thread-1] 2022-06-22 22:31:16:781 INFO  Guests:44 - Guest Pera: finished mainCourse
+[pool-1-thread-1] 2022-06-22 22:31:16:781 INFO  Guests:47 - Guest Pera is waiting on second barrier
+[pool-1-thread-2] 2022-06-22 22:31:17:273 INFO  Guests:44 - Guest Mika: finished mainCourse
+[pool-1-thread-2] 2022-06-22 22:31:17:273 INFO  Guests:47 - Guest Mika is waiting on second barrier
+[pool-1-thread-2] 2022-06-22 22:31:17:274 INFO  Guests:49 - Guest Mika is waiting for second meal
+[pool-1-thread-1] 2022-06-22 22:31:17:274 INFO  Guests:49 - Guest Pera is waiting for second meal
+[pool-1-thread-3] 2022-06-22 22:31:17:274 INFO  Guests:49 - Guest Zika is waiting for second meal
+[pool-2-thread-2] 2022-06-22 22:31:17:295 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-1] 2022-06-22 22:31:18:306 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:31:19:319 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:31:20:333 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:31:21:341 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:31:22:343 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:31:23:347 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-2-thread-3] 2022-06-22 22:31:24:364 INFO  Waiter:22 - Waiter: I'm checking if enough guests have finished the meal (0)
+[pool-1-thread-2] 2022-06-22 22:44:06:769 INFO  Robot:64 - ROBOT 2 started on position matrix[0][4]
+[pool-1-thread-3] 2022-06-22 22:44:06:769 INFO  Robot:64 - ROBOT 3 started on position matrix[3][0]
+[pool-1-thread-1] 2022-06-22 22:44:06:769 INFO  Robot:64 - ROBOT 1 started on position matrix[2][2]
+[pool-1-thread-3] 2022-06-22 22:44:07:786 INFO  Robot:69 - ROBOT 3: I want to move on matrix[3][1] 
+[pool-1-thread-2] 2022-06-22 22:44:07:786 INFO  Robot:69 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-1] 2022-06-22 22:44:07:786 INFO  Robot:69 - ROBOT 1: I want to move on matrix[1][2] 
+[pool-1-thread-2] 2022-06-22 22:44:07:787 INFO  Robot:77 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-3] 2022-06-22 22:44:07:786 INFO  Robot:77 - ROBOT 3 I'm coloring matrix[3][1] in 3 color
+[pool-1-thread-2] 2022-06-22 22:44:07:788 INFO  Robot:80 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-1] 2022-06-22 22:44:07:787 INFO  Robot:77 - ROBOT 1 I'm coloring matrix[1][2] in 1 color
+[pool-1-thread-3] 2022-06-22 22:44:07:788 INFO  Robot:80 - ROBOT 3 moved on position matrix[3][1]
+[pool-1-thread-1] 2022-06-22 22:44:07:790 INFO  Robot:80 - ROBOT 1 moved on position matrix[1][2]
+[pool-1-thread-3] 2022-06-22 22:44:08:791 INFO  Robot:69 - ROBOT 3: I want to move on matrix[2][1] 
+[pool-1-thread-3] 2022-06-22 22:44:08:791 INFO  Robot:77 - ROBOT 3 I'm coloring matrix[2][1] in 3 color
+[pool-1-thread-3] 2022-06-22 22:44:08:792 INFO  Robot:80 - ROBOT 3 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 22:44:08:796 INFO  Robot:69 - ROBOT 1: I want to move on matrix[1][1] 
+[pool-1-thread-2] 2022-06-22 22:44:08:796 INFO  Robot:69 - ROBOT 2: I want to move on matrix[1][3] 
+[pool-1-thread-1] 2022-06-22 22:44:08:796 INFO  Robot:77 - ROBOT 1 I'm coloring matrix[1][1] in 1 color
+[pool-1-thread-2] 2022-06-22 22:44:08:797 INFO  Robot:77 - ROBOT 2 I'm coloring matrix[1][3] in 2 color
+[pool-1-thread-1] 2022-06-22 22:44:08:798 INFO  Robot:80 - ROBOT 1 moved on position matrix[1][1]
+[pool-1-thread-2] 2022-06-22 22:44:08:798 INFO  Robot:80 - ROBOT 2 moved on position matrix[1][3]
+[pool-1-thread-3] 2022-06-22 22:44:09:799 INFO  Robot:69 - ROBOT 3: I want to move on matrix[2][0] 
+[pool-1-thread-2] 2022-06-22 22:44:09:799 INFO  Robot:69 - ROBOT 2: I want to move on matrix[1][4] 
+[pool-1-thread-3] 2022-06-22 22:44:09:799 INFO  Robot:77 - ROBOT 3 I'm coloring matrix[2][0] in 3 color
+[pool-1-thread-2] 2022-06-22 22:44:09:800 INFO  Robot:77 - ROBOT 2 I'm coloring matrix[1][4] in 2 color
+[pool-1-thread-1] 2022-06-22 22:44:09:800 INFO  Robot:69 - ROBOT 1: I want to move on matrix[2][1] 
+[pool-1-thread-2] 2022-06-22 22:44:09:800 INFO  Robot:80 - ROBOT 2 moved on position matrix[1][4]
+[pool-1-thread-3] 2022-06-22 22:44:09:800 INFO  Robot:80 - ROBOT 3 moved on position matrix[2][0]
+[pool-1-thread-1] 2022-06-22 22:44:09:801 INFO  Robot:77 - ROBOT 1 I'm coloring matrix[2][1] in 1 color
+[pool-1-thread-1] 2022-06-22 22:44:09:802 INFO  Robot:80 - ROBOT 1 moved on position matrix[2][1]
+[pool-1-thread-1] 2022-06-22 22:44:10:803 INFO  Robot:69 - ROBOT 1: I want to move on matrix[2][2] 
+[pool-1-thread-3] 2022-06-22 22:44:10:803 INFO  Robot:69 - ROBOT 3: I want to move on matrix[3][0] 
+[pool-1-thread-2] 2022-06-22 22:44:10:803 INFO  Robot:69 - ROBOT 2: I want to move on matrix[0][4] 
+[pool-1-thread-3] 2022-06-22 22:44:10:804 INFO  Robot:77 - ROBOT 3 I'm coloring matrix[3][0] in 3 color
+[pool-1-thread-1] 2022-06-22 22:44:10:803 INFO  Robot:77 - ROBOT 1 I'm coloring matrix[2][2] in 1 color
+[pool-1-thread-3] 2022-06-22 22:44:10:804 INFO  Robot:80 - ROBOT 3 moved on position matrix[3][0]
+[pool-1-thread-2] 2022-06-22 22:44:10:804 INFO  Robot:77 - ROBOT 2 I'm coloring matrix[0][4] in 2 color
+[pool-1-thread-3] 2022-06-22 22:44:10:805 DEBUG Robot:89 - ROBOT 3: I finished 4. moves
+[pool-1-thread-1] 2022-06-22 22:44:10:805 INFO  Robot:80 - ROBOT 1 moved on position matrix[2][2]
+[pool-1-thread-2] 2022-06-22 22:44:10:806 INFO  Robot:80 - ROBOT 2 moved on position matrix[0][4]
+[pool-1-thread-2] 2022-06-22 22:44:10:807 DEBUG Robot:89 - ROBOT 2: I finished 4. moves
+[pool-1-thread-1] 2022-06-22 22:44:10:807 DEBUG Robot:89 - ROBOT 1: I finished 4. moves

@@ -1,0 +1,4 @@
+[main] 2022-05-13 11:16:24 INFO  MyDNKSampler:48 - DNK so far: AAAA
+[main] 2022-05-13 11:17:28 ERROR CalculatorException:20 - Type: UNKNOWN_OPERATION	Message: Operation ! is not supported!
+[main] 2022-05-13 11:17:55 ERROR CalculatorException:20 - Type: UNKNOWN_OPERATION	Message: Operation ! is not supported!
+[main] 2022-05-13 11:18:54 ERROR CalculatorException:20 - Type: UNKNOWN_OPERATION	Message: Operation ! is not supported!

@@ -1,0 +1,1036 @@
+[pool-1-thread-9] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 8 --- Computing 12/33 (timeout: 600) 
+[pool-1-thread-6] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 5 --- Computing 3/69 (timeout: 100) 
+[pool-1-thread-3] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 2 --- Computing 61/79 (timeout: 1000) 
+[pool-1-thread-8] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 7 --- Computing 10/69 (timeout: 900) 
+[pool-1-thread-7] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 6 --- Computing 80/19 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 1 --- Computing 19/1 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 3 --- Computing 55/43 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 0 --- Computing 61/12 (timeout: 400) 
+[pool-1-thread-5] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 4 --- Computing 5/62 (timeout: 200) 
+[pool-1-thread-10] 2022-06-20 00:00:43 INFO  CallableTask:21 - Task 9 --- Computing 57/90 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 00:04:33 INFO  CallableTask:21 - Task 4 --- Computing 72/58 (timeout: 700) 
+[pool-1-thread-4] 2022-06-20 00:04:33 INFO  CallableTask:21 - Task 3 --- Computing 9/50 (timeout: 100) 
+[pool-1-thread-3] 2022-06-20 00:04:33 INFO  CallableTask:21 - Task 2 --- Computing 69/48 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 00:04:33 INFO  CallableTask:21 - Task 1 --- Computing 19/55 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 00:04:33 INFO  CallableTask:21 - Task 0 --- Computing 54/88 (timeout: 800) 
+[pool-1-thread-4] 2022-06-20 00:04:33 INFO  CallableTask:21 - Task 5 --- Computing 44/30 (timeout: 700) 
+[pool-1-thread-5] 2022-06-20 00:04:34 INFO  CallableTask:21 - Task 6 --- Computing 61/32 (timeout: 500) 
+[pool-1-thread-4] 2022-06-20 00:04:34 INFO  CallableTask:21 - Task 7 --- Computing 80/26 (timeout: 600) 
+[pool-1-thread-1] 2022-06-20 00:04:34 INFO  CallableTask:21 - Task 8 --- Computing 40/64 (timeout: 200) 
+[pool-1-thread-3] 2022-06-20 00:04:34 INFO  CallableTask:21 - Task 9 --- Computing 39/66 (timeout: 1000) 
+[pool-1-thread-10] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 9 --- Computing 44/97 (timeout: 400) 
+[pool-1-thread-9] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 8 --- Computing 97/1 (timeout: 200) 
+[pool-1-thread-8] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 7 --- Computing 47/39 (timeout: 500) 
+[pool-1-thread-5] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 4 --- Computing 16/5 (timeout: 1000) 
+[pool-1-thread-4] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 3 --- Computing 1/19 (timeout: 800) 
+[pool-1-thread-1] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 0 --- Computing 92/87 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 5 --- Computing 9/90 (timeout: 0) 
+[pool-1-thread-3] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 2 --- Computing 2/51 (timeout: 200) 
+[pool-1-thread-7] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 6 --- Computing 58/31 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 1 --- Computing 89/51 (timeout: 600) 
+[pool-1-thread-11] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 10 --- Computing 89/25 (timeout: 900) 
+[pool-1-thread-6] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 11 --- Computing 76/76 (timeout: 900) 
+[pool-1-thread-9] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 12 --- Computing 20/50 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 13 --- Computing 50/30 (timeout: 200) 
+[pool-1-thread-10] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 14 --- Computing 59/34 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 15 --- Computing 16/83 (timeout: 200) 
+[pool-1-thread-8] 2022-06-20 00:04:55 INFO  CallableTask:21 - Task 16 --- Computing 92/98 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 17 --- Computing 54/49 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 18 --- Computing 93/90 (timeout: 1000) 
+[pool-1-thread-4] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 19 --- Computing 68/76 (timeout: 300) 
+[pool-1-thread-9] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 20 --- Computing 67/74 (timeout: 700) 
+[pool-1-thread-11] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 22 --- Computing 21/91 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 21 --- Computing 43/97 (timeout: 800) 
+[pool-1-thread-5] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 23 --- Computing 7/23 (timeout: 300) 
+[pool-1-thread-7] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 24 --- Computing 19/60 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 25 --- Computing 95/9 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 26 --- Computing 28/85 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 27 --- Computing 33/26 (timeout: 0) 
+[pool-1-thread-10] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 29 --- Computing 87/64 (timeout: 400) 
+[pool-1-thread-8] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 28 --- Computing 35/73 (timeout: 200) 
+[pool-1-thread-1] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 30 --- Computing 5/11 (timeout: 200) 
+[pool-1-thread-5] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 31 --- Computing 35/65 (timeout: 1000) 
+[pool-1-thread-8] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 33 --- Computing 71/65 (timeout: 200) 
+[pool-1-thread-1] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 32 --- Computing 16/31 (timeout: 300) 
+[pool-1-thread-11] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 34 --- Computing 77/20 (timeout: 0) 
+[pool-1-thread-11] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 35 --- Computing 2/89 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 00:04:56 INFO  CallableTask:21 - Task 36 --- Computing 58/99 (timeout: 600) 
+[pool-1-thread-10] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 37 --- Computing 33/75 (timeout: 500) 
+[pool-1-thread-9] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 38 --- Computing 31/46 (timeout: 800) 
+[pool-1-thread-8] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 39 --- Computing 45/30 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 40 --- Computing 84/36 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 41 --- Computing 34/53 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 42 --- Computing 13/9 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 43 --- Computing 33/29 (timeout: 200) 
+[pool-1-thread-7] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 44 --- Computing 19/79 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 45 --- Computing 53/54 (timeout: 700) 
+[pool-1-thread-10] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 46 --- Computing 40/85 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 47 --- Computing 87/70 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 48 --- Computing 96/90 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 49 --- Computing 20/5 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 50 --- Computing 74/44 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 52 --- Computing 61/73 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 51 --- Computing 97/31 (timeout: 0) 
+[pool-1-thread-7] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 53 --- Computing 21/92 (timeout: 200) 
+[pool-1-thread-11] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 54 --- Computing 70/2 (timeout: 200) 
+[pool-1-thread-2] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 55 --- Computing 6/9 (timeout: 100) 
+[pool-1-thread-8] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 56 --- Computing 55/25 (timeout: 1000) 
+[pool-1-thread-9] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 57 --- Computing 98/6 (timeout: 400) 
+[pool-1-thread-2] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 58 --- Computing 10/71 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 60 --- Computing 77/32 (timeout: 300) 
+[pool-1-thread-11] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 59 --- Computing 92/7 (timeout: 300) 
+[pool-1-thread-6] 2022-06-20 00:04:57 INFO  CallableTask:21 - Task 61 --- Computing 85/76 (timeout: 400) 
+[pool-1-thread-4] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 62 --- Computing 9/84 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 63 --- Computing 37/22 (timeout: 500) 
+[pool-1-thread-11] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 64 --- Computing 88/30 (timeout: 300) 
+[pool-1-thread-9] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 65 --- Computing 83/53 (timeout: 400) 
+[pool-1-thread-10] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 66 --- Computing 3/87 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 67 --- Computing 86/61 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 68 --- Computing 15/41 (timeout: 800) 
+[pool-1-thread-1] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 69 --- Computing 25/86 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 70 --- Computing 22/85 (timeout: 400) 
+[pool-1-thread-11] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 71 --- Computing 68/62 (timeout: 800) 
+[pool-1-thread-9] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 72 --- Computing 38/60 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 73 --- Computing 96/54 (timeout: 600) 
+[pool-1-thread-7] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 74 --- Computing 31/37 (timeout: 100) 
+[pool-1-thread-8] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 75 --- Computing 21/45 (timeout: 800) 
+[pool-1-thread-4] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 76 --- Computing 52/18 (timeout: 500) 
+[pool-1-thread-7] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 78 --- Computing 6/14 (timeout: 500) 
+[pool-1-thread-10] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 77 --- Computing 94/41 (timeout: 400) 
+[pool-1-thread-2] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 79 --- Computing 14/57 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 00:04:58 INFO  CallableTask:21 - Task 80 --- Computing 95/59 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 81 --- Computing 81/37 (timeout: 700) 
+[pool-1-thread-10] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 82 --- Computing 51/63 (timeout: 300) 
+[pool-1-thread-9] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 83 --- Computing 55/61 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 84 --- Computing 76/89 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 85 --- Computing 41/10 (timeout: 600) 
+[pool-1-thread-1] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 86 --- Computing 75/12 (timeout: 400) 
+[pool-1-thread-7] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 88 --- Computing 31/76 (timeout: 500) 
+[pool-1-thread-4] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 87 --- Computing 20/14 (timeout: 400) 
+[pool-1-thread-11] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 89 --- Computing 19/99 (timeout: 200) 
+[pool-1-thread-10] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 90 --- Computing 67/29 (timeout: 500) 
+[pool-1-thread-11] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 91 --- Computing 28/38 (timeout: 400) 
+[pool-1-thread-8] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 92 --- Computing 20/40 (timeout: 0) 
+[pool-1-thread-8] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 93 --- Computing 72/22 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 94 --- Computing 16/90 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 95 --- Computing 1/61 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 96 --- Computing 52/75 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 97 --- Computing 24/72 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 98 --- Computing 31/97 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 00:04:59 INFO  CallableTask:21 - Task 99 --- Computing 37/65 (timeout: 700) 
+[pool-1-thread-1] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 0 --- Computing 16/30 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 1 --- Computing 5/94 (timeout: 400) 
+[pool-1-thread-3] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 2 --- Computing 21/68 (timeout: 500) 
+[pool-1-thread-4] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 3 --- Computing 92/14 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 4 --- Computing 93/63 (timeout: 400) 
+[pool-1-thread-2] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 5 --- Computing 49/12 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 6 --- Computing 63/46 (timeout: 200) 
+[pool-1-thread-3] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 7 --- Computing 90/40 (timeout: 800) 
+[pool-1-thread-6] 2022-06-20 00:11:27 INFO  CallableTask:21 - Task Task 8 --- Computing 2/22 (timeout: 0) 
+[pool-1-thread-6] 2022-06-20 00:11:28 INFO  CallableTask:21 - Task Task 9 --- Computing 51/31 (timeout: 700) 
+[pool-1-thread-1] 2022-06-20 00:11:29 INFO  CallableTask:21 - Task Task 0 --- Computing 9/11 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 00:11:29 INFO  CallableTask:21 - Task Task 1 --- Computing 35/2 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 00:11:29 INFO  CallableTask:21 - Task Task 2 --- Computing 51/68 (timeout: 1000) 
+[pool-1-thread-4] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 3 --- Computing 58/46 (timeout: 200) 
+[pool-1-thread-5] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 4 --- Computing 3/45 (timeout: 0) 
+[pool-1-thread-4] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 5 --- Computing 46/94 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 6 --- Computing 75/46 (timeout: 1000) 
+[pool-1-thread-5] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 7 --- Computing 82/9 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 8 --- Computing 51/8 (timeout: 800) 
+[pool-1-thread-7] 2022-06-20 00:11:30 INFO  CallableTask:21 - Task Task 9 --- Computing 8/0 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 0 --- Computing 24/7 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 1 --- Computing 94/56 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 2 --- Computing 62/70 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 3 --- Computing 29/50 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 4 --- Computing 19/44 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 5 --- Computing 73/81 (timeout: 300) 
+[pool-1-thread-6] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 6 --- Computing 47/64 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 7 --- Computing 52/78 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 00:11:34 INFO  CallableTask:21 - Task Task 8 --- Computing 84/51 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 00:11:35 INFO  CallableTask:21 - Task Task 9 --- Computing 15/91 (timeout: 600) 
+[pool-1-thread-1] 2022-06-20 12:26:46 INFO  CallableTask:21 - Task Task 0 --- Computing 66/5 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 12:26:46 INFO  CallableTask:21 - Task Task 1 --- Computing 58/18 (timeout: 300) 
+[pool-1-thread-3] 2022-06-20 12:26:46 INFO  CallableTask:21 - Task Task 2 --- Computing 52/56 (timeout: 600) 
+[pool-1-thread-4] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 3 --- Computing 65/20 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 4 --- Computing 55/26 (timeout: 700) 
+[pool-1-thread-5] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 5 --- Computing 53/76 (timeout: 900) 
+[pool-1-thread-6] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 6 --- Computing 8/18 (timeout: 600) 
+[pool-1-thread-1] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 7 --- Computing 20/24 (timeout: 500) 
+[pool-1-thread-3] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 8 --- Computing 62/98 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 12:26:47 INFO  CallableTask:21 - Task Task 9 --- Computing 27/49 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 12:30:36 INFO  CallableTask:21 - Task Task 0 --- Computing 95/26 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 12:30:36 INFO  CallableTask:21 - Task Task 1 --- Computing 90/87 (timeout: 400) 
+[pool-1-thread-3] 2022-06-20 12:30:36 INFO  CallableTask:21 - Task Task 2 --- Computing 76/35 (timeout: 900) 
+[pool-1-thread-4] 2022-06-20 12:30:36 INFO  CallableTask:21 - Task Task 3 --- Computing 74/57 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 4 --- Computing 77/61 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 5 --- Computing 90/74 (timeout: 1000) 
+[pool-1-thread-4] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 6 --- Computing 0/67 (timeout: 200) 
+[pool-1-thread-6] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 7 --- Computing 40/36 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 8 --- Computing 60/38 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 9 --- Computing 54/39 (timeout: 600) 
+[pool-1-thread-4] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 10 --- Computing 21/2 (timeout: 300) 
+[pool-1-thread-3] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 11 --- Computing 25/27 (timeout: 500) 
+[pool-1-thread-7] 2022-06-20 12:30:37 INFO  CallableTask:21 - Task Task 12 --- Computing 59/21 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 13 --- Computing 82/90 (timeout: 100) 
+[pool-1-thread-4] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 14 --- Computing 21/72 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 15 --- Computing 18/76 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 16 --- Computing 35/47 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 17 --- Computing 17/84 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 18 --- Computing 94/8 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 19 --- Computing 11/85 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 20 --- Computing 48/46 (timeout: 700) 
+[pool-1-thread-4] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 21 --- Computing 59/26 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 12:30:38 INFO  CallableTask:21 - Task Task 22 --- Computing 72/55 (timeout: 500) 
+[pool-1-thread-7] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 23 --- Computing 42/18 (timeout: 300) 
+[pool-1-thread-5] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 24 --- Computing 64/25 (timeout: 300) 
+[pool-1-thread-3] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 25 --- Computing 1/71 (timeout: 300) 
+[pool-1-thread-7] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 26 --- Computing 23/13 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 27 --- Computing 60/67 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 28 --- Computing 36/18 (timeout: 700) 
+[pool-1-thread-1] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 29 --- Computing 43/21 (timeout: 200) 
+[pool-1-thread-5] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 30 --- Computing 44/12 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 12:30:39 INFO  CallableTask:21 - Task Task 31 --- Computing 92/64 (timeout: 200) 
+[pool-1-thread-2] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 32 --- Computing 12/43 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 33 --- Computing 3/44 (timeout: 400) 
+[pool-1-thread-4] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 34 --- Computing 6/74 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 35 --- Computing 87/77 (timeout: 300) 
+[pool-1-thread-7] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 36 --- Computing 22/85 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 37 --- Computing 63/45 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 38 --- Computing 77/26 (timeout: 0) 
+[pool-1-thread-5] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 39 --- Computing 85/20 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 40 --- Computing 31/72 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 12:30:40 INFO  CallableTask:21 - Task Task 41 --- Computing 32/55 (timeout: 800) 
+[pool-1-thread-7] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 42 --- Computing 76/20 (timeout: 0) 
+[pool-1-thread-7] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 43 --- Computing 89/86 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 44 --- Computing 94/56 (timeout: 1000) 
+[pool-1-thread-4] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 45 --- Computing 18/81 (timeout: 200) 
+[pool-1-thread-5] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 46 --- Computing 40/77 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 47 --- Computing 66/44 (timeout: 100) 
+[pool-1-thread-3] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 48 --- Computing 13/26 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 49 --- Computing 9/68 (timeout: 100) 
+[pool-1-thread-4] 2022-06-20 12:30:41 INFO  CallableTask:21 - Task Task 50 --- Computing 81/80 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 51 --- Computing 37/8 (timeout: 600) 
+[pool-1-thread-7] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 52 --- Computing 78/31 (timeout: 700) 
+[pool-1-thread-6] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 53 --- Computing 78/66 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 54 --- Computing 4/82 (timeout: 900) 
+[pool-1-thread-8] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 55 --- Computing 10/4 (timeout: 400) 
+[pool-1-thread-3] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 56 --- Computing 23/86 (timeout: 300) 
+[pool-1-thread-6] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 57 --- Computing 84/40 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 58 --- Computing 10/14 (timeout: 200) 
+[pool-1-thread-3] 2022-06-20 12:30:42 INFO  CallableTask:21 - Task Task 59 --- Computing 76/13 (timeout: 300) 
+[pool-1-thread-2] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 60 --- Computing 11/37 (timeout: 500) 
+[pool-1-thread-8] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 61 --- Computing 50/41 (timeout: 0) 
+[pool-1-thread-3] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 62 --- Computing 89/63 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 63 --- Computing 4/52 (timeout: 500) 
+[pool-1-thread-8] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 64 --- Computing 62/50 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 65 --- Computing 61/49 (timeout: 700) 
+[pool-1-thread-8] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 66 --- Computing 81/19 (timeout: 500) 
+[pool-1-thread-3] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 67 --- Computing 63/22 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 68 --- Computing 20/32 (timeout: 900) 
+[pool-1-thread-6] 2022-06-20 12:30:43 INFO  CallableTask:21 - Task Task 69 --- Computing 83/82 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 70 --- Computing 70/56 (timeout: 300) 
+[pool-1-thread-8] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 71 --- Computing 99/55 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 72 --- Computing 94/16 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 73 --- Computing 22/90 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 74 --- Computing 41/70 (timeout: 700) 
+[pool-1-thread-4] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 75 --- Computing 76/11 (timeout: 600) 
+[pool-1-thread-8] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 76 --- Computing 32/74 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 77 --- Computing 24/33 (timeout: 800) 
+[pool-1-thread-1] 2022-06-20 12:30:44 INFO  CallableTask:21 - Task Task 78 --- Computing 21/88 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 79 --- Computing 96/60 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 80 --- Computing 47/17 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 81 --- Computing 52/41 (timeout: 600) 
+[pool-1-thread-8] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 82 --- Computing 81/33 (timeout: 400) 
+[pool-1-thread-3] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 83 --- Computing 97/71 (timeout: 200) 
+[pool-1-thread-1] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 84 --- Computing 31/99 (timeout: 300) 
+[pool-1-thread-3] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 85 --- Computing 91/32 (timeout: 400) 
+[pool-1-thread-8] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 86 --- Computing 45/98 (timeout: 100) 
+[pool-1-thread-8] 2022-06-20 12:30:45 INFO  CallableTask:21 - Task Task 87 --- Computing 61/54 (timeout: 800) 
+[pool-1-thread-1] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 88 --- Computing 49/83 (timeout: 500) 
+[pool-1-thread-3] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 89 --- Computing 41/3 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 90 --- Computing 93/77 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 91 --- Computing 76/11 (timeout: 200) 
+[pool-1-thread-6] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 92 --- Computing 8/1 (timeout: 400) 
+[pool-1-thread-2] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 93 --- Computing 90/1 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 94 --- Computing 62/1 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 95 --- Computing 33/68 (timeout: 200) 
+[pool-1-thread-6] 2022-06-20 12:30:46 INFO  CallableTask:21 - Task Task 96 --- Computing 26/11 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 12:30:47 INFO  CallableTask:21 - Task Task 97 --- Computing 8/30 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 12:30:47 INFO  CallableTask:21 - Task Task 98 --- Computing 3/34 (timeout: 700) 
+[pool-1-thread-5] 2022-06-20 12:30:47 INFO  CallableTask:21 - Task Task 99 --- Computing 94/27 (timeout: 500) 
+[main] 2022-06-20 12:56:05 INFO  ExecutorsDemo:134 - Scheduling task
+[pool-1-thread-1] 2022-06-20 12:56:08 INFO  CallableTask:21 - Task 1 --- Computing 3/4 (timeout: 100) 
+[main] 2022-06-20 12:56:08 INFO  ExecutorsDemo:148 - Result: 0.75
+[main] 2022-06-20 12:58:19:384 INFO  ExecutorsDemo:134 - Scheduling task
+[pool-1-thread-2] 2022-06-20 12:58:22:424 INFO  CallableTask:21 - Task 1 --- Computing 3/4 (timeout: 100) 
+[main] 2022-06-20 12:58:22:535 INFO  ExecutorsDemo:151 - Result: 0.75
+[main] 2022-06-20 13:07:13:508 INFO  ExecutorsDemo:134 - Scheduling task
+[pool-1-thread-1] 2022-06-20 13:07:14:522 INFO  ExecutorsDemo:140 - Checking...
+[pool-1-thread-2] 2022-06-20 13:07:15:518 INFO  ExecutorsDemo:140 - Checking...
+[pool-1-thread-2] 2022-06-20 13:07:16:527 INFO  ExecutorsDemo:140 - Checking...
+[pool-1-thread-1] 2022-06-20 13:07:16:548 INFO  CallableTask:21 - Task 1 --- Computing 3/4 (timeout: 100) 
+[main] 2022-06-20 13:07:16:668 INFO  ExecutorsDemo:152 - Result: 0.75
+[main] 2022-06-20 13:08:18:131 INFO  ExecutorsDemo:134 - Scheduling task
+[pool-1-thread-1] 2022-06-20 13:08:19:150 INFO  ExecutorsDemo:140 - Checking...
+[pool-1-thread-1] 2022-06-20 13:08:20:138 INFO  ExecutorsDemo:140 - Checking...
+[pool-1-thread-1] 2022-06-20 13:08:21:145 INFO  ExecutorsDemo:140 - Checking...
+[pool-1-thread-2] 2022-06-20 13:08:21:160 INFO  CallableTask:21 - Task 1 --- Computing 3/4 (timeout: 100) 
+[main] 2022-06-20 13:08:21:273 INFO  ExecutorsDemo:152 - Result: 0.75
+[main] 2022-06-20 13:09:51:062 INFO  ExecutorsDemo:134 - Scheduling task
+[pool-1-thread-1] 2022-06-20 13:09:52:074 INFO  ExecutorsDemo:140 - [false] Checking...
+[pool-1-thread-2] 2022-06-20 13:09:53:076 INFO  ExecutorsDemo:140 - [false] Checking...
+[pool-1-thread-2] 2022-06-20 13:09:54:068 INFO  ExecutorsDemo:140 - [false] Checking...
+[pool-1-thread-1] 2022-06-20 13:09:54:096 INFO  CallableTask:21 - Task 1 --- Computing 3/4 (timeout: 100) 
+[main] 2022-06-20 13:09:54:213 INFO  ExecutorsDemo:152 - Result: 0.75
+[pool-1-thread-2] 2022-06-20 13:31:47:942 INFO  CallableTask:29 - Task 2: Computing 4/0 (timeout: 100)
+[pool-1-thread-1] 2022-06-20 13:31:47:942 INFO  CallableTask:29 - Task 1: Computing 4/2 (timeout: 100)
+[pool-1-thread-2] 2022-06-20 13:31:48:046 INFO  MyListeners:22 - Task 2: Result - Infinity
+[pool-1-thread-1] 2022-06-20 13:31:48:047 INFO  MyListeners:22 - Task 1: Result - 2.0
+[pool-1-thread-1] 2022-06-20 13:31:54:710 INFO  CallableTask:29 - Task 1: Computing 4/2 (timeout: 100)
+[pool-1-thread-2] 2022-06-20 13:31:54:711 INFO  CallableTask:29 - Task 2: Computing 4/0 (timeout: 100)
+[pool-1-thread-2] 2022-06-20 13:31:54:822 INFO  MyListeners:22 - Task 2: Result - Infinity
+[pool-1-thread-1] 2022-06-20 13:31:54:823 INFO  MyListeners:22 - Task 1: Result - 2.0
+[pool-1-thread-1] 2022-06-20 13:32:19:395 INFO  CallableTask:29 - Task 1: Computing 4/2 (timeout: 100)
+[pool-1-thread-2] 2022-06-20 13:32:19:395 INFO  CallableTask:29 - Task 2: Computing 4/0 (timeout: 100)
+[pool-1-thread-2] 2022-06-20 13:32:19:503 INFO  MyListeners:23 - Task 2: Result - Infinity
+[pool-1-thread-1] 2022-06-20 13:32:19:505 INFO  MyListeners:23 - Task 1: Result - 2.0
+[pool-1-thread-2] 2022-06-20 13:33:14:232 INFO  CallableTask:29 - Task 2: Computing 4/0 (timeout: 100)
+[pool-1-thread-1] 2022-06-20 13:33:14:232 INFO  CallableTask:29 - Task 1: Computing 4/2 (timeout: 100)
+[pool-1-thread-2] 2022-06-20 13:33:14:336 ERROR MyListeners:28 - Task 2: Error / by zero
+[pool-1-thread-1] 2022-06-20 13:33:14:339 INFO  MyListeners:23 - Task 1: Result - 2.0
+[pool-1-thread-1] 2022-06-20 13:48:40:564 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:48:40:688 INFO  ListenableFutureDemo:29 - Result 2.5 
+[pool-1-thread-1] 2022-06-20 13:49:05:365 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 13:49:44:270 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[main] 2022-06-20 13:51:54:573 INFO  ExecutorsDemo:134 - Scheduling task
+[pool-1-thread-1] 2022-06-20 13:51:55:595 INFO  ExecutorsDemo:140 - [false] Checking...
+[pool-1-thread-1] 2022-06-20 13:51:56:589 INFO  ExecutorsDemo:140 - [false] Checking...
+[pool-1-thread-1] 2022-06-20 13:51:57:593 INFO  ExecutorsDemo:140 - [false] Checking...
+[pool-1-thread-2] 2022-06-20 13:51:57:593 INFO  CallableTask:19 - Task 1 --- Computing 3/4 (timeout: 100) 
+[main] 2022-06-20 13:51:57:704 INFO  ExecutorsDemo:152 - Result: 0
+[pool-1-thread-1] 2022-06-20 13:52:14:642 INFO  CallableTask:19 - Task 0 --- Computing 23/60 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:52:14:746 INFO  CallableTask:19 - Task 1 --- Computing 68/4 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 13:52:14:857 INFO  CallableTask:19 - Task 2 --- Computing 82/76 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 13:52:14:968 INFO  CallableTask:19 - Task 3 --- Computing 37/71 (timeout: 400) 
+[pool-1-thread-4] 2022-06-20 13:52:15:080 INFO  CallableTask:19 - Task 4 --- Computing 9/13 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 13:52:15:190 INFO  CallableTask:19 - Task 5 --- Computing 71/27 (timeout: 800) 
+[pool-1-thread-5] 2022-06-20 13:52:15:326 INFO  CallableTask:19 - Task 6 --- Computing 43/31 (timeout: 400) 
+[pool-1-thread-3] 2022-06-20 13:52:15:425 INFO  CallableTask:19 - Task 7 --- Computing 92/10 (timeout: 600) 
+[pool-1-thread-6] 2022-06-20 13:52:15:536 INFO  CallableTask:19 - Task 8 --- Computing 43/90 (timeout: 200) 
+[pool-1-thread-7] 2022-06-20 13:52:15:648 INFO  CallableTask:19 - Task 9 --- Computing 26/10 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 13:52:15:758 INFO  CallableTask:19 - Task 10 --- Computing 77/10 (timeout: 0) 
+[pool-1-thread-6] 2022-06-20 13:52:15:866 INFO  CallableTask:19 - Task 11 --- Computing 35/79 (timeout: 300) 
+[pool-1-thread-5] 2022-06-20 13:52:15:976 INFO  CallableTask:19 - Task 12 --- Computing 21/38 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 13:52:16:086 INFO  CallableTask:19 - Task 13 --- Computing 81/97 (timeout: 200) 
+[pool-1-thread-6] 2022-06-20 13:52:16:194 INFO  CallableTask:19 - Task 14 --- Computing 40/36 (timeout: 500) 
+[pool-1-thread-3] 2022-06-20 13:52:16:303 INFO  CallableTask:19 - Task 15 --- Computing 92/8 (timeout: 0) 
+[pool-1-thread-3] 2022-06-20 13:52:16:412 INFO  CallableTask:19 - Task 16 --- Computing 84/56 (timeout: 800) 
+[pool-1-thread-4] 2022-06-20 13:52:16:523 INFO  CallableTask:19 - Task 17 --- Computing 44/92 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 13:52:16:635 INFO  CallableTask:19 - Task 18 --- Computing 93/35 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 13:52:16:742 INFO  CallableTask:19 - Task 19 --- Computing 54/84 (timeout: 300) 
+[pool-1-thread-7] 2022-06-20 13:52:16:851 INFO  CallableTask:19 - Task 20 --- Computing 58/89 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 13:52:16:959 INFO  CallableTask:19 - Task 21 --- Computing 92/18 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 13:52:17:071 INFO  CallableTask:19 - Task 22 --- Computing 8/67 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 13:52:17:183 INFO  CallableTask:19 - Task 23 --- Computing 99/61 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 13:52:17:293 INFO  CallableTask:19 - Task 24 --- Computing 82/13 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 13:52:17:404 INFO  CallableTask:19 - Task 25 --- Computing 43/74 (timeout: 400) 
+[pool-1-thread-7] 2022-06-20 13:52:17:512 INFO  CallableTask:19 - Task 26 --- Computing 15/0 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 13:52:17:621 INFO  CallableTask:19 - Task 27 --- Computing 7/74 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 13:52:17:728 INFO  CallableTask:19 - Task 28 --- Computing 62/19 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 13:52:17:838 INFO  CallableTask:19 - Task 29 --- Computing 82/90 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 13:52:17:948 INFO  CallableTask:19 - Task 30 --- Computing 42/25 (timeout: 0) 
+[pool-1-thread-5] 2022-06-20 13:52:18:056 INFO  CallableTask:19 - Task 31 --- Computing 31/31 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 13:52:18:164 INFO  CallableTask:19 - Task 32 --- Computing 70/4 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 13:52:18:273 INFO  CallableTask:19 - Task 33 --- Computing 44/11 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 13:52:18:382 INFO  CallableTask:19 - Task 34 --- Computing 36/48 (timeout: 1000) 
+[pool-1-thread-4] 2022-06-20 13:52:18:492 INFO  CallableTask:19 - Task 35 --- Computing 4/94 (timeout: 100) 
+[pool-1-thread-7] 2022-06-20 13:52:18:600 INFO  CallableTask:19 - Task 36 --- Computing 19/49 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 13:52:18:709 INFO  CallableTask:19 - Task 37 --- Computing 64/49 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 13:52:18:817 INFO  CallableTask:19 - Task 38 --- Computing 71/95 (timeout: 300) 
+[pool-1-thread-6] 2022-06-20 13:52:18:927 INFO  CallableTask:19 - Task 39 --- Computing 32/61 (timeout: 300) 
+[pool-1-thread-5] 2022-06-20 13:52:19:039 INFO  CallableTask:19 - Task 40 --- Computing 56/53 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 13:52:19:149 INFO  CallableTask:19 - Task 41 --- Computing 33/40 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 13:52:19:258 INFO  CallableTask:19 - Task 42 --- Computing 88/77 (timeout: 500) 
+[pool-1-thread-4] 2022-06-20 13:52:19:370 INFO  CallableTask:19 - Task 43 --- Computing 26/50 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 13:52:19:478 INFO  CallableTask:19 - Task 44 --- Computing 89/38 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 13:52:19:586 INFO  CallableTask:19 - Task 45 --- Computing 34/32 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 13:52:19:696 INFO  CallableTask:19 - Task 46 --- Computing 14/87 (timeout: 800) 
+[pool-1-thread-6] 2022-06-20 13:52:19:805 INFO  CallableTask:19 - Task 47 --- Computing 19/83 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 13:52:19:915 INFO  CallableTask:19 - Task 48 --- Computing 14/48 (timeout: 800) 
+[pool-1-thread-7] 2022-06-20 13:52:20:025 INFO  CallableTask:19 - Task 49 --- Computing 65/3 (timeout: 100) 
+[pool-1-thread-4] 2022-06-20 13:52:20:131 INFO  CallableTask:19 - Task 50 --- Computing 90/30 (timeout: 0) 
+[pool-1-thread-3] 2022-06-20 13:52:20:241 INFO  CallableTask:19 - Task 51 --- Computing 41/40 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 13:52:20:349 INFO  CallableTask:19 - Task 52 --- Computing 94/29 (timeout: 800) 
+[pool-1-thread-4] 2022-06-20 13:52:20:459 INFO  CallableTask:19 - Task 53 --- Computing 5/72 (timeout: 600) 
+[pool-1-thread-1] 2022-06-20 13:52:20:568 INFO  CallableTask:19 - Task 54 --- Computing 16/13 (timeout: 400) 
+[pool-1-thread-7] 2022-06-20 13:52:20:676 INFO  CallableTask:19 - Task 55 --- Computing 48/67 (timeout: 300) 
+[pool-1-thread-5] 2022-06-20 13:52:20:784 INFO  CallableTask:19 - Task 56 --- Computing 74/61 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 13:52:20:891 INFO  CallableTask:19 - Task 57 --- Computing 4/72 (timeout: 200) 
+[pool-1-thread-7] 2022-06-20 13:52:20:999 INFO  CallableTask:19 - Task 58 --- Computing 37/12 (timeout: 600) 
+[pool-1-thread-6] 2022-06-20 13:52:21:110 INFO  CallableTask:19 - Task 59 --- Computing 96/23 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 13:52:21:219 INFO  CallableTask:19 - Task 60 --- Computing 88/29 (timeout: 100) 
+[pool-1-thread-3] 2022-06-20 13:52:21:328 INFO  CallableTask:19 - Task 61 --- Computing 32/0 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:52:21:437 INFO  CallableTask:19 - Task 62 --- Computing 44/16 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 13:52:21:549 INFO  CallableTask:19 - Task 63 --- Computing 89/0 (timeout: 100) 
+[pool-1-thread-7] 2022-06-20 13:52:21:659 INFO  CallableTask:19 - Task 64 --- Computing 30/99 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 13:52:21:769 INFO  CallableTask:19 - Task 65 --- Computing 77/13 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 13:52:21:879 INFO  CallableTask:19 - Task 66 --- Computing 10/70 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 13:52:21:986 INFO  CallableTask:19 - Task 67 --- Computing 66/47 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 13:52:22:094 INFO  CallableTask:19 - Task 68 --- Computing 45/20 (timeout: 700) 
+[pool-1-thread-4] 2022-06-20 13:52:22:203 INFO  CallableTask:19 - Task 69 --- Computing 64/50 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 13:52:22:312 INFO  CallableTask:19 - Task 70 --- Computing 14/58 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 13:52:22:421 INFO  CallableTask:19 - Task 71 --- Computing 81/10 (timeout: 600) 
+[pool-1-thread-4] 2022-06-20 13:52:22:531 INFO  CallableTask:19 - Task 72 --- Computing 78/25 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 13:52:22:640 INFO  CallableTask:19 - Task 73 --- Computing 87/25 (timeout: 0) 
+[pool-1-thread-6] 2022-06-20 13:52:22:750 INFO  CallableTask:19 - Task 74 --- Computing 83/57 (timeout: 200) 
+[pool-1-thread-3] 2022-06-20 13:52:22:858 INFO  CallableTask:19 - Task 75 --- Computing 24/76 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 13:52:22:965 INFO  CallableTask:19 - Task 76 --- Computing 80/93 (timeout: 800) 
+[pool-1-thread-5] 2022-06-20 13:52:23:074 INFO  CallableTask:19 - Task 77 --- Computing 52/98 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 13:52:23:183 INFO  CallableTask:19 - Task 78 --- Computing 39/48 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 13:52:23:290 INFO  CallableTask:19 - Task 79 --- Computing 50/39 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 13:52:23:399 INFO  CallableTask:19 - Task 80 --- Computing 11/80 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 13:52:23:508 INFO  CallableTask:19 - Task 81 --- Computing 94/67 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 13:52:23:617 INFO  CallableTask:19 - Task 82 --- Computing 37/29 (timeout: 1000) 
+[pool-1-thread-6] 2022-06-20 13:52:23:727 INFO  CallableTask:19 - Task 83 --- Computing 17/85 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 13:52:23:837 INFO  CallableTask:19 - Task 84 --- Computing 61/2 (timeout: 0) 
+[pool-1-thread-6] 2022-06-20 13:52:23:945 INFO  CallableTask:19 - Task 85 --- Computing 79/56 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 13:52:24:055 INFO  CallableTask:19 - Task 86 --- Computing 78/41 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 13:52:24:163 INFO  CallableTask:19 - Task 87 --- Computing 68/33 (timeout: 300) 
+[pool-1-thread-5] 2022-06-20 13:52:24:272 INFO  CallableTask:19 - Task 88 --- Computing 88/68 (timeout: 400) 
+[pool-1-thread-4] 2022-06-20 13:52:24:381 INFO  CallableTask:19 - Task 89 --- Computing 43/79 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 13:52:24:490 INFO  CallableTask:19 - Task 90 --- Computing 99/11 (timeout: 900) 
+[pool-1-thread-7] 2022-06-20 13:52:24:599 INFO  CallableTask:19 - Task 91 --- Computing 85/19 (timeout: 200) 
+[pool-1-thread-5] 2022-06-20 13:52:24:707 INFO  CallableTask:19 - Task 92 --- Computing 80/31 (timeout: 900) 
+[pool-1-thread-7] 2022-06-20 13:52:24:816 INFO  CallableTask:19 - Task 93 --- Computing 18/91 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 13:52:24:926 INFO  CallableTask:19 - Task 94 --- Computing 55/46 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 13:52:25:035 INFO  CallableTask:19 - Task 95 --- Computing 44/81 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 13:52:25:146 INFO  CallableTask:19 - Task 96 --- Computing 55/91 (timeout: 500) 
+[pool-1-thread-8] 2022-06-20 13:52:25:256 INFO  CallableTask:19 - Task 97 --- Computing 48/27 (timeout: 600) 
+[pool-1-thread-6] 2022-06-20 13:52:25:364 INFO  CallableTask:19 - Task 98 --- Computing 20/86 (timeout: 200) 
+[pool-1-thread-2] 2022-06-20 13:52:25:472 INFO  CallableTask:19 - Task 99 --- Computing 15/47 (timeout: 0) 
+[pool-1-thread-10] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 9 --- Computing 25/37 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 3 --- Computing 85/66 (timeout: 100) 
+[pool-1-thread-9] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 8 --- Computing 9/55 (timeout: 800) 
+[pool-1-thread-6] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 5 --- Computing 1/74 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 0 --- Computing 46/58 (timeout: 400) 
+[pool-1-thread-7] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 6 --- Computing 12/84 (timeout: 1000) 
+[pool-1-thread-5] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 4 --- Computing 32/27 (timeout: 1000) 
+[pool-1-thread-8] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 7 --- Computing 87/49 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 1 --- Computing 29/53 (timeout: 300) 
+[pool-1-thread-11] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 10 --- Computing 87/11 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 13:52:42:391 INFO  CallableTask:19 - Task 2 --- Computing 91/59 (timeout: 800) 
+[pool-1-thread-4] 2022-06-20 13:52:42:497 INFO  CallableTask:19 - Task 11 --- Computing 73/95 (timeout: 800) 
+[pool-1-thread-10] 2022-06-20 13:52:42:595 INFO  CallableTask:19 - Task 12 --- Computing 60/15 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 13:52:42:696 INFO  CallableTask:19 - Task 13 --- Computing 52/18 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 13:52:42:698 INFO  CallableTask:19 - Task 14 --- Computing 63/54 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 13:52:42:797 INFO  CallableTask:19 - Task 15 --- Computing 8/7 (timeout: 600) 
+[pool-1-thread-11] 2022-06-20 13:52:42:998 INFO  CallableTask:19 - Task 16 --- Computing 19/76 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 13:52:42:999 INFO  CallableTask:19 - Task 17 --- Computing 79/87 (timeout: 300) 
+[pool-1-thread-10] 2022-06-20 13:52:43:110 INFO  CallableTask:19 - Task 18 --- Computing 22/36 (timeout: 0) 
+[pool-1-thread-10] 2022-06-20 13:52:43:110 INFO  CallableTask:19 - Task 19 --- Computing 70/4 (timeout: 800) 
+[pool-1-thread-9] 2022-06-20 13:52:43:196 INFO  CallableTask:19 - Task 20 --- Computing 97/54 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 13:52:43:198 INFO  CallableTask:19 - Task 21 --- Computing 63/11 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 13:52:43:206 INFO  CallableTask:19 - Task 22 --- Computing 65/92 (timeout: 500) 
+[pool-1-thread-8] 2022-06-20 13:52:43:296 INFO  CallableTask:19 - Task 23 --- Computing 56/96 (timeout: 600) 
+[pool-1-thread-9] 2022-06-20 13:52:43:297 INFO  CallableTask:19 - Task 24 --- Computing 86/8 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 13:52:43:302 INFO  CallableTask:19 - Task 26 --- Computing 67/83 (timeout: 600) 
+[pool-1-thread-4] 2022-06-20 13:52:43:302 INFO  CallableTask:19 - Task 25 --- Computing 87/20 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 13:52:43:397 INFO  CallableTask:19 - Task 27 --- Computing 13/53 (timeout: 800) 
+[pool-1-thread-5] 2022-06-20 13:52:43:397 INFO  CallableTask:19 - Task 28 --- Computing 48/53 (timeout: 0) 
+[pool-1-thread-5] 2022-06-20 13:52:43:398 INFO  CallableTask:19 - Task 29 --- Computing 23/82 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 13:52:43:398 INFO  CallableTask:19 - Task 30 --- Computing 64/55 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 13:52:43:499 INFO  CallableTask:19 - Task 31 --- Computing 25/48 (timeout: 700) 
+[pool-1-thread-11] 2022-06-20 13:52:43:604 INFO  CallableTask:19 - Task 32 --- Computing 78/29 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 13:52:43:714 INFO  CallableTask:19 - Task 33 --- Computing 95/77 (timeout: 600) 
+[pool-1-thread-9] 2022-06-20 13:52:43:809 INFO  CallableTask:19 - Task 34 --- Computing 59/72 (timeout: 600) 
+[pool-1-thread-8] 2022-06-20 13:52:43:897 INFO  CallableTask:19 - Task 35 --- Computing 89/31 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 13:52:43:903 INFO  CallableTask:19 - Task 36 --- Computing 92/99 (timeout: 900) 
+[pool-1-thread-6] 2022-06-20 13:52:43:904 INFO  CallableTask:19 - Task 37 --- Computing 65/74 (timeout: 800) 
+[pool-1-thread-10] 2022-06-20 13:52:43:920 INFO  CallableTask:19 - Task 38 --- Computing 92/6 (timeout: 200) 
+[pool-1-thread-10] 2022-06-20 13:52:44:123 INFO  CallableTask:19 - Task 39 --- Computing 84/26 (timeout: 100) 
+[pool-1-thread-7] 2022-06-20 13:52:44:198 INFO  CallableTask:19 - Task 40 --- Computing 76/34 (timeout: 500) 
+[pool-1-thread-5] 2022-06-20 13:52:44:200 INFO  CallableTask:19 - Task 41 --- Computing 97/73 (timeout: 200) 
+[pool-1-thread-10] 2022-06-20 13:52:44:231 INFO  CallableTask:19 - Task 42 --- Computing 68/66 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 13:52:44:310 INFO  CallableTask:19 - Task 43 --- Computing 44/91 (timeout: 800) 
+[pool-1-thread-4] 2022-06-20 13:52:44:310 INFO  CallableTask:19 - Task 45 --- Computing 58/50 (timeout: 500) 
+[pool-1-thread-11] 2022-06-20 13:52:44:310 INFO  CallableTask:19 - Task 44 --- Computing 96/55 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 13:52:44:326 INFO  CallableTask:19 - Task 46 --- Computing 6/63 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 13:52:44:403 INFO  CallableTask:19 - Task 47 --- Computing 60/68 (timeout: 1000) 
+[pool-1-thread-9] 2022-06-20 13:52:44:418 INFO  CallableTask:19 - Task 48 --- Computing 56/97 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 13:52:44:701 INFO  CallableTask:19 - Task 49 --- Computing 90/50 (timeout: 500) 
+[pool-1-thread-8] 2022-06-20 13:52:44:701 INFO  CallableTask:19 - Task 50 --- Computing 97/53 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 13:52:44:717 INFO  CallableTask:19 - Task 51 --- Computing 54/95 (timeout: 700) 
+[pool-1-thread-8] 2022-06-20 13:52:44:811 INFO  CallableTask:19 - Task 52 --- Computing 74/33 (timeout: 200) 
+[pool-1-thread-2] 2022-06-20 13:52:44:811 INFO  CallableTask:19 - Task 53 --- Computing 20/9 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 13:52:44:826 INFO  CallableTask:19 - Task 54 --- Computing 12/36 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 13:52:44:934 INFO  CallableTask:19 - Task 55 --- Computing 57/53 (timeout: 100) 
+[pool-1-thread-8] 2022-06-20 13:52:45:012 INFO  CallableTask:19 - Task 56 --- Computing 61/82 (timeout: 1000) 
+[pool-1-thread-3] 2022-06-20 13:52:45:044 INFO  CallableTask:19 - Task 57 --- Computing 35/2 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 13:52:45:111 INFO  CallableTask:19 - Task 58 --- Computing 86/35 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 13:52:45:123 INFO  CallableTask:19 - Task 59 --- Computing 28/70 (timeout: 600) 
+[pool-1-thread-9] 2022-06-20 13:52:45:123 INFO  CallableTask:19 - Task 60 --- Computing 59/50 (timeout: 1000) 
+[pool-1-thread-10] 2022-06-20 13:52:45:138 INFO  CallableTask:19 - Task 61 --- Computing 67/63 (timeout: 800) 
+[pool-1-thread-7] 2022-06-20 13:52:45:202 INFO  CallableTask:19 - Task 62 --- Computing 27/36 (timeout: 400) 
+[pool-1-thread-11] 2022-06-20 13:52:45:218 INFO  CallableTask:19 - Task 63 --- Computing 78/28 (timeout: 700) 
+[pool-1-thread-5] 2022-06-20 13:52:45:407 INFO  CallableTask:19 - Task 64 --- Computing 88/3 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 13:52:45:422 INFO  CallableTask:19 - Task 65 --- Computing 79/24 (timeout: 0) 
+[pool-1-thread-6] 2022-06-20 13:52:45:423 INFO  CallableTask:19 - Task 66 --- Computing 67/88 (timeout: 500) 
+[pool-1-thread-4] 2022-06-20 13:52:45:438 INFO  CallableTask:19 - Task 67 --- Computing 58/63 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 13:52:45:548 INFO  CallableTask:19 - Task 68 --- Computing 13/83 (timeout: 500) 
+[pool-1-thread-7] 2022-06-20 13:52:45:610 INFO  CallableTask:19 - Task 69 --- Computing 6/56 (timeout: 200) 
+[pool-1-thread-2] 2022-06-20 13:52:45:725 INFO  CallableTask:19 - Task 70 --- Computing 98/57 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 13:52:45:812 INFO  CallableTask:19 - Task 71 --- Computing 88/94 (timeout: 400) 
+[pool-1-thread-5] 2022-06-20 13:52:45:921 INFO  CallableTask:19 - Task 72 --- Computing 54/79 (timeout: 200) 
+[pool-1-thread-11] 2022-06-20 13:52:45:921 INFO  CallableTask:19 - Task 73 --- Computing 39/63 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 13:52:45:937 INFO  CallableTask:19 - Task 74 --- Computing 76/35 (timeout: 200) 
+[pool-1-thread-10] 2022-06-20 13:52:45:955 INFO  CallableTask:19 - Task 75 --- Computing 50/53 (timeout: 300) 
+[pool-1-thread-8] 2022-06-20 13:52:46:015 INFO  CallableTask:19 - Task 76 --- Computing 30/31 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 13:52:46:047 INFO  CallableTask:19 - Task 77 --- Computing 80/87 (timeout: 400) 
+[pool-1-thread-3] 2022-06-20 13:52:46:063 INFO  CallableTask:19 - Task 78 --- Computing 80/72 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 13:52:46:122 INFO  CallableTask:19 - Task 79 --- Computing 97/94 (timeout: 800) 
+[pool-1-thread-9] 2022-06-20 13:52:46:125 INFO  CallableTask:19 - Task 80 --- Computing 93/99 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 13:52:46:126 INFO  CallableTask:19 - Task 81 --- Computing 71/49 (timeout: 900) 
+[pool-1-thread-6] 2022-06-20 13:52:46:142 INFO  CallableTask:19 - Task 82 --- Computing 93/64 (timeout: 700) 
+[pool-1-thread-7] 2022-06-20 13:52:46:220 INFO  CallableTask:19 - Task 83 --- Computing 67/74 (timeout: 900) 
+[pool-1-thread-10] 2022-06-20 13:52:46:268 INFO  CallableTask:19 - Task 84 --- Computing 49/59 (timeout: 0) 
+[pool-1-thread-10] 2022-06-20 13:52:46:269 INFO  CallableTask:19 - Task 85 --- Computing 52/38 (timeout: 1000) 
+[pool-1-thread-8] 2022-06-20 13:52:46:330 INFO  CallableTask:19 - Task 86 --- Computing 24/64 (timeout: 300) 
+[pool-1-thread-11] 2022-06-20 13:52:46:424 INFO  CallableTask:19 - Task 87 --- Computing 14/81 (timeout: 700) 
+[pool-1-thread-4] 2022-06-20 13:52:46:456 INFO  CallableTask:19 - Task 88 --- Computing 1/65 (timeout: 300) 
+[pool-1-thread-9] 2022-06-20 13:52:46:527 INFO  CallableTask:19 - Task 89 --- Computing 74/4 (timeout: 800) 
+[pool-1-thread-8] 2022-06-20 13:52:46:645 INFO  CallableTask:19 - Task 90 --- Computing 57/72 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:52:46:739 INFO  CallableTask:19 - Task 91 --- Computing 4/54 (timeout: 400) 
+[pool-1-thread-8] 2022-06-20 13:52:46:754 INFO  CallableTask:19 - Task 92 --- Computing 32/52 (timeout: 100) 
+[pool-1-thread-4] 2022-06-20 13:52:46:769 INFO  CallableTask:19 - Task 93 --- Computing 53/8 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 13:52:46:846 INFO  CallableTask:19 - Task 94 --- Computing 53/24 (timeout: 600) 
+[pool-1-thread-8] 2022-06-20 13:52:46:862 INFO  CallableTask:19 - Task 95 --- Computing 78/23 (timeout: 500) 
+[pool-1-thread-5] 2022-06-20 13:52:46:926 INFO  CallableTask:19 - Task 96 --- Computing 74/40 (timeout: 800) 
+[pool-1-thread-3] 2022-06-20 13:52:46:972 INFO  CallableTask:19 - Task 97 --- Computing 74/35 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 13:52:47:035 INFO  CallableTask:19 - Task 98 --- Computing 58/40 (timeout: 900) 
+[pool-1-thread-11] 2022-06-20 13:52:47:130 INFO  CallableTask:19 - Task 99 --- Computing 23/84 (timeout: 300) 
+[pool-1-thread-10] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 9 --- Computing 50/44 (timeout: 800) 
+[pool-1-thread-9] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 8 --- Computing 60/96 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 1 --- Computing 47/33 (timeout: 200) 
+[pool-1-thread-7] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 6 --- Computing 21/5 (timeout: 500) 
+[pool-1-thread-4] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 3 --- Computing 45/10 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 2 --- Computing 79/40 (timeout: 800) 
+[pool-1-thread-6] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 5 --- Computing 54/24 (timeout: 700) 
+[pool-1-thread-5] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 4 --- Computing 88/5 (timeout: 500) 
+[pool-1-thread-8] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 7 --- Computing 97/8 (timeout: 100) 
+[pool-1-thread-11] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 10 --- Computing 43/14 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 13:53:22:222 INFO  CallableTask:19 - Task 0 --- Computing 10/27 (timeout: 200) 
+[pool-1-thread-8] 2022-06-20 13:53:22:329 INFO  CallableTask:19 - Task 11 --- Computing 52/57 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 13:53:22:426 INFO  CallableTask:19 - Task 12 --- Computing 68/40 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 13:53:22:443 INFO  CallableTask:19 - Task 13 --- Computing 20/14 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 13:53:22:727 INFO  CallableTask:19 - Task 14 --- Computing 39/56 (timeout: 900) 
+[pool-1-thread-5] 2022-06-20 13:53:22:728 INFO  CallableTask:19 - Task 15 --- Computing 94/94 (timeout: 1000) 
+[pool-1-thread-11] 2022-06-20 13:53:22:729 INFO  CallableTask:19 - Task 16 --- Computing 73/15 (timeout: 600) 
+[pool-1-thread-4] 2022-06-20 13:53:22:927 INFO  CallableTask:19 - Task 17 --- Computing 6/4 (timeout: 100) 
+[pool-1-thread-6] 2022-06-20 13:53:22:928 INFO  CallableTask:19 - Task 18 --- Computing 29/52 (timeout: 100) 
+[pool-1-thread-8] 2022-06-20 13:53:22:940 INFO  CallableTask:19 - Task 19 --- Computing 50/45 (timeout: 100) 
+[pool-1-thread-10] 2022-06-20 13:53:23:027 INFO  CallableTask:19 - Task 20 --- Computing 71/25 (timeout: 700) 
+[pool-1-thread-3] 2022-06-20 13:53:23:028 INFO  CallableTask:19 - Task 21 --- Computing 36/89 (timeout: 0) 
+[pool-1-thread-3] 2022-06-20 13:53:23:028 INFO  CallableTask:19 - Task 22 --- Computing 3/45 (timeout: 600) 
+[pool-1-thread-4] 2022-06-20 13:53:23:033 INFO  CallableTask:19 - Task 23 --- Computing 25/46 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 13:53:23:033 INFO  CallableTask:19 - Task 24 --- Computing 88/75 (timeout: 600) 
+[pool-1-thread-8] 2022-06-20 13:53:23:048 INFO  CallableTask:19 - Task 25 --- Computing 59/2 (timeout: 700) 
+[pool-1-thread-9] 2022-06-20 13:53:23:226 INFO  CallableTask:19 - Task 26 --- Computing 8/59 (timeout: 1000) 
+[pool-1-thread-11] 2022-06-20 13:53:23:342 INFO  CallableTask:19 - Task 27 --- Computing 73/78 (timeout: 400) 
+[pool-1-thread-4] 2022-06-20 13:53:23:436 INFO  CallableTask:19 - Task 28 --- Computing 74/15 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 13:53:23:438 INFO  CallableTask:19 - Task 29 --- Computing 52/5 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 13:53:23:454 INFO  CallableTask:19 - Task 30 --- Computing 46/70 (timeout: 200) 
+[pool-1-thread-6] 2022-06-20 13:53:23:642 INFO  CallableTask:19 - Task 32 --- Computing 52/61 (timeout: 1000) 
+[pool-1-thread-7] 2022-06-20 13:53:23:642 INFO  CallableTask:19 - Task 33 --- Computing 71/33 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 13:53:23:642 INFO  CallableTask:19 - Task 31 --- Computing 55/48 (timeout: 900) 
+[pool-1-thread-1] 2022-06-20 13:53:23:658 INFO  CallableTask:19 - Task 34 --- Computing 10/38 (timeout: 900) 
+[pool-1-thread-10] 2022-06-20 13:53:23:728 INFO  CallableTask:19 - Task 35 --- Computing 3/9 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 13:53:23:736 INFO  CallableTask:19 - Task 36 --- Computing 20/27 (timeout: 600) 
+[pool-1-thread-11] 2022-06-20 13:53:23:751 INFO  CallableTask:19 - Task 37 --- Computing 45/26 (timeout: 700) 
+[pool-1-thread-8] 2022-06-20 13:53:23:751 INFO  CallableTask:19 - Task 38 --- Computing 62/88 (timeout: 700) 
+[pool-1-thread-10] 2022-06-20 13:53:23:843 INFO  CallableTask:19 - Task 39 --- Computing 77/74 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 13:53:24:141 INFO  CallableTask:19 - Task 40 --- Computing 7/83 (timeout: 100) 
+[pool-1-thread-10] 2022-06-20 13:53:24:157 INFO  CallableTask:19 - Task 41 --- Computing 8/90 (timeout: 0) 
+[pool-1-thread-10] 2022-06-20 13:53:24:157 INFO  CallableTask:19 - Task 42 --- Computing 47/18 (timeout: 600) 
+[pool-1-thread-9] 2022-06-20 13:53:24:234 INFO  CallableTask:19 - Task 43 --- Computing 49/88 (timeout: 800) 
+[pool-1-thread-7] 2022-06-20 13:53:24:245 INFO  CallableTask:19 - Task 44 --- Computing 29/90 (timeout: 100) 
+[pool-1-thread-4] 2022-06-20 13:53:24:249 INFO  CallableTask:19 - Task 45 --- Computing 46/41 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 13:53:24:342 INFO  CallableTask:19 - Task 46 --- Computing 5/92 (timeout: 300) 
+[pool-1-thread-7] 2022-06-20 13:53:24:358 INFO  CallableTask:19 - Task 47 --- Computing 76/87 (timeout: 400) 
+[pool-1-thread-8] 2022-06-20 13:53:24:452 INFO  CallableTask:19 - Task 48 --- Computing 75/42 (timeout: 700) 
+[pool-1-thread-2] 2022-06-20 13:53:24:452 INFO  CallableTask:19 - Task 49 --- Computing 34/82 (timeout: 0) 
+[pool-1-thread-11] 2022-06-20 13:53:24:453 INFO  CallableTask:19 - Task 50 --- Computing 21/83 (timeout: 500) 
+[pool-1-thread-2] 2022-06-20 13:53:24:453 INFO  CallableTask:19 - Task 51 --- Computing 86/72 (timeout: 100) 
+[pool-1-thread-3] 2022-06-20 13:53:24:546 INFO  CallableTask:19 - Task 52 --- Computing 95/34 (timeout: 800) 
+[pool-1-thread-1] 2022-06-20 13:53:24:561 INFO  CallableTask:19 - Task 54 --- Computing 46/0 (timeout: 900) 
+[pool-1-thread-2] 2022-06-20 13:53:24:561 INFO  CallableTask:19 - Task 53 --- Computing 57/10 (timeout: 300) 
+[pool-1-thread-6] 2022-06-20 13:53:24:644 INFO  CallableTask:19 - Task 55 --- Computing 80/66 (timeout: 300) 
+[pool-1-thread-5] 2022-06-20 13:53:24:655 INFO  CallableTask:19 - Task 56 --- Computing 24/30 (timeout: 0) 
+[pool-1-thread-5] 2022-06-20 13:53:24:655 INFO  CallableTask:19 - Task 57 --- Computing 46/50 (timeout: 900) 
+[pool-1-thread-7] 2022-06-20 13:53:24:763 INFO  CallableTask:19 - Task 58 --- Computing 60/37 (timeout: 600) 
+[pool-1-thread-10] 2022-06-20 13:53:24:763 INFO  CallableTask:19 - Task 59 --- Computing 38/64 (timeout: 200) 
+[pool-1-thread-4] 2022-06-20 13:53:24:858 INFO  CallableTask:19 - Task 60 --- Computing 15/65 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:53:24:873 INFO  CallableTask:19 - Task 61 --- Computing 45/94 (timeout: 800) 
+[pool-1-thread-6] 2022-06-20 13:53:24:951 INFO  CallableTask:19 - Task 62 --- Computing 6/60 (timeout: 200) 
+[pool-1-thread-11] 2022-06-20 13:53:24:956 INFO  CallableTask:19 - Task 63 --- Computing 74/42 (timeout: 400) 
+[pool-1-thread-10] 2022-06-20 13:53:24:966 INFO  CallableTask:19 - Task 65 --- Computing 81/33 (timeout: 0) 
+[pool-1-thread-4] 2022-06-20 13:53:24:966 INFO  CallableTask:19 - Task 64 --- Computing 94/89 (timeout: 600) 
+[pool-1-thread-10] 2022-06-20 13:53:24:966 INFO  CallableTask:19 - Task 66 --- Computing 66/9 (timeout: 500) 
+[pool-1-thread-9] 2022-06-20 13:53:25:046 INFO  CallableTask:19 - Task 67 --- Computing 8/54 (timeout: 600) 
+[pool-1-thread-8] 2022-06-20 13:53:25:154 INFO  CallableTask:19 - Task 68 --- Computing 8/65 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 13:53:25:155 INFO  CallableTask:19 - Task 69 --- Computing 35/84 (timeout: 500) 
+[pool-1-thread-11] 2022-06-20 13:53:25:357 INFO  CallableTask:19 - Task 70 --- Computing 42/62 (timeout: 600) 
+[pool-1-thread-3] 2022-06-20 13:53:25:357 INFO  CallableTask:19 - Task 71 --- Computing 90/10 (timeout: 0) 
+[pool-1-thread-3] 2022-06-20 13:53:25:358 INFO  CallableTask:19 - Task 72 --- Computing 66/72 (timeout: 900) 
+[pool-1-thread-7] 2022-06-20 13:53:25:366 INFO  CallableTask:19 - Task 73 --- Computing 34/43 (timeout: 400) 
+[pool-1-thread-1] 2022-06-20 13:53:25:461 INFO  CallableTask:19 - Task 74 --- Computing 38/78 (timeout: 1000) 
+[main] 2022-06-20 13:53:25:461 ERROR ExecutorsDemo:102 - / by zero
+[pool-1-thread-10] 2022-06-20 13:53:25:469 INFO  CallableTask:19 - Task 75 --- Computing 49/32 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 13:53:25:563 INFO  CallableTask:19 - Task 76 --- Computing 89/47 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 13:53:25:568 INFO  CallableTask:19 - Task 77 --- Computing 26/30 (timeout: 800) 
+[pool-1-thread-10] 2022-06-20 13:53:25:578 INFO  CallableTask:19 - Task 78 --- Computing 54/99 (timeout: 500) 
+[pool-1-thread-6] 2022-06-20 13:53:25:656 INFO  CallableTask:19 - Task 79 --- Computing 66/69 (timeout: 200) 
+[pool-1-thread-9] 2022-06-20 13:53:25:656 INFO  CallableTask:19 - Task 81 --- Computing 5/18 (timeout: 100) 
+[pool-1-thread-8] 2022-06-20 13:53:25:656 INFO  CallableTask:19 - Task 80 --- Computing 69/94 (timeout: 1000) 
+[pool-1-thread-2] 2022-06-20 13:53:25:687 INFO  CallableTask:19 - Task 82 --- Computing 28/13 (timeout: 800) 
+[pool-1-thread-9] 2022-06-20 13:53:25:758 INFO  CallableTask:19 - Task 83 --- Computing 91/31 (timeout: 100) 
+[pool-1-thread-7] 2022-06-20 13:53:25:781 INFO  CallableTask:19 - Task 84 --- Computing 34/92 (timeout: 0) 
+[pool-1-thread-7] 2022-06-20 13:53:25:781 INFO  CallableTask:19 - Task 85 --- Computing 67/48 (timeout: 400) 
+[pool-1-thread-6] 2022-06-20 13:53:25:859 INFO  CallableTask:19 - Task 86 --- Computing 63/52 (timeout: 100) 
+[pool-1-thread-9] 2022-06-20 13:53:25:860 INFO  CallableTask:19 - Task 87 --- Computing 81/94 (timeout: 100) 
+[pool-1-thread-5] 2022-06-20 13:53:25:875 INFO  CallableTask:19 - Task 88 --- Computing 18/3 (timeout: 200) 
+[pool-1-thread-11] 2022-06-20 13:53:25:959 INFO  CallableTask:19 - Task 89 --- Computing 55/51 (timeout: 100) 
+[pool-1-thread-9] 2022-06-20 13:53:25:970 INFO  CallableTask:19 - Task 90 --- Computing 73/6 (timeout: 700) 
+[pool-1-thread-6] 2022-06-20 13:53:25:970 INFO  CallableTask:19 - Task 91 --- Computing 11/53 (timeout: 100) 
+[pool-1-thread-11] 2022-06-20 13:53:26:065 INFO  CallableTask:19 - Task 92 --- Computing 90/87 (timeout: 600) 
+[pool-1-thread-6] 2022-06-20 13:53:26:081 INFO  CallableTask:19 - Task 94 --- Computing 22/35 (timeout: 1000) 
+[pool-1-thread-10] 2022-06-20 13:53:26:081 INFO  CallableTask:19 - Task 93 --- Computing 62/30 (timeout: 600) 
+[pool-1-thread-5] 2022-06-20 13:53:26:081 INFO  CallableTask:19 - Task 95 --- Computing 2/15 (timeout: 500) 
+[pool-1-thread-7] 2022-06-20 13:53:26:193 INFO  CallableTask:19 - Task 96 --- Computing 22/87 (timeout: 900) 
+[pool-1-thread-3] 2022-06-20 13:53:26:271 INFO  CallableTask:19 - Task 97 --- Computing 93/44 (timeout: 300) 
+[pool-1-thread-4] 2022-06-20 13:53:26:381 INFO  CallableTask:19 - Task 98 --- Computing 30/5 (timeout: 200) 
+[pool-1-thread-1] 2022-06-20 13:53:26:462 INFO  CallableTask:19 - Task 99 --- Computing 40/5 (timeout: 400) 
+[main] 2022-06-20 13:54:04:343 INFO  ExecutorsDemo:33 - All tasks submitted
+[pool-1-thread-1] 2022-06-20 13:54:04:344 INFO  CallableTask:19 - Task 1 --- Computing 4/3 (timeout: 50) 
+[main] 2022-06-20 13:54:04:345 INFO  ExecutorsDemo:38 - Waiting for task to complete...
+[main] 2022-06-20 13:54:04:402 ERROR ExecutorsDemo:45 - Not done yet...
+[main] 2022-06-20 13:54:07:742 INFO  ExecutorsDemo:33 - All tasks submitted
+[pool-1-thread-1] 2022-06-20 13:54:07:745 INFO  CallableTask:19 - Task 1 --- Computing 4/3 (timeout: 50) 
+[main] 2022-06-20 13:54:07:745 INFO  ExecutorsDemo:38 - Waiting for task to complete...
+[pool-1-thread-1] 2022-06-20 13:54:31:212 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 13:55:37:207 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:55:37:319 INFO  ListenableFutureDemo:31 - Result 2 
+[pool-1-thread-1] 2022-06-20 13:56:14:011 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 13:56:25:882 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 13:56:35:483 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[pool-1-thread-2] 2022-06-20 13:56:35:599 INFO  ListenableFutureDemo:30 - Result 2 
+[pool-1-thread-1] 2022-06-20 13:59:19:765 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[main] 2022-06-20 13:59:19:767 INFO  ListenableFutureDemo:28 - Doing some complicated stuff...
+[main] 2022-06-20 13:59:19:768 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:770 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:771 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:772 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:773 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:774 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:775 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:776 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:777 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:778 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:778 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:779 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:780 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:780 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:781 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:782 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:782 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:783 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:784 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:785 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:786 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:787 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:788 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:789 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:790 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:791 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:792 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:793 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:793 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:794 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:795 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:796 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:797 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:798 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:798 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:799 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:800 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:800 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:801 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:802 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:803 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:803 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:804 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:805 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:805 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:806 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:807 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:807 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:808 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:809 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:809 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:810 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:811 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:812 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:812 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:813 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:814 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:814 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:815 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:816 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:816 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:817 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:818 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:818 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:819 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:820 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:821 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:821 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:822 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:823 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:823 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:824 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:825 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:825 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:826 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:827 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:827 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:828 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:829 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:829 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:830 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:830 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:831 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:832 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:832 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:833 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:834 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:834 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:835 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:835 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:836 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:837 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:837 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:838 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:839 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:839 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:840 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:841 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:841 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:842 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 13:59:19:842 INFO  ListenableFutureDemo:36 - Done!
+[pool-1-thread-1] 2022-06-20 14:02:07:327 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[main] 2022-06-20 14:02:07:329 INFO  ListenableFutureDemo:28 - Doing some complicated stuff...
+[main] 2022-06-20 14:02:07:330 INFO  ListenableFutureDemo:31 - Still working...
+[pool-1-thread-2] 2022-06-20 14:02:07:435 INFO  ListenableFutureDemo:43 - Result 2 
+[main] 2022-06-20 14:02:10:433 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:13:488 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:16:249 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:19:089 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:21:814 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:24:810 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:27:526 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:30:295 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:33:859 INFO  ListenableFutureDemo:31 - Still working...
+[pool-1-thread-1] 2022-06-20 14:02:43:414 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[main] 2022-06-20 14:02:43:416 INFO  ListenableFutureDemo:28 - Doing some complicated stuff...
+[main] 2022-06-20 14:02:43:418 INFO  ListenableFutureDemo:31 - Still working...
+[pool-1-thread-2] 2022-06-20 14:02:43:533 INFO  ListenableFutureDemo:43 - Result 2 
+[main] 2022-06-20 14:02:43:873 INFO  ListenableFutureDemo:31 - Still working...
+[pool-1-thread-1] 2022-06-20 14:02:48:145 INFO  CallableTask:19 - Task 1 --- Computing 5/2 (timeout: 100) 
+[main] 2022-06-20 14:02:48:148 INFO  ListenableFutureDemo:28 - Doing some complicated stuff...
+[main] 2022-06-20 14:02:48:149 INFO  ListenableFutureDemo:31 - Still working...
+[pool-1-thread-2] 2022-06-20 14:02:48:265 INFO  ListenableFutureDemo:43 - Result 2 
+[main] 2022-06-20 14:02:48:588 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:48:998 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:49:315 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:49:595 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:49:888 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:50:168 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:50:481 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:50:751 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:51:028 INFO  ListenableFutureDemo:31 - Still working...
+[main] 2022-06-20 14:02:51:350 INFO  ListenableFutureDemo:36 - Done!
+[pool-1-thread-2] 2022-06-20 14:19:25:445 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 14:19:25:445 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 14:19:25:447 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 200) 
+[pool-1-thread-2] 2022-06-20 14:19:25:556 INFO  CallableTask:19 - [true] Task 3 --- Computing 6/3 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 14:19:25:652 INFO  CallableTask:19 - [true] Task 4 --- Computing 8/4 (timeout: 400) 
+[pool-1-thread-2] 2022-06-20 14:19:25:871 INFO  CallableTask:19 - [true] Task 5 --- Computing 10/5 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 14:19:26:060 INFO  CallableTask:19 - [true] Task 6 --- Computing 12/6 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 14:19:26:378 INFO  CallableTask:19 - [true] Task 7 --- Computing 14/7 (timeout: 700) 
+[pool-1-thread-1] 2022-06-20 14:19:26:675 INFO  CallableTask:19 - [true] Task 8 --- Computing 16/8 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 14:19:27:092 INFO  CallableTask:19 - [true] Task 9 --- Computing 18/9 (timeout: 900) 
+[main] 2022-06-20 14:20:53:057 INFO  ListenableFutureDemo:24 - Doing some complicated stuff...
+[pool-1-thread-2] 2022-06-20 14:20:53:059 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 14:20:53:059 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[main] 2022-06-20 14:20:53:059 INFO  ListenableFutureDemo:27 - Still working...
+[pool-1-thread-1] 2022-06-20 14:20:53:060 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 200) 
+[main] 2022-06-20 14:20:53:063 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:066 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:069 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:071 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:074 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:076 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:079 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:082 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:084 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:20:53:087 INFO  ListenableFutureDemo:32 - Done!
+[pool-1-thread-2] 2022-06-20 14:20:53:161 INFO  CallableTask:19 - [true] Task 3 --- Computing 6/3 (timeout: 300) 
+[pool-1-thread-1] 2022-06-20 14:20:53:272 INFO  CallableTask:19 - [true] Task 4 --- Computing 8/4 (timeout: 400) 
+[pool-1-thread-2] 2022-06-20 14:20:53:463 INFO  CallableTask:19 - [true] Task 5 --- Computing 10/5 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 14:20:53:684 INFO  CallableTask:19 - [true] Task 6 --- Computing 12/6 (timeout: 600) 
+[pool-1-thread-2] 2022-06-20 14:20:53:965 INFO  CallableTask:19 - [true] Task 7 --- Computing 14/7 (timeout: 700) 
+[pool-1-thread-1] 2022-06-20 14:20:54:292 INFO  CallableTask:19 - [true] Task 8 --- Computing 16/8 (timeout: 800) 
+[pool-1-thread-2] 2022-06-20 14:20:54:668 INFO  CallableTask:19 - [true] Task 9 --- Computing 18/9 (timeout: 900) 
+[main] 2022-06-20 14:21:33:478 INFO  ListenableFutureDemo:24 - Doing some complicated stuff...
+[pool-1-thread-1] 2022-06-20 14:21:33:478 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 14:21:33:478 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 1000) 
+[main] 2022-06-20 14:21:33:479 INFO  ListenableFutureDemo:27 - Still working...
+[pool-1-thread-1] 2022-06-20 14:21:33:480 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 2000) 
+[main] 2022-06-20 14:21:33:483 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:486 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:489 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:491 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:494 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:497 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:499 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:501 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:504 INFO  ListenableFutureDemo:27 - Still working...
+[main] 2022-06-20 14:21:33:507 INFO  ListenableFutureDemo:32 - Done!
+[pool-1-thread-2] 2022-06-20 14:21:34:483 INFO  CallableTask:19 - [true] Task 3 --- Computing 6/3 (timeout: 3000) 
+[pool-1-thread-1] 2022-06-20 14:21:35:492 INFO  CallableTask:19 - [true] Task 4 --- Computing 8/4 (timeout: 4000) 
+[pool-1-thread-2] 2022-06-20 14:21:37:496 INFO  CallableTask:19 - [true] Task 5 --- Computing 10/5 (timeout: 5000) 
+[pool-1-thread-1] 2022-06-20 14:21:39:502 INFO  CallableTask:19 - [true] Task 6 --- Computing 12/6 (timeout: 6000) 
+[pool-1-thread-2] 2022-06-20 14:21:42:510 INFO  CallableTask:19 - [true] Task 7 --- Computing 14/7 (timeout: 7000) 
+[pool-1-thread-1] 2022-06-20 14:21:45:511 INFO  CallableTask:19 - [true] Task 8 --- Computing 16/8 (timeout: 8000) 
+[pool-1-thread-2] 2022-06-20 14:21:49:518 INFO  CallableTask:19 - [true] Task 9 --- Computing 18/9 (timeout: 9000) 
+[main] 2022-06-20 14:24:37:496 INFO  ListenableFutureDemo:27 - Doing some complicated stuff...
+[main] 2022-06-20 14:24:37:498 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-2] 2022-06-20 14:24:37:498 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 1000) 
+[pool-1-thread-1] 2022-06-20 14:24:37:498 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 14:24:37:499 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 2000) 
+[main] 2022-06-20 14:24:37:502 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:504 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:507 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:510 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:513 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:516 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:518 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:521 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:524 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:37:527 INFO  ListenableFutureDemo:35 - Done!
+[main] 2022-06-20 14:24:45:468 INFO  ListenableFutureDemo:27 - Doing some complicated stuff...
+[main] 2022-06-20 14:24:45:469 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-2] 2022-06-20 14:24:45:469 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 14:24:45:469 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 14:24:45:470 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 1000) 
+[main] 2022-06-20 14:24:45:473 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:476 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:478 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:481 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:484 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:487 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:490 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:492 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:495 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:45:497 INFO  ListenableFutureDemo:35 - Done!
+[main] 2022-06-20 14:24:58:282 INFO  ListenableFutureDemo:27 - Doing some complicated stuff...
+[main] 2022-06-20 14:24:58:283 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-1] 2022-06-20 14:24:58:283 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 14:24:58:283 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 500) 
+[pool-1-thread-1] 2022-06-20 14:24:58:284 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 1000) 
+[main] 2022-06-20 14:24:58:287 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:290 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:293 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:295 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:298 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:300 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:303 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:305 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:307 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:24:58:310 INFO  ListenableFutureDemo:35 - Done!
+[main] 2022-06-20 14:25:06:411 INFO  ListenableFutureDemo:27 - Doing some complicated stuff...
+[main] 2022-06-20 14:25:06:412 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-1] 2022-06-20 14:25:06:412 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-2] 2022-06-20 14:25:06:412 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 14:25:06:413 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 200) 
+[main] 2022-06-20 14:25:06:416 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:419 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:421 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:424 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:427 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:429 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:431 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:434 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:436 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:25:06:439 INFO  ListenableFutureDemo:35 - Done!
+[main] 2022-06-20 14:26:03:094 INFO  ListenableFutureDemo:27 - Doing some complicated stuff...
+[main] 2022-06-20 14:26:03:095 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-2] 2022-06-20 14:26:03:095 INFO  CallableTask:19 - [true] Task 1 --- Computing 2/1 (timeout: 100) 
+[pool-1-thread-1] 2022-06-20 14:26:03:095 INFO  CallableTask:19 - [true] Task 0 --- Computing 0/0 (timeout: 0) 
+[pool-1-thread-1] 2022-06-20 14:26:03:097 INFO  CallableTask:19 - [true] Task 2 --- Computing 4/2 (timeout: 200) 
+[main] 2022-06-20 14:26:03:120 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:143 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:166 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:190 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-2] 2022-06-20 14:26:03:197 INFO  CallableTask:19 - [true] Task 3 --- Computing 6/3 (timeout: 300) 
+[main] 2022-06-20 14:26:03:213 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:235 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:258 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:279 INFO  ListenableFutureDemo:30 - Still working...
+[main] 2022-06-20 14:26:03:302 INFO  ListenableFutureDemo:30 - Still working...
+[pool-1-thread-1] 2022-06-20 14:26:03:306 INFO  CallableTask:19 - [true] Task 4 --- Computing 8/4 (timeout: 400) 
+[main] 2022-06-20 14:26:03:324 INFO  ListenableFutureDemo:35 - Done!
+[Thread-1] 2022-06-20 16:21:05:693 INFO  Consumer:17 - CONSUMER: Waiting for next value...
+[Thread-0] 2022-06-20 16:21:05:693 INFO  Producer:39 - PRODUCER: Producing value 28
+[Thread-0] 2022-06-20 16:21:06:103 INFO  Producer:42 - PRODUCER: Value 28 created
+[Thread-0] 2022-06-20 16:21:06:103 INFO  Producer:39 - PRODUCER: Producing value 23
+[Thread-1] 2022-06-20 16:21:06:103 INFO  Consumer:20 - CONSUMER: Value 28 obtained
+[Thread-0] 2022-06-20 16:21:06:906 INFO  Producer:42 - PRODUCER: Value 23 created
+[Thread-0] 2022-06-20 16:21:06:906 INFO  Producer:39 - PRODUCER: Producing value 50
+[Thread-1] 2022-06-20 16:21:06:906 INFO  Consumer:20 - CONSUMER: Value 23 obtained
+[Thread-0] 2022-06-20 16:21:07:306 INFO  Producer:42 - PRODUCER: Value 50 created
+[Thread-0] 2022-06-20 16:21:07:306 INFO  Producer:39 - PRODUCER: Producing value 73
+[Thread-1] 2022-06-20 16:21:07:408 INFO  Consumer:20 - CONSUMER: Value 50 obtained
+[Thread-0] 2022-06-20 16:21:07:516 INFO  Producer:42 - PRODUCER: Value 73 created
+[Thread-0] 2022-06-20 16:21:07:516 INFO  Producer:39 - PRODUCER: Producing value 76
+[Thread-0] 2022-06-20 16:21:07:827 INFO  Producer:42 - PRODUCER: Value 76 created
+[Thread-0] 2022-06-20 16:21:07:827 INFO  Producer:39 - PRODUCER: Producing value 7
+[Thread-1] 2022-06-20 16:21:07:923 INFO  Consumer:20 - CONSUMER: Value 73 obtained
+[Thread-0] 2022-06-20 16:21:07:939 INFO  Producer:42 - PRODUCER: Value 7 created
+[Thread-0] 2022-06-20 16:21:07:939 INFO  Producer:39 - PRODUCER: Producing value 81
+[Thread-0] 2022-06-20 16:21:08:049 INFO  Producer:42 - PRODUCER: Value 81 created
+[Thread-1] 2022-06-20 16:21:08:437 INFO  Consumer:20 - CONSUMER: Value 76 obtained
+[Thread-0] 2022-06-20 16:21:08:437 INFO  Producer:39 - PRODUCER: Producing value 12
+[Thread-0] 2022-06-20 16:21:08:638 INFO  Producer:42 - PRODUCER: Value 12 created
+[Thread-1] 2022-06-20 16:21:08:948 INFO  Consumer:20 - CONSUMER: Value 7 obtained
+[Thread-0] 2022-06-20 16:21:08:948 INFO  Producer:39 - PRODUCER: Producing value 9
+[Thread-1] 2022-06-20 16:21:09:450 INFO  Consumer:20 - CONSUMER: Value 81 obtained
+[Thread-0] 2022-06-20 16:21:09:660 INFO  Producer:42 - PRODUCER: Value 9 created
+[Thread-0] 2022-06-20 16:21:09:660 INFO  Producer:39 - PRODUCER: Producing value 36
+[Thread-1] 2022-06-20 16:21:09:959 INFO  Consumer:20 - CONSUMER: Value 12 obtained
+[Thread-0] 2022-06-20 16:21:10:271 INFO  Producer:42 - PRODUCER: Value 36 created
+[Thread-0] 2022-06-20 16:21:10:271 INFO  Producer:26 - PRODUCER: Production completed
+[Thread-1] 2022-06-20 16:21:10:472 INFO  Consumer:20 - CONSUMER: Value 9 obtained
+[Thread-1] 2022-06-20 16:21:10:981 INFO  Consumer:20 - CONSUMER: Value 36 obtained
+[Thread-1] 2022-06-20 16:21:11:492 INFO  Consumer:30 - CONSUMER: Finished
+[pool-1-thread-1] 2022-06-20 22:55:33:344 INFO  ConverterTask:18 - Converting the value with converter Scrambler
+[pool-1-thread-2] 2022-06-20 22:55:33:344 INFO  ConverterTask:18 - Converting the value with converter Reverser
+[pool-1-thread-5] 2022-06-20 22:55:33:344 INFO  ConverterTask:18 - Converting the value with converter Capitalizer
+[pool-1-thread-6] 2022-06-20 22:55:33:344 INFO  ConverterTask:18 - Converting the value with converter Scrambler
+[pool-1-thread-4] 2022-06-20 22:55:33:344 INFO  ConverterTask:18 - Converting the value with converter Reverser
+[pool-1-thread-3] 2022-06-20 22:55:33:344 INFO  ConverterTask:18 - Converting the value with converter Scrambler
+[pool-1-thread-5] 2022-06-20 22:55:34:849 INFO  ConverterTask:27 - Capitalizer - Countdown
+[pool-1-thread-5] 2022-06-20 22:55:34:850 INFO  ConverterTask:29 - Capitalizer - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 22:55:35:350 INFO  ConverterTask:27 - Reverser - Countdown
+[pool-1-thread-2] 2022-06-20 22:55:35:350 INFO  ConverterTask:29 - Reverser - Converted value: egassem a si sihT
+[main] 2022-06-20 22:55:35:350 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-20 22:55:35:351 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 22:55:35:351 WARN  ConverterTask:24 - Reverser - Conversion abandoned
+[main] 2022-06-20 22:55:35:351 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[main] 2022-06-20 22:55:35:352 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 22:55:35:352 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-1] 2022-06-20 22:58:28:673 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER
+[pool-1-thread-2] 2022-06-20 22:58:28:673 INFO  ConverterTask:18 - Converting the value with converter REVERSER
+[pool-1-thread-5] 2022-06-20 22:58:28:673 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER
+[pool-1-thread-6] 2022-06-20 22:58:28:673 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER
+[pool-1-thread-3] 2022-06-20 22:58:28:673 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER
+[pool-1-thread-4] 2022-06-20 22:58:28:673 INFO  ConverterTask:18 - Converting the value with converter REVERSER
+[pool-1-thread-5] 2022-06-20 22:58:30:178 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-20 22:58:30:178 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 22:58:30:676 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-20 22:58:30:676 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-20 22:58:30:676 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-20 22:58:30:677 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 22:58:30:677 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[main] 2022-06-20 22:58:30:677 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[main] 2022-06-20 22:58:30:677 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 22:58:30:678 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 22:59:35:473 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 4000)
+[pool-1-thread-3] 2022-06-20 22:59:35:473 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 3000)
+[pool-1-thread-5] 2022-06-20 22:59:35:473 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER  (timeout 1500)
+[pool-1-thread-2] 2022-06-20 22:59:35:473 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 2000)
+[pool-1-thread-6] 2022-06-20 22:59:35:473 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 2000)
+[pool-1-thread-1] 2022-06-20 22:59:35:473 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 1000)
+[pool-1-thread-5] 2022-06-20 22:59:36:977 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-20 22:59:36:977 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 22:59:37:477 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-20 22:59:37:478 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-20 22:59:37:478 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-20 22:59:37:481 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 22:59:37:481 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[main] 2022-06-20 22:59:37:482 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[main] 2022-06-20 22:59:37:483 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 22:59:37:484 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-3] 2022-06-20 23:01:12:225 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 3000)
+[pool-1-thread-1] 2022-06-20 23:01:12:225 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 1000)
+[pool-1-thread-4] 2022-06-20 23:01:12:225 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 4000)
+[pool-1-thread-5] 2022-06-20 23:01:12:225 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER  (timeout 1500)
+[pool-1-thread-6] 2022-06-20 23:01:12:225 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 2000)
+[pool-1-thread-2] 2022-06-20 23:01:12:225 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 2000)
+[pool-1-thread-5] 2022-06-20 23:01:13:730 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-20 23:01:13:731 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 23:01:14:234 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-20 23:01:14:234 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-20 23:01:14:234 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-20 23:01:14:235 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 23:01:14:235 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[main] 2022-06-20 23:01:14:235 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[main] 2022-06-20 23:01:14:235 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 23:01:14:236 ERROR CountDownLatchDemo:45 - This task has been canceled!
+[pool-1-thread-5] 2022-06-20 23:51:03:911 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER  (timeout 1500)
+[pool-1-thread-4] 2022-06-20 23:51:03:911 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 4000)
+[pool-1-thread-6] 2022-06-20 23:51:03:911 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 2000)
+[pool-1-thread-2] 2022-06-20 23:51:03:911 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 2000)
+[pool-1-thread-1] 2022-06-20 23:51:03:911 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 1000)
+[pool-1-thread-3] 2022-06-20 23:51:03:911 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 3000)
+[pool-1-thread-5] 2022-06-20 23:51:05:415 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-20 23:51:05:415 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 23:51:05:916 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-20 23:51:05:916 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-20 23:51:05:916 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-20 23:51:05:917 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[main] 2022-06-20 23:51:05:917 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[main] 2022-06-20 23:51:05:917 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 23:51:05:917 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 23:51:05:917 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[pool-1-thread-3] 2022-06-20 23:51:14:676 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 3000)
+[pool-1-thread-2] 2022-06-20 23:51:14:676 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 2000)
+[pool-1-thread-6] 2022-06-20 23:51:14:676 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 2000)
+[pool-1-thread-1] 2022-06-20 23:51:14:676 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 1000)
+[pool-1-thread-5] 2022-06-20 23:51:14:676 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER  (timeout 1500)
+[pool-1-thread-4] 2022-06-20 23:51:14:676 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 4000)
+[pool-1-thread-5] 2022-06-20 23:51:16:183 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-20 23:51:16:184 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 23:51:16:680 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-20 23:51:16:680 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-20 23:51:16:680 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[pool-1-thread-4] 2022-06-20 23:51:16:682 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[main] 2022-06-20 23:51:16:682 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[main] 2022-06-20 23:51:16:682 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[main] 2022-06-20 23:51:16:683 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 23:51:16:683 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[pool-1-thread-5] 2022-06-20 23:52:14:169 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER  (timeout 1500)
+[pool-1-thread-3] 2022-06-20 23:52:14:169 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 3000)
+[pool-1-thread-4] 2022-06-20 23:52:14:169 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 4000)
+[pool-1-thread-6] 2022-06-20 23:52:14:169 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 2000)
+[pool-1-thread-2] 2022-06-20 23:52:14:169 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 2000)
+[pool-1-thread-1] 2022-06-20 23:52:14:169 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 1000)
+[pool-1-thread-5] 2022-06-20 23:52:15:671 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-20 23:52:15:671 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-20 23:52:16:175 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-20 23:52:16:176 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-20 23:52:16:176 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-20 23:52:16:178 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[pool-1-thread-4] 2022-06-20 23:52:16:178 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[main] 2022-06-20 23:52:16:178 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[main] 2022-06-20 23:52:16:179 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-20 23:52:16:179 ERROR CountDownLatchDemo:44 - This task has been canceled!

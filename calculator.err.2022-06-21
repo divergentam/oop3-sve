@@ -1,0 +1,1037 @@
+[pool-1-thread-1] 2022-06-21 00:31:54:975 INFO  GuestRunnable:22 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 00:31:54:975 INFO  GuestRunnable:22 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 00:31:54:975 INFO  GuestRunnable:22 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 00:31:55:991 INFO  GuestRunnable:24 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 00:31:55:991 INFO  GuestRunnable:27 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 00:31:56:980 INFO  GuestRunnable:24 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 00:31:56:980 INFO  GuestRunnable:27 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 00:31:57:986 INFO  GuestRunnable:24 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 00:31:57:986 INFO  GuestRunnable:27 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 00:31:57:986 INFO  GuestRunnable:36 - Guest 1000 starting the main course
+[pool-1-thread-3] 2022-06-21 00:31:57:986 INFO  GuestRunnable:36 - Guest 1000 starting the main course
+[pool-1-thread-1] 2022-06-21 00:31:57:986 INFO  GuestRunnable:36 - Guest 1500 starting the main course
+[pool-1-thread-3] 2022-06-21 00:31:58:987 INFO  GuestRunnable:38 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 00:31:58:987 INFO  GuestRunnable:41 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-2] 2022-06-21 00:31:58:988 INFO  GuestRunnable:38 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 00:31:58:988 INFO  GuestRunnable:41 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 00:31:59:497 INFO  GuestRunnable:38 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 00:31:59:497 INFO  GuestRunnable:41 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 00:31:59:497 INFO  GuestRunnable:47 - Guest Mika starting the desert
+[pool-1-thread-3] 2022-06-21 00:31:59:497 INFO  GuestRunnable:47 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 00:31:59:497 INFO  GuestRunnable:47 - Guest Pera starting the desert
+[pool-1-thread-2] 2022-06-21 00:32:00:009 INFO  GuestRunnable:49 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 00:32:00:498 INFO  GuestRunnable:49 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 00:32:00:500 INFO  GuestRunnable:49 - Guest Laza finished desert
+[pool-1-thread-1] 2022-06-21 00:33:09:905 INFO  GuestRunnable:22 - Guest Mika starting the appetizer
+[pool-1-thread-2] 2022-06-21 00:33:09:905 INFO  GuestRunnable:22 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 00:33:09:905 INFO  GuestRunnable:22 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 00:33:10:909 INFO  GuestRunnable:24 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 00:33:10:910 INFO  GuestRunnable:27 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 00:33:11:919 INFO  GuestRunnable:24 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 00:33:11:920 INFO  GuestRunnable:27 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 00:33:12:913 INFO  GuestRunnable:24 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 00:33:12:913 INFO  GuestRunnable:27 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 00:33:12:914 INFO  GuestRunnable:36 - Guest Pera starting the main course
+[pool-1-thread-1] 2022-06-21 00:33:12:914 INFO  GuestRunnable:36 - Guest Mika starting the main course
+[pool-1-thread-3] 2022-06-21 00:33:12:914 INFO  GuestRunnable:36 - Guest Laza starting the main course
+[pool-1-thread-2] 2022-06-21 00:33:13:914 INFO  GuestRunnable:38 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 00:33:13:914 INFO  GuestRunnable:41 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 00:33:13:927 INFO  GuestRunnable:38 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 00:33:13:927 INFO  GuestRunnable:41 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 00:33:14:416 INFO  GuestRunnable:38 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 00:33:14:416 INFO  GuestRunnable:41 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 00:33:14:416 INFO  GuestRunnable:47 - Guest Mika starting the desert
+[pool-1-thread-3] 2022-06-21 00:33:14:416 INFO  GuestRunnable:47 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 00:33:14:416 INFO  GuestRunnable:47 - Guest Pera starting the desert
+[pool-1-thread-2] 2022-06-21 00:33:14:922 INFO  GuestRunnable:49 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 00:33:15:417 INFO  GuestRunnable:49 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 00:33:15:419 INFO  GuestRunnable:49 - Guest Laza finished desert
+[pool-2-thread-1] 2022-06-21 01:23:12:708 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 01:23:12:709 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 01:23:12:709 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:23:12:709 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-3-thread-1] 2022-06-21 01:23:12:708 INFO  CookRunnable:21 - Chief is notified to prepare next meal
+[pool-1-thread-1] 2022-06-21 01:23:13:719 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 01:23:13:719 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 01:23:14:713 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 01:23:14:713 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 01:23:15:726 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 01:23:15:726 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-3-thread-1] 2022-06-21 01:23:19:712 INFO  CookRunnable:23 - Chief finished meal
+[pool-2-thread-1] 2022-06-21 01:23:47:407 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 01:23:47:408 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 01:23:47:408 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:23:47:408 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-3-thread-1] 2022-06-21 01:23:47:407 INFO  CookRunnable:21 - Chief is notified to prepare next meal
+[pool-1-thread-1] 2022-06-21 01:23:48:419 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 01:23:48:419 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 01:23:49:415 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 01:23:49:415 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 01:23:50:410 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 01:23:50:410 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-3-thread-1] 2022-06-21 01:23:54:420 INFO  CookRunnable:23 - Chief finished meal
+[pool-3-thread-1] 2022-06-21 01:26:27:019 INFO  CookRunnable:21 - Chief is notified to prepare next meal
+[pool-1-thread-2] 2022-06-21 01:26:27:020 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:26:27:020 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 01:26:27:020 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:26:28:025 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 01:26:28:025 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:26:28:025 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 01:26:29:022 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 01:26:29:022 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:26:29:022 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:29:022 INFO  WaiterRunnable:26 - Informing the cook to prepare the next meal
+[pool-1-thread-2] 2022-06-21 01:26:30:032 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-2-thread-1] 2022-06-21 01:26:30:032 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 01:26:30:032 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:26:31:030 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:32:020 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:33:026 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:26:34:032 INFO  CookRunnable:23 - Chief finished meal
+[pool-2-thread-1] 2022-06-21 01:26:34:032 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:35:022 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:36:026 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:37:018 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:38:030 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:39:024 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:40:029 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:41:031 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:42:029 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:43:024 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:44:018 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:45:026 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:26:46:030 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:40:30:793 INFO  CookRunnable:23 - Chief is notified to prepare next meal
+[pool-1-thread-2] 2022-06-21 01:40:30:794 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 01:40:30:794 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:40:30:794 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:40:31:808 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-2-thread-1] 2022-06-21 01:40:31:808 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 01:40:31:809 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 01:40:32:797 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 01:40:32:797 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:40:32:805 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:32:805 INFO  WaiterRunnable:26 - Informing the cook to prepare the next meal
+[pool-2-thread-1] 2022-06-21 01:40:33:794 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 01:40:33:810 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 01:40:33:810 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:40:34:802 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:35:802 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:36:794 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:40:37:799 INFO  CookRunnable:25 - Chief finished meal
+[pool-2-thread-1] 2022-06-21 01:40:37:806 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:38:793 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:39:804 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:40:796 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:41:797 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:42:794 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:40:43:804 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:42:46:051 INFO  CookRunnable:23 - Chief is notified to prepare next meal
+[pool-1-thread-2] 2022-06-21 01:42:46:052 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 01:42:46:052 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:42:46:052 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-2-thread-1] 2022-06-21 01:42:47:052 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 01:42:47:068 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 01:42:47:068 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:42:48:052 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 01:42:48:067 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 01:42:48:067 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 01:42:49:060 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 01:42:49:060 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:42:49:060 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:49:061 INFO  WaiterRunnable:26 - Informing the cook to prepare the next meal
+[pool-2-thread-1] 2022-06-21 01:42:50:058 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:51:055 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:52:060 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:42:53:055 INFO  CookRunnable:25 - Chief finished meal
+[pool-2-thread-1] 2022-06-21 01:42:53:055 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:54:055 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:55:052 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:56:061 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:57:056 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:42:58:065 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:43:02:829 INFO  CookRunnable:23 - Chief is notified to prepare next meal
+[pool-1-thread-2] 2022-06-21 01:43:02:830 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 01:43:02:830 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:43:02:830 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-1-thread-1] 2022-06-21 01:43:03:839 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 01:43:03:839 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:43:03:839 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 01:43:04:839 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 01:43:04:839 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:43:04:839 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:04:839 INFO  WaiterRunnable:26 - Informing the cook to prepare the next meal
+[pool-1-thread-2] 2022-06-21 01:43:05:834 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 01:43:05:834 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 01:43:05:834 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:06:841 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:07:835 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:08:830 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-3-thread-1] 2022-06-21 01:43:09:841 INFO  CookRunnable:25 - Chief finished meal
+[pool-2-thread-1] 2022-06-21 01:43:09:841 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:10:834 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:11:831 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:12:830 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:13:832 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:14:829 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 01:43:15:828 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 20:17:10:245 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 20:17:10:245 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 20:17:10:245 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 20:17:11:256 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-2-thread-1] 2022-06-21 20:17:11:256 INFO  WaiterRunnable:24 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 20:17:11:256 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 20:17:12:254 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-2-thread-1] 2022-06-21 20:17:12:254 INFO  WaiterRunnable:24 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 20:17:12:254 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 20:17:13:251 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-2-thread-1] 2022-06-21 20:17:13:251 INFO  WaiterRunnable:24 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 20:17:13:251 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 20:40:05:131 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-1-thread-3] 2022-06-21 20:40:05:131 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 20:40:05:131 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-1-thread-1] 2022-06-21 20:40:06:139 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-2-thread-1] 2022-06-21 20:40:06:139 INFO  WaiterRunnable:25 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 20:40:06:139 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 20:40:07:126 INFO  WaiterRunnable:25 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 20:40:07:142 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 20:40:07:143 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 20:40:08:128 INFO  WaiterRunnable:25 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 20:40:08:144 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 20:40:08:145 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-3-thread-1] 2022-06-21 20:41:28:710 INFO  CookRunnable:21 - Chief is notified to prepare next meal
+[pool-1-thread-1] 2022-06-21 20:41:28:711 INFO  GuestRunnable:23 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 20:41:28:711 INFO  GuestRunnable:23 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 20:41:28:711 INFO  GuestRunnable:23 - Guest Pera starting the appetizer
+[pool-2-thread-1] 2022-06-21 20:41:29:716 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 20:41:29:718 INFO  GuestRunnable:25 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 20:41:29:718 INFO  GuestRunnable:28 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 20:41:30:706 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 20:41:30:707 INFO  WaiterRunnable:26 - Informing the cook to prepare the next meal
+[pool-1-thread-3] 2022-06-21 20:41:30:722 INFO  GuestRunnable:25 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 20:41:30:723 INFO  GuestRunnable:28 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 20:41:31:707 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 20:41:31:717 INFO  GuestRunnable:25 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 20:41:31:718 INFO  GuestRunnable:28 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 20:41:31:721 INFO  GuestRunnable:37 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 20:41:31:721 INFO  GuestRunnable:37 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 20:41:31:721 INFO  GuestRunnable:37 - Guest Mika starting the main course
+[pool-2-thread-1] 2022-06-21 20:41:32:718 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 20:41:32:722 INFO  GuestRunnable:39 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 20:41:32:722 INFO  GuestRunnable:42 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 20:41:32:723 INFO  GuestRunnable:39 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 20:41:32:723 INFO  GuestRunnable:42 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 20:41:33:232 INFO  GuestRunnable:39 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 20:41:33:233 INFO  GuestRunnable:42 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 20:41:33:234 INFO  GuestRunnable:48 - Guest Mika starting the desert
+[pool-1-thread-3] 2022-06-21 20:41:33:234 INFO  GuestRunnable:48 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 20:41:33:234 INFO  GuestRunnable:48 - Guest Pera starting the desert
+[pool-2-thread-1] 2022-06-21 20:41:33:717 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 20:41:33:749 INFO  GuestRunnable:50 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 20:41:34:235 INFO  GuestRunnable:50 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 20:41:34:236 INFO  GuestRunnable:50 - Guest Laza finished desert
+[pool-2-thread-1] 2022-06-21 20:41:34:708 INFO  WaiterRunnable:23 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-4] 2022-06-21 21:20:40:149 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field
+[pool-1-thread-1] 2022-06-21 21:20:40:149 INFO  Hiker:30 - Hiker Pera: is climbing to 1 field
+[pool-1-thread-2] 2022-06-21 21:20:40:149 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field
+[pool-1-thread-3] 2022-06-21 21:20:40:149 INFO  Hiker:30 - Hiker Mika: is climbing to 3 field
+[pool-1-thread-4] 2022-06-21 21:20:40:360 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-4] 2022-06-21 21:20:40:360 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field
+[pool-1-thread-4] 2022-06-21 21:20:40:564 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-4] 2022-06-21 21:20:40:564 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field
+[pool-1-thread-4] 2022-06-21 21:20:40:769 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-4] 2022-06-21 21:20:40:769 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field
+[pool-1-thread-2] 2022-06-21 21:20:40:957 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:20:40:957 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field
+[pool-1-thread-4] 2022-06-21 21:20:40:973 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-4] 2022-06-21 21:20:40:973 INFO  Hiker:30 - Hiker Laza: is climbing to 8 field
+[pool-1-thread-1] 2022-06-21 21:20:41:164 INFO  Hiker:37 - Hiker Pera: is on 1 field
+[pool-1-thread-1] 2022-06-21 21:20:41:164 INFO  Hiker:30 - Hiker Pera: is climbing to 2 field
+[pool-1-thread-4] 2022-06-21 21:20:41:179 INFO  Hiker:37 - Hiker Laza: is on 8 field
+[pool-1-thread-4] 2022-06-21 21:20:41:179 INFO  Hiker:30 - Hiker Laza: is climbing to 9 field
+[pool-1-thread-4] 2022-06-21 21:20:41:382 INFO  Hiker:37 - Hiker Laza: is on 9 field
+[pool-1-thread-4] 2022-06-21 21:20:41:383 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-3] 2022-06-21 21:20:41:555 INFO  Hiker:37 - Hiker Mika: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:20:41:555 INFO  Hiker:30 - Hiker Mika: is climbing to 4 field
+[pool-1-thread-2] 2022-06-21 21:20:41:758 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:20:41:758 INFO  Hiker:30 - Hiker Zika: is climbing to 8 field
+[pool-1-thread-1] 2022-06-21 21:20:42:168 INFO  Hiker:37 - Hiker Pera: is on 2 field
+[pool-1-thread-1] 2022-06-21 21:20:42:168 INFO  Hiker:30 - Hiker Pera: is climbing to 3 field
+[pool-1-thread-2] 2022-06-21 21:20:42:560 INFO  Hiker:37 - Hiker Zika: is on 8 field
+[pool-1-thread-2] 2022-06-21 21:20:42:560 INFO  Hiker:30 - Hiker Zika: is climbing to 9 field
+[pool-1-thread-3] 2022-06-21 21:20:42:966 INFO  Hiker:37 - Hiker Mika: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:20:42:966 INFO  Hiker:30 - Hiker Mika: is climbing to 5 field
+[pool-1-thread-1] 2022-06-21 21:20:43:182 INFO  Hiker:37 - Hiker Pera: is on 3 field
+[pool-1-thread-1] 2022-06-21 21:20:43:182 INFO  Hiker:30 - Hiker Pera: is climbing to 4 field
+[pool-1-thread-1] 2022-06-21 21:20:44:190 INFO  Hiker:37 - Hiker Pera: is on 4 field
+[pool-1-thread-1] 2022-06-21 21:20:44:191 INFO  Hiker:30 - Hiker Pera: is climbing to 5 field
+[pool-1-thread-3] 2022-06-21 21:20:44:380 INFO  Hiker:37 - Hiker Mika: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:20:44:380 INFO  Hiker:30 - Hiker Mika: is climbing to 6 field
+[pool-1-thread-1] 2022-06-21 21:20:45:206 INFO  Hiker:37 - Hiker Pera: is on 5 field
+[pool-1-thread-1] 2022-06-21 21:20:45:206 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field
+[pool-1-thread-3] 2022-06-21 21:20:45:781 INFO  Hiker:37 - Hiker Mika: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:20:45:781 INFO  Hiker:30 - Hiker Mika: is climbing to 7 field
+[pool-1-thread-1] 2022-06-21 21:20:46:219 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:20:46:219 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field
+[pool-1-thread-3] 2022-06-21 21:20:47:183 INFO  Hiker:37 - Hiker Mika: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:20:47:183 INFO  Hiker:30 - Hiker Mika: is climbing to 8 field
+[pool-1-thread-1] 2022-06-21 21:20:47:229 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:20:47:229 INFO  Hiker:30 - Hiker Pera: is climbing to 8 field
+[pool-1-thread-1] 2022-06-21 21:20:48:242 INFO  Hiker:37 - Hiker Pera: is on 8 field
+[pool-1-thread-1] 2022-06-21 21:20:48:242 INFO  Hiker:30 - Hiker Pera: is climbing to 9 field
+[pool-1-thread-3] 2022-06-21 21:20:48:584 INFO  Hiker:37 - Hiker Mika: is on 8 field
+[pool-1-thread-3] 2022-06-21 21:20:48:584 INFO  Hiker:30 - Hiker Mika: is climbing to 9 field
+[pool-1-thread-1] 2022-06-21 21:21:57:670 INFO  Hiker:30 - Hiker Pera: is climbing to 1 field (timeout: 1000)
+[pool-1-thread-4] 2022-06-21 21:21:57:670 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:21:57:670 INFO  Hiker:30 - Hiker Mika: is climbing to 3 field (timeout: 1400)
+[pool-1-thread-2] 2022-06-21 21:21:57:670 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-4] 2022-06-21 21:21:57:884 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-4] 2022-06-21 21:21:57:884 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:21:58:089 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-4] 2022-06-21 21:21:58:089 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:21:58:295 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-4] 2022-06-21 21:21:58:295 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:21:58:484 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:21:58:484 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-4] 2022-06-21 21:21:58:500 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-4] 2022-06-21 21:21:58:500 INFO  Hiker:30 - Hiker Laza: is climbing to 8 field (timeout: 200)
+[pool-1-thread-1] 2022-06-21 21:21:58:687 INFO  Hiker:37 - Hiker Pera: is on 1 field
+[pool-1-thread-1] 2022-06-21 21:21:58:687 INFO  Hiker:30 - Hiker Pera: is climbing to 2 field (timeout: 1000)
+[pool-1-thread-4] 2022-06-21 21:21:58:703 INFO  Hiker:37 - Hiker Laza: is on 8 field
+[pool-1-thread-4] 2022-06-21 21:21:58:703 INFO  Hiker:30 - Hiker Laza: is climbing to 9 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:21:58:905 INFO  Hiker:37 - Hiker Laza: is on 9 field
+[pool-1-thread-4] 2022-06-21 21:21:58:905 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-3] 2022-06-21 21:21:59:076 INFO  Hiker:37 - Hiker Mika: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:21:59:076 INFO  Hiker:30 - Hiker Mika: is climbing to 4 field (timeout: 1400)
+[pool-1-thread-2] 2022-06-21 21:21:59:295 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:21:59:295 INFO  Hiker:30 - Hiker Zika: is climbing to 8 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:21:59:688 INFO  Hiker:37 - Hiker Pera: is on 2 field
+[pool-1-thread-1] 2022-06-21 21:21:59:688 INFO  Hiker:30 - Hiker Pera: is climbing to 3 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:22:00:095 INFO  Hiker:37 - Hiker Zika: is on 8 field
+[pool-1-thread-2] 2022-06-21 21:22:00:095 INFO  Hiker:30 - Hiker Zika: is climbing to 9 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:22:00:484 INFO  Hiker:37 - Hiker Mika: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:22:00:485 INFO  Hiker:30 - Hiker Mika: is climbing to 5 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:22:00:689 INFO  Hiker:37 - Hiker Pera: is on 3 field
+[pool-1-thread-1] 2022-06-21 21:22:00:689 INFO  Hiker:30 - Hiker Pera: is climbing to 4 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:22:01:703 INFO  Hiker:37 - Hiker Pera: is on 4 field
+[pool-1-thread-1] 2022-06-21 21:22:01:703 INFO  Hiker:30 - Hiker Pera: is climbing to 5 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:22:01:888 INFO  Hiker:37 - Hiker Mika: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:22:01:888 INFO  Hiker:30 - Hiker Mika: is climbing to 6 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:22:02:712 INFO  Hiker:37 - Hiker Pera: is on 5 field
+[pool-1-thread-1] 2022-06-21 21:22:02:712 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:22:03:290 INFO  Hiker:37 - Hiker Mika: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:22:03:290 INFO  Hiker:30 - Hiker Mika: is climbing to 7 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:22:03:727 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:22:03:727 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:22:04:698 INFO  Hiker:37 - Hiker Mika: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:22:04:698 INFO  Hiker:30 - Hiker Mika: is climbing to 8 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:22:04:730 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:22:04:730 INFO  Hiker:30 - Hiker Pera: is climbing to 8 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:22:05:742 INFO  Hiker:37 - Hiker Pera: is on 8 field
+[pool-1-thread-1] 2022-06-21 21:22:05:742 INFO  Hiker:30 - Hiker Pera: is climbing to 9 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:22:06:100 INFO  Hiker:37 - Hiker Mika: is on 8 field
+[pool-1-thread-3] 2022-06-21 21:22:06:100 INFO  Hiker:30 - Hiker Mika: is climbing to 9 field (timeout: 1400)
+[pool-1-thread-2] 2022-06-21 21:24:21:812 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:24:21:812 INFO  Hiker:30 - Hiker Pera: is climbing to 1 field (timeout: 1000)
+[pool-1-thread-4] 2022-06-21 21:24:21:812 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:24:21:812 INFO  Hiker:30 - Hiker Mika: is climbing to 3 field (timeout: 1400)
+[pool-1-thread-4] 2022-06-21 21:24:22:017 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-4] 2022-06-21 21:24:22:017 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:24:22:231 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-4] 2022-06-21 21:24:22:231 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:24:22:434 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-4] 2022-06-21 21:24:22:434 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:24:22:617 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:24:22:617 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-4] 2022-06-21 21:24:22:638 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-4] 2022-06-21 21:24:22:639 INFO  Hiker:30 - Hiker Laza: is climbing to 8 field (timeout: 200)
+[pool-1-thread-1] 2022-06-21 21:24:22:823 INFO  Hiker:37 - Hiker Pera: is on 1 field
+[pool-1-thread-1] 2022-06-21 21:24:22:823 INFO  Hiker:30 - Hiker Pera: is climbing to 2 field (timeout: 1000)
+[pool-1-thread-4] 2022-06-21 21:24:22:841 INFO  Hiker:37 - Hiker Laza: is on 8 field
+[pool-1-thread-4] 2022-06-21 21:24:22:841 INFO  Hiker:30 - Hiker Laza: is climbing to 9 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:24:23:042 INFO  Hiker:37 - Hiker Laza: is on 9 field
+[pool-1-thread-4] 2022-06-21 21:24:23:042 INFO  Hiker:30 - Hiker Laza: is climbing to 10 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:24:23:218 INFO  Hiker:37 - Hiker Mika: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:24:23:218 INFO  Hiker:30 - Hiker Mika: is climbing to 4 field (timeout: 1400)
+[pool-1-thread-2] 2022-06-21 21:24:23:418 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:24:23:418 INFO  Hiker:30 - Hiker Zika: is climbing to 8 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:24:23:826 INFO  Hiker:37 - Hiker Pera: is on 2 field
+[pool-1-thread-1] 2022-06-21 21:24:23:826 INFO  Hiker:30 - Hiker Pera: is climbing to 3 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:24:24:233 INFO  Hiker:37 - Hiker Zika: is on 8 field
+[pool-1-thread-2] 2022-06-21 21:24:24:233 INFO  Hiker:30 - Hiker Zika: is climbing to 9 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:24:24:626 INFO  Hiker:37 - Hiker Mika: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:24:24:626 INFO  Hiker:30 - Hiker Mika: is climbing to 5 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:24:24:830 INFO  Hiker:37 - Hiker Pera: is on 3 field
+[pool-1-thread-1] 2022-06-21 21:24:24:830 INFO  Hiker:30 - Hiker Pera: is climbing to 4 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:24:25:035 INFO  Hiker:37 - Hiker Zika: is on 9 field
+[pool-1-thread-2] 2022-06-21 21:24:25:036 INFO  Hiker:30 - Hiker Zika: is climbing to 10 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:24:25:833 INFO  Hiker:37 - Hiker Pera: is on 4 field
+[pool-1-thread-1] 2022-06-21 21:24:25:833 INFO  Hiker:30 - Hiker Pera: is climbing to 5 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:24:26:034 INFO  Hiker:37 - Hiker Mika: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:24:26:034 INFO  Hiker:30 - Hiker Mika: is climbing to 6 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:24:26:841 INFO  Hiker:37 - Hiker Pera: is on 5 field
+[pool-1-thread-1] 2022-06-21 21:24:26:841 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:24:27:435 INFO  Hiker:37 - Hiker Mika: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:24:27:435 INFO  Hiker:30 - Hiker Mika: is climbing to 7 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:24:27:848 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:24:27:848 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:24:28:840 INFO  Hiker:37 - Hiker Mika: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:24:28:840 INFO  Hiker:30 - Hiker Mika: is climbing to 8 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:24:28:856 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:24:28:856 INFO  Hiker:30 - Hiker Pera: is climbing to 8 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:24:29:865 INFO  Hiker:37 - Hiker Pera: is on 8 field
+[pool-1-thread-1] 2022-06-21 21:24:29:865 INFO  Hiker:30 - Hiker Pera: is climbing to 9 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:24:30:253 INFO  Hiker:37 - Hiker Mika: is on 8 field
+[pool-1-thread-3] 2022-06-21 21:24:30:253 INFO  Hiker:30 - Hiker Mika: is climbing to 9 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:24:30:878 INFO  Hiker:37 - Hiker Pera: is on 9 field
+[pool-1-thread-1] 2022-06-21 21:24:30:878 INFO  Hiker:30 - Hiker Pera: is climbing to 10 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:24:31:668 INFO  Hiker:37 - Hiker Mika: is on 9 field
+[pool-1-thread-3] 2022-06-21 21:24:31:668 INFO  Hiker:30 - Hiker Mika: is climbing to 10 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:25:07:835 INFO  Hiker:30 - Hiker Pera: is climbing to 1 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:25:07:835 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:25:07:835 INFO  Hiker:30 - Hiker Mika: is climbing to 3 field (timeout: 1400)
+[pool-1-thread-4] 2022-06-21 21:25:07:835 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:25:08:050 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-4] 2022-06-21 21:25:08:050 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:25:08:257 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-4] 2022-06-21 21:25:08:257 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:25:08:460 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-4] 2022-06-21 21:25:08:460 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:25:08:639 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:25:08:640 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-4] 2022-06-21 21:25:08:674 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-4] 2022-06-21 21:25:08:674 INFO  Hiker:30 - Hiker Laza: is climbing to 8 field (timeout: 200)
+[pool-1-thread-1] 2022-06-21 21:25:08:838 INFO  Hiker:37 - Hiker Pera: is on 1 field
+[pool-1-thread-1] 2022-06-21 21:25:08:838 INFO  Hiker:30 - Hiker Pera: is climbing to 2 field (timeout: 1000)
+[pool-1-thread-4] 2022-06-21 21:25:08:876 INFO  Hiker:37 - Hiker Laza: is on 8 field
+[pool-1-thread-4] 2022-06-21 21:25:08:876 INFO  Hiker:30 - Hiker Laza: is climbing to 9 field (timeout: 200)
+[pool-1-thread-4] 2022-06-21 21:25:09:078 INFO  Hiker:37 - Hiker Laza: is on 9 field
+[pool-1-thread-4] 2022-06-21 21:25:09:078 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-3] 2022-06-21 21:25:09:251 INFO  Hiker:37 - Hiker Mika: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:25:09:251 INFO  Hiker:30 - Hiker Mika: is climbing to 4 field (timeout: 1400)
+[pool-1-thread-2] 2022-06-21 21:25:09:454 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:25:09:454 INFO  Hiker:30 - Hiker Zika: is climbing to 8 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:25:09:844 INFO  Hiker:37 - Hiker Pera: is on 2 field
+[pool-1-thread-1] 2022-06-21 21:25:09:844 INFO  Hiker:30 - Hiker Pera: is climbing to 3 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:25:10:256 INFO  Hiker:37 - Hiker Zika: is on 8 field
+[pool-1-thread-2] 2022-06-21 21:25:10:256 INFO  Hiker:30 - Hiker Zika: is climbing to 9 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:25:10:666 INFO  Hiker:37 - Hiker Mika: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:25:10:666 INFO  Hiker:30 - Hiker Mika: is climbing to 5 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:25:10:854 INFO  Hiker:37 - Hiker Pera: is on 3 field
+[pool-1-thread-1] 2022-06-21 21:25:10:854 INFO  Hiker:30 - Hiker Pera: is climbing to 4 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:25:11:058 INFO  Hiker:37 - Hiker Zika: is on 9 field
+[pool-1-thread-2] 2022-06-21 21:25:11:058 INFO  Hiker:39 - Hiker Zika: has finished climbing!
+[pool-1-thread-1] 2022-06-21 21:25:11:866 INFO  Hiker:37 - Hiker Pera: is on 4 field
+[pool-1-thread-1] 2022-06-21 21:25:11:866 INFO  Hiker:30 - Hiker Pera: is climbing to 5 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:25:12:071 INFO  Hiker:37 - Hiker Mika: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:25:12:071 INFO  Hiker:30 - Hiker Mika: is climbing to 6 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:25:12:868 INFO  Hiker:37 - Hiker Pera: is on 5 field
+[pool-1-thread-1] 2022-06-21 21:25:12:868 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:25:13:473 INFO  Hiker:37 - Hiker Mika: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:25:13:473 INFO  Hiker:30 - Hiker Mika: is climbing to 7 field (timeout: 1400)
+[pool-1-thread-1] 2022-06-21 21:25:13:882 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:25:13:882 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:25:29:169 INFO  Hiker:30 - Hiker Pera: is climbing to 1 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:25:29:169 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:25:29:169 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:25:29:379 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:25:29:380 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:25:29:582 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:25:29:582 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:25:29:785 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:25:29:785 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:25:29:976 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:25:29:977 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:25:29:992 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:25:29:992 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-1] 2022-06-21 21:25:30:180 INFO  Hiker:37 - Hiker Pera: is on 1 field
+[pool-1-thread-1] 2022-06-21 21:25:30:180 INFO  Hiker:30 - Hiker Pera: is climbing to 2 field (timeout: 1000)
+[pool-1-thread-2] 2022-06-21 21:25:30:779 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:25:30:779 INFO  Hiker:39 - Hiker Zika: has finished climbing!
+[pool-1-thread-1] 2022-06-21 21:25:31:185 INFO  Hiker:37 - Hiker Pera: is on 2 field
+[pool-1-thread-1] 2022-06-21 21:25:31:185 INFO  Hiker:30 - Hiker Pera: is climbing to 3 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:25:32:197 INFO  Hiker:37 - Hiker Pera: is on 3 field
+[pool-1-thread-1] 2022-06-21 21:25:32:197 INFO  Hiker:30 - Hiker Pera: is climbing to 4 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:25:33:212 INFO  Hiker:37 - Hiker Pera: is on 4 field
+[pool-1-thread-1] 2022-06-21 21:25:33:212 INFO  Hiker:30 - Hiker Pera: is climbing to 5 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:25:34:227 INFO  Hiker:37 - Hiker Pera: is on 5 field
+[pool-1-thread-1] 2022-06-21 21:25:34:227 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:25:35:243 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:25:35:243 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-1] 2022-06-21 21:25:36:248 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:25:36:248 INFO  Hiker:39 - Hiker Pera: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:26:44:830 INFO  Hiker:30 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:26:44:830 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:26:44:830 INFO  Hiker:30 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:26:45:038 INFO  Hiker:37 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 21:26:45:038 INFO  Hiker:30 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:26:45:244 INFO  Hiker:37 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 21:26:45:244 INFO  Hiker:30 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:26:45:447 INFO  Hiker:37 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:26:45:447 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:26:45:634 INFO  Hiker:37 - Hiker Zika: is on 4 field
+[pool-1-thread-2] 2022-06-21 21:26:45:634 INFO  Hiker:30 - Hiker Zika: is climbing to 5 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:26:45:650 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:26:45:650 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-1] 2022-06-21 21:26:45:838 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:26:45:839 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:26:45:853 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:26:45:854 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:26:46:057 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:26:46:057 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:26:46:260 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:26:46:261 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:26:46:447 INFO  Hiker:37 - Hiker Zika: is on 5 field
+[pool-1-thread-2] 2022-06-21 21:26:46:447 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:26:46:851 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:26:46:851 INFO  Hiker:39 - Hiker Pera: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:26:47:255 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:26:47:255 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-2] 2022-06-21 21:26:48:064 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:26:48:064 INFO  Hiker:39 - Hiker Zika: has finished climbing!
+[pool-1-thread-3] 2022-06-21 21:46:40:603 INFO  Hiker:30 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:46:40:603 INFO  Hiker:30 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:46:40:603 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:46:40:812 INFO  Hiker:37 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 21:46:40:813 INFO  Hiker:30 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:46:41:016 INFO  Hiker:37 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 21:46:41:017 INFO  Hiker:30 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:46:41:220 INFO  Hiker:37 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:46:41:221 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:46:41:410 INFO  Hiker:37 - Hiker Zika: is on 4 field
+[pool-1-thread-2] 2022-06-21 21:46:41:410 INFO  Hiker:30 - Hiker Zika: is climbing to 5 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:46:41:425 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:46:41:425 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-1] 2022-06-21 21:46:41:611 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:46:41:611 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:46:41:627 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:46:41:627 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:46:41:832 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:46:41:832 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:46:42:035 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:46:42:035 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:46:42:223 INFO  Hiker:37 - Hiker Zika: is on 5 field
+[pool-1-thread-2] 2022-06-21 21:46:42:223 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:46:42:614 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:46:42:614 INFO  Hiker:39 - Hiker Pera: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:46:43:031 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:46:43:031 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-2] 2022-06-21 21:46:43:847 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:46:43:847 INFO  Hiker:39 - Hiker Zika: has finished climbing!
+[pool-1-thread-3] 2022-06-21 21:47:10:721 INFO  Hiker:30 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:47:10:721 INFO  Hiker:30 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:47:10:721 INFO  Hiker:30 - Hiker Pera: is climbing to 6 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:47:10:925 INFO  Hiker:37 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 21:47:10:925 INFO  Hiker:30 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:47:11:127 INFO  Hiker:37 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 21:47:11:127 INFO  Hiker:30 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:47:11:332 INFO  Hiker:37 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 21:47:11:332 INFO  Hiker:30 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 21:47:11:534 INFO  Hiker:37 - Hiker Zika: is on 4 field
+[pool-1-thread-2] 2022-06-21 21:47:11:534 INFO  Hiker:30 - Hiker Zika: is climbing to 5 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 21:47:11:534 INFO  Hiker:37 - Hiker Laza: is on 4 field
+[pool-1-thread-3] 2022-06-21 21:47:11:534 INFO  Hiker:30 - Hiker Laza: is climbing to 5 field (timeout: 200)
+[pool-1-thread-1] 2022-06-21 21:47:11:726 INFO  Hiker:37 - Hiker Pera: is on 6 field
+[pool-1-thread-1] 2022-06-21 21:47:11:726 INFO  Hiker:30 - Hiker Pera: is climbing to 7 field (timeout: 1000)
+[pool-1-thread-3] 2022-06-21 21:47:11:737 INFO  Hiker:37 - Hiker Laza: is on 5 field
+[pool-1-thread-3] 2022-06-21 21:47:11:737 INFO  Hiker:30 - Hiker Laza: is climbing to 6 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:47:11:940 INFO  Hiker:37 - Hiker Laza: is on 6 field
+[pool-1-thread-3] 2022-06-21 21:47:11:940 INFO  Hiker:30 - Hiker Laza: is climbing to 7 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 21:47:12:145 INFO  Hiker:37 - Hiker Laza: is on 7 field
+[pool-1-thread-3] 2022-06-21 21:47:12:145 INFO  Hiker:39 - Hiker Laza: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:47:12:348 INFO  Hiker:37 - Hiker Zika: is on 5 field
+[pool-1-thread-2] 2022-06-21 21:47:12:348 INFO  Hiker:30 - Hiker Zika: is climbing to 6 field (timeout: 800)
+[pool-1-thread-1] 2022-06-21 21:47:12:736 INFO  Hiker:37 - Hiker Pera: is on 7 field
+[pool-1-thread-1] 2022-06-21 21:47:12:736 INFO  Hiker:39 - Hiker Pera: has finished climbing!
+[pool-1-thread-2] 2022-06-21 21:47:13:158 INFO  Hiker:37 - Hiker Zika: is on 6 field
+[pool-1-thread-2] 2022-06-21 21:47:13:158 INFO  Hiker:30 - Hiker Zika: is climbing to 7 field (timeout: 800)
+[pool-1-thread-2] 2022-06-21 21:47:13:969 INFO  Hiker:37 - Hiker Zika: is on 7 field
+[pool-1-thread-2] 2022-06-21 21:47:13:969 INFO  Hiker:39 - Hiker Zika: has finished climbing!
+[pool-1-thread-3] 2022-06-21 21:56:07:892 INFO  GuestRunnable:24 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 21:56:07:892 INFO  GuestRunnable:24 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 21:56:07:892 INFO  GuestRunnable:24 - Guest Mika starting the appetizer
+[pool-1-thread-1] 2022-06-21 21:56:08:906 INFO  GuestRunnable:26 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 21:56:08:906 INFO  GuestRunnable:29 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 21:56:09:902 INFO  GuestRunnable:26 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 21:56:09:902 INFO  GuestRunnable:29 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 21:56:10:905 INFO  GuestRunnable:26 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 21:56:10:905 INFO  GuestRunnable:29 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 21:56:10:906 INFO  GuestRunnable:38 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 21:56:10:906 INFO  GuestRunnable:38 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 21:56:10:906 INFO  GuestRunnable:38 - Guest Mika starting the main course
+[pool-1-thread-3] 2022-06-21 21:56:11:908 INFO  GuestRunnable:40 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 21:56:11:908 INFO  GuestRunnable:43 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-2] 2022-06-21 21:56:11:908 INFO  GuestRunnable:40 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 21:56:11:908 INFO  GuestRunnable:43 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 21:56:12:415 INFO  GuestRunnable:40 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 21:56:12:415 INFO  GuestRunnable:43 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 21:56:12:415 INFO  GuestRunnable:49 - Guest Mika starting the desert
+[pool-1-thread-2] 2022-06-21 21:56:12:416 INFO  GuestRunnable:49 - Guest Pera starting the desert
+[pool-1-thread-3] 2022-06-21 21:56:12:415 INFO  GuestRunnable:49 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 21:56:12:918 INFO  GuestRunnable:51 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 21:56:13:416 INFO  GuestRunnable:51 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 21:56:13:428 INFO  GuestRunnable:51 - Guest Laza finished desert
+[pool-1-thread-1] 2022-06-21 21:58:44:687 INFO  GuestRunnable:24 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 21:58:44:687 INFO  GuestRunnable:24 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 21:58:44:687 INFO  GuestRunnable:24 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 21:58:45:691 INFO  GuestRunnable:26 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 21:58:45:691 INFO  GuestRunnable:29 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 21:58:46:692 INFO  GuestRunnable:26 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 21:58:46:692 INFO  GuestRunnable:29 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 21:58:47:700 INFO  GuestRunnable:26 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 21:58:47:700 INFO  GuestRunnable:29 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 21:58:47:700 INFO  GuestRunnable:38 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 21:58:47:700 INFO  GuestRunnable:38 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 21:58:47:700 INFO  GuestRunnable:38 - Guest Mika starting the main course
+[pool-1-thread-2] 2022-06-21 21:58:48:703 INFO  GuestRunnable:40 - Guest Pera finished main course
+[pool-1-thread-3] 2022-06-21 21:58:48:703 INFO  GuestRunnable:40 - Guest Laza finished main course
+[pool-1-thread-2] 2022-06-21 21:58:48:703 INFO  GuestRunnable:43 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 21:58:48:704 INFO  GuestRunnable:43 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 21:58:49:209 INFO  GuestRunnable:40 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 21:58:49:209 INFO  GuestRunnable:43 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 21:58:49:209 INFO  GuestRunnable:49 - Guest Mika starting the desert
+[pool-1-thread-2] 2022-06-21 21:58:49:209 INFO  GuestRunnable:49 - Guest Pera starting the desert
+[pool-1-thread-3] 2022-06-21 21:58:49:209 INFO  GuestRunnable:49 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 21:58:49:723 INFO  GuestRunnable:51 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 21:58:50:212 INFO  GuestRunnable:51 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 21:58:50:218 INFO  GuestRunnable:51 - Guest Laza finished desert
+[pool-1-thread-1] 2022-06-21 22:02:49:903 INFO  GuestRunnable:24 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 22:02:49:903 INFO  GuestRunnable:24 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 22:02:49:903 INFO  GuestRunnable:24 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 22:02:50:916 INFO  GuestRunnable:26 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 22:02:50:916 INFO  GuestRunnable:29 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 22:02:51:913 INFO  GuestRunnable:26 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 22:02:51:913 INFO  GuestRunnable:29 - Guest Laza is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 22:02:52:911 INFO  GuestRunnable:26 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 22:02:52:912 INFO  GuestRunnable:29 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 22:02:52:912 INFO  GuestRunnable:38 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 22:02:52:912 INFO  GuestRunnable:38 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 22:02:52:912 INFO  GuestRunnable:38 - Guest Mika starting the main course
+[pool-1-thread-2] 2022-06-21 22:02:53:913 INFO  GuestRunnable:40 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 22:02:53:913 INFO  GuestRunnable:43 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 22:02:53:913 INFO  GuestRunnable:40 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 22:02:53:913 INFO  GuestRunnable:43 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:02:54:418 INFO  GuestRunnable:40 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 22:02:54:418 INFO  GuestRunnable:43 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:02:54:418 INFO  GuestRunnable:49 - Guest Mika starting the desert
+[pool-1-thread-2] 2022-06-21 22:02:54:418 INFO  GuestRunnable:49 - Guest Pera starting the desert
+[pool-1-thread-3] 2022-06-21 22:02:54:418 INFO  GuestRunnable:49 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 22:02:54:919 INFO  GuestRunnable:51 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 22:02:55:419 INFO  GuestRunnable:51 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 22:02:55:421 INFO  GuestRunnable:51 - Guest Laza finished desert
+[pool-1-thread-3] 2022-06-21 22:03:31:639 INFO  GuestRunnable:24 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 22:03:31:639 INFO  GuestRunnable:24 - Guest Mika starting the appetizer
+[pool-1-thread-2] 2022-06-21 22:03:31:639 INFO  GuestRunnable:24 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 22:03:32:653 INFO  GuestRunnable:26 - Guest Mika finished appetizer
+[pool-2-thread-1] 2022-06-21 22:03:32:653 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 22:03:32:653 INFO  GuestRunnable:29 - Guest Mika is waiting for others to finish appetizer
+[pool-1-thread-3] 2022-06-21 22:03:33:642 INFO  GuestRunnable:26 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 22:03:33:642 INFO  GuestRunnable:29 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 22:03:33:648 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:03:33:648 INFO  WaiterRunnable:20 - Informing the cook to prepare the next meal
+[pool-1-thread-2] 2022-06-21 22:03:34:642 INFO  GuestRunnable:26 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 22:03:34:643 INFO  GuestRunnable:29 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 22:03:34:643 INFO  GuestRunnable:38 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 22:03:34:643 INFO  GuestRunnable:38 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 22:03:34:643 INFO  GuestRunnable:38 - Guest Mika starting the main course
+[pool-2-thread-1] 2022-06-21 22:03:34:651 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:03:35:641 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:03:35:645 INFO  GuestRunnable:40 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 22:03:35:645 INFO  GuestRunnable:43 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 22:03:35:657 INFO  GuestRunnable:40 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 22:03:35:657 INFO  GuestRunnable:43 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:03:36:155 INFO  GuestRunnable:40 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 22:03:36:155 INFO  GuestRunnable:43 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:03:36:156 INFO  GuestRunnable:49 - Guest Mika starting the desert
+[pool-1-thread-3] 2022-06-21 22:03:36:156 INFO  GuestRunnable:49 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 22:03:36:156 INFO  GuestRunnable:49 - Guest Pera starting the desert
+[pool-2-thread-1] 2022-06-21 22:03:36:650 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:03:36:666 INFO  GuestRunnable:51 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 22:03:37:157 INFO  GuestRunnable:51 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 22:03:37:157 INFO  GuestRunnable:51 - Guest Laza finished desert
+[pool-1-thread-2] 2022-06-21 22:04:29:864 INFO  GuestRunnable:24 - Guest Pera starting the appetizer
+[pool-1-thread-1] 2022-06-21 22:04:29:864 INFO  GuestRunnable:24 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 22:04:29:864 INFO  GuestRunnable:24 - Guest Laza starting the appetizer
+[pool-1-thread-1] 2022-06-21 22:04:30:868 INFO  GuestRunnable:26 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 22:04:30:868 INFO  GuestRunnable:29 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 22:04:30:868 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:04:31:866 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 22:04:31:882 INFO  GuestRunnable:26 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 22:04:31:882 INFO  GuestRunnable:29 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 22:04:32:861 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:04:32:877 INFO  GuestRunnable:26 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 22:04:32:877 INFO  GuestRunnable:29 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 22:04:32:877 INFO  GuestRunnable:38 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 22:04:32:877 INFO  GuestRunnable:38 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 22:04:32:877 INFO  GuestRunnable:38 - Guest Mika starting the main course
+[pool-2-thread-1] 2022-06-21 22:04:33:872 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:04:33:878 INFO  GuestRunnable:40 - Guest Pera finished main course
+[pool-1-thread-3] 2022-06-21 22:04:33:878 INFO  GuestRunnable:40 - Guest Laza finished main course
+[pool-1-thread-2] 2022-06-21 22:04:33:878 INFO  GuestRunnable:43 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 22:04:33:879 INFO  GuestRunnable:43 - Guest Laza is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:04:34:382 INFO  GuestRunnable:40 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 22:04:34:382 INFO  GuestRunnable:43 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:04:34:382 INFO  GuestRunnable:49 - Guest Mika starting the desert
+[pool-1-thread-3] 2022-06-21 22:04:34:382 INFO  GuestRunnable:49 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 22:04:34:382 INFO  GuestRunnable:49 - Guest Pera starting the desert
+[pool-2-thread-1] 2022-06-21 22:04:34:862 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:04:34:893 INFO  GuestRunnable:51 - Guest Pera finished desert
+[pool-1-thread-1] 2022-06-21 22:04:35:383 INFO  GuestRunnable:51 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 22:04:35:385 INFO  GuestRunnable:51 - Guest Laza finished desert
+[pool-1-thread-1] 2022-06-21 22:05:14:099 INFO  GuestRunnable:24 - Guest Mika starting the appetizer
+[pool-1-thread-3] 2022-06-21 22:05:14:099 INFO  GuestRunnable:24 - Guest Laza starting the appetizer
+[pool-1-thread-2] 2022-06-21 22:05:14:099 INFO  GuestRunnable:24 - Guest Pera starting the appetizer
+[pool-2-thread-1] 2022-06-21 22:05:14:312 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:14:502 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:14:706 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:14:907 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 22:05:15:102 INFO  GuestRunnable:26 - Guest Mika finished appetizer
+[pool-1-thread-1] 2022-06-21 22:05:15:102 INFO  GuestRunnable:29 - Guest Mika is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 22:05:15:110 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:15:309 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:15:499 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:15:701 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:15:903 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 22:05:16:107 INFO  GuestRunnable:26 - Guest Laza finished appetizer
+[pool-1-thread-3] 2022-06-21 22:05:16:107 INFO  GuestRunnable:29 - Guest Laza is waiting for others to finish appetizer
+[pool-2-thread-1] 2022-06-21 22:05:16:107 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:16:309 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:16:511 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:16:712 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:16:898 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:17:101 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:05:17:104 INFO  GuestRunnable:26 - Guest Pera finished appetizer
+[pool-1-thread-2] 2022-06-21 22:05:17:104 INFO  GuestRunnable:29 - Guest Pera is waiting for others to finish appetizer
+[pool-1-thread-2] 2022-06-21 22:05:17:104 INFO  GuestRunnable:38 - Guest Pera starting the main course
+[pool-1-thread-3] 2022-06-21 22:05:17:104 INFO  GuestRunnable:38 - Guest Laza starting the main course
+[pool-1-thread-1] 2022-06-21 22:05:17:104 INFO  GuestRunnable:38 - Guest Mika starting the main course
+[pool-2-thread-1] 2022-06-21 22:05:17:301 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:17:506 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:17:709 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:17:910 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:05:18:106 INFO  GuestRunnable:40 - Guest Pera finished main course
+[pool-1-thread-2] 2022-06-21 22:05:18:106 INFO  GuestRunnable:43 - Guest Pera is waiting for others to finish main course
+[pool-1-thread-3] 2022-06-21 22:05:18:106 INFO  GuestRunnable:40 - Guest Laza finished main course
+[pool-1-thread-3] 2022-06-21 22:05:18:107 INFO  GuestRunnable:43 - Guest Laza is waiting for others to finish main course
+[pool-2-thread-1] 2022-06-21 22:05:18:112 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:18:299 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:18:503 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 22:05:18:612 INFO  GuestRunnable:40 - Guest Mika finished main course
+[pool-1-thread-1] 2022-06-21 22:05:18:612 INFO  GuestRunnable:43 - Guest Mika is waiting for others to finish main course
+[pool-1-thread-1] 2022-06-21 22:05:18:612 INFO  GuestRunnable:49 - Guest Mika starting the desert
+[pool-1-thread-3] 2022-06-21 22:05:18:612 INFO  GuestRunnable:49 - Guest Laza starting the desert
+[pool-1-thread-2] 2022-06-21 22:05:18:612 INFO  GuestRunnable:49 - Guest Pera starting the desert
+[pool-2-thread-1] 2022-06-21 22:05:18:706 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:18:909 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:19:111 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 22:05:19:126 INFO  GuestRunnable:51 - Guest Pera finished desert
+[pool-2-thread-1] 2022-06-21 22:05:19:297 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 22:05:19:499 INFO  WaiterRunnable:18 - Waiter is checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 22:05:19:614 INFO  GuestRunnable:51 - Guest Mika finished desert
+[pool-1-thread-3] 2022-06-21 22:05:19:614 INFO  GuestRunnable:51 - Guest Laza finished desert
+[main] 2022-06-21 22:53:16:237 INFO  SemHiker:24 - Hiker Pera is initial on field 5
+[main] 2022-06-21 22:53:32:005 INFO  SemHiker:24 - Hiker Pera is initial on field 4
+[main] 2022-06-21 22:53:32:007 INFO  SemHiker:24 - Hiker Zika is initial on field 3
+[main] 2022-06-21 22:53:32:007 INFO  SemHiker:24 - Hiker Laza is initial on field 0
+[pool-1-thread-1] 2022-06-21 22:53:32:010 INFO  SemHiker:46 - Hiker Pera: has finished climbing!
+[pool-1-thread-3] 2022-06-21 22:53:32:010 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 0
+[pool-1-thread-2] 2022-06-21 22:53:32:010 INFO  SemHiker:31 - Hiker Zika is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:53:32:211 INFO  SemHiker:37 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:53:32:724 INFO  SemHiker:44 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 22:53:32:724 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 1
+[pool-1-thread-2] 2022-06-21 22:53:32:818 INFO  SemHiker:37 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 22:53:32:927 INFO  SemHiker:37 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 22:53:33:129 INFO  SemHiker:44 - Hiker Zika: is on 4 field
+[pool-1-thread-2] 2022-06-21 22:53:33:129 INFO  SemHiker:46 - Hiker Zika: has finished climbing!
+[pool-1-thread-3] 2022-06-21 22:53:33:440 INFO  SemHiker:44 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 22:53:33:440 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 2
+[pool-1-thread-3] 2022-06-21 22:53:33:643 INFO  SemHiker:37 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:53:34:155 INFO  SemHiker:44 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 22:53:34:155 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:53:34:359 INFO  SemHiker:37 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:53:34:862 INFO  SemHiker:44 - Hiker Laza: is on 4 field
+[pool-1-thread-3] 2022-06-21 22:53:34:862 INFO  SemHiker:46 - Hiker Laza: has finished climbing!
+[main] 2022-06-21 22:54:43:797 INFO  SemHiker:24 - Hiker Pera is initial on field 4
+[main] 2022-06-21 22:54:43:799 INFO  SemHiker:24 - Hiker Zika is initial on field 3
+[main] 2022-06-21 22:54:43:799 INFO  SemHiker:24 - Hiker Laza is initial on field 0
+[pool-1-thread-2] 2022-06-21 22:54:43:802 INFO  SemHiker:31 - Hiker Zika is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:54:43:803 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 0
+[pool-1-thread-3] 2022-06-21 22:54:44:018 INFO  SemHiker:37 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:54:44:522 INFO  SemHiker:44 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 22:54:44:522 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 1
+[pool-1-thread-2] 2022-06-21 22:54:44:616 INFO  SemHiker:37 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 22:54:44:724 INFO  SemHiker:37 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 22:54:44:926 INFO  SemHiker:44 - Hiker Zika: is on 4 field
+[pool-1-thread-3] 2022-06-21 22:54:45:226 INFO  SemHiker:44 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 22:54:45:226 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 2
+[pool-1-thread-3] 2022-06-21 22:54:45:429 INFO  SemHiker:37 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:54:45:929 INFO  SemHiker:44 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 22:54:45:929 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:54:46:131 INFO  SemHiker:37 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:54:46:645 INFO  SemHiker:44 - Hiker Laza: is on 4 field
+[main] 2022-06-21 22:54:53:489 INFO  SemHiker:24 - Hiker Pera is initial on field 4
+[main] 2022-06-21 22:54:53:490 INFO  SemHiker:24 - Hiker Zika is initial on field 3
+[main] 2022-06-21 22:54:53:490 INFO  SemHiker:24 - Hiker Laza is initial on field 0
+[pool-1-thread-2] 2022-06-21 22:54:53:494 INFO  SemHiker:31 - Hiker Zika is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:54:53:494 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 0
+[pool-1-thread-3] 2022-06-21 22:54:53:704 INFO  SemHiker:37 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:54:54:207 INFO  SemHiker:44 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 22:54:54:207 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 1
+[pool-1-thread-2] 2022-06-21 22:54:54:295 INFO  SemHiker:37 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 22:54:54:411 INFO  SemHiker:37 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-2] 2022-06-21 22:54:54:598 INFO  SemHiker:44 - Hiker Zika: is on 4 field
+[pool-1-thread-3] 2022-06-21 22:54:54:925 INFO  SemHiker:44 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 22:54:54:925 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 2
+[pool-1-thread-3] 2022-06-21 22:54:55:128 INFO  SemHiker:37 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:54:55:630 INFO  SemHiker:44 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 22:54:55:630 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:54:55:832 INFO  SemHiker:37 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:54:56:342 INFO  SemHiker:44 - Hiker Laza: is on 4 field
+[main] 2022-06-21 22:55:12:166 INFO  SemHiker:24 - Hiker Pera is initial on field 4
+[main] 2022-06-21 22:55:12:168 INFO  SemHiker:24 - Hiker Zika is initial on field 3
+[main] 2022-06-21 22:55:12:168 INFO  SemHiker:24 - Hiker Laza is initial on field 0
+[pool-1-thread-3] 2022-06-21 22:55:12:172 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 0
+[pool-1-thread-2] 2022-06-21 22:55:12:172 INFO  SemHiker:31 - Hiker Zika is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:55:12:376 INFO  SemHiker:37 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:12:485 INFO  SemHiker:44 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 22:55:12:485 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 1
+[pool-1-thread-3] 2022-06-21 22:55:12:690 INFO  SemHiker:37 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:12:801 INFO  SemHiker:44 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 22:55:12:801 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 2
+[pool-1-thread-2] 2022-06-21 22:55:12:989 INFO  SemHiker:37 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 22:55:13:005 INFO  SemHiker:37 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:13:115 INFO  SemHiker:44 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 22:55:13:115 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 3
+[pool-1-thread-2] 2022-06-21 22:55:13:303 INFO  SemHiker:44 - Hiker Zika: is on 4 field
+[pool-1-thread-3] 2022-06-21 22:55:13:319 INFO  SemHiker:37 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:13:426 INFO  SemHiker:44 - Hiker Laza: is on 4 field
+[main] 2022-06-21 22:55:36:377 INFO  SemHiker:24 - Hiker Pera is initial on field 4
+[main] 2022-06-21 22:55:36:379 INFO  SemHiker:24 - Hiker Zika is initial on field 3
+[main] 2022-06-21 22:55:36:379 INFO  SemHiker:24 - Hiker Laza is initial on field 0
+[pool-1-thread-2] 2022-06-21 22:55:36:382 INFO  SemHiker:31 - Hiker Zika is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:55:36:382 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 0
+[pool-1-thread-3] 2022-06-21 22:55:36:597 INFO  SemHiker:37 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:36:708 INFO  SemHiker:44 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 22:55:36:708 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 1
+[pool-1-thread-3] 2022-06-21 22:55:36:910 INFO  SemHiker:37 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:37:019 INFO  SemHiker:44 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 22:55:37:019 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 2
+[pool-1-thread-2] 2022-06-21 22:55:37:192 INFO  SemHiker:37 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 22:55:37:223 INFO  SemHiker:37 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:37:334 INFO  SemHiker:44 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 22:55:37:334 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 3
+[pool-1-thread-2] 2022-06-21 22:55:37:505 INFO  SemHiker:44 - Hiker Zika: is on 4 field
+[pool-1-thread-3] 2022-06-21 22:55:37:536 INFO  SemHiker:37 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:55:37:645 INFO  SemHiker:44 - Hiker Laza: is on 4 field
+[main] 2022-06-21 22:56:00:308 INFO  SemHiker:24 - Hiker Pera is initial on field 4
+[main] 2022-06-21 22:56:00:309 INFO  SemHiker:24 - Hiker Zika is initial on field 3
+[main] 2022-06-21 22:56:00:309 INFO  SemHiker:24 - Hiker Laza is initial on field 0
+[pool-1-thread-2] 2022-06-21 22:56:00:313 INFO  SemHiker:31 - Hiker Zika is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:56:00:313 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 0
+[pool-1-thread-3] 2022-06-21 22:56:00:517 INFO  SemHiker:37 - Hiker Laza: is climbing to 1 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:56:00:627 INFO  SemHiker:44 - Hiker Laza: is on 1 field
+[pool-1-thread-3] 2022-06-21 22:56:00:627 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 1
+[pool-1-thread-3] 2022-06-21 22:56:00:829 INFO  SemHiker:37 - Hiker Laza: is climbing to 2 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:56:00:937 INFO  SemHiker:44 - Hiker Laza: is on 2 field
+[pool-1-thread-3] 2022-06-21 22:56:00:937 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 2
+[pool-1-thread-2] 2022-06-21 22:56:01:123 INFO  SemHiker:37 - Hiker Zika: is climbing to 4 field (timeout: 800)
+[pool-1-thread-3] 2022-06-21 22:56:01:138 INFO  SemHiker:37 - Hiker Laza: is climbing to 3 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:56:01:249 INFO  SemHiker:44 - Hiker Laza: is on 3 field
+[pool-1-thread-3] 2022-06-21 22:56:01:249 INFO  SemHiker:31 - Hiker Laza is currently waiting on field 3
+[pool-1-thread-3] 2022-06-21 22:56:01:451 INFO  SemHiker:37 - Hiker Laza: is climbing to 4 field (timeout: 200)
+[pool-1-thread-3] 2022-06-21 22:56:01:559 INFO  SemHiker:44 - Hiker Laza: is on 4 field
+[pool-1-thread-2] 2022-06-21 22:56:01:626 INFO  SemHiker:44 - Hiker Zika: is on 4 field
+[pool-1-thread-2] 2022-06-21 23:45:00:952 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:45:00:952 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-21 23:45:00:952 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:45:01:858 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-21 23:45:01:958 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:45:01:965 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:01:966 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:45:02:468 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-1-thread-3] 2022-06-21 23:45:02:469 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:45:02:469 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:45:03:972 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-21 23:45:03:976 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-3-thread-1] 2022-06-21 23:45:06:969 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:45:06:970 INFO  Waiter:26 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:45:06:971 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:06:972 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-2-thread-1] 2022-06-21 23:45:06:973 INFO  Waiter:26 - Waiter: serve meals
+[pool-1-thread-2] 2022-06-21 23:45:06:972 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-21 23:45:06:973 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:06:976 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:45:08:976 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-21 23:45:11:991 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:45:11:991 INFO  Waiter:26 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:45:11:992 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:992 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:993 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:993 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:993 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:994 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:994 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:11:994 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:12:959 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:13:958 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:14:962 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:15:964 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:45:16:966 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 23:47:21:974 INFO  Guests:24 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:47:21:974 INFO  Guests:24 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-21 23:47:21:974 INFO  Guests:24 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:47:22:877 INFO  Guests:26 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-21 23:47:22:987 INFO  Guests:26 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:47:22:987 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:47:22:989 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:47:23:490 INFO  Guests:26 - Guest Mika: finished appetizer
+[pool-1-thread-2] 2022-06-21 23:47:23:491 INFO  Guests:39 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:47:23:491 INFO  Guests:39 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:47:23:491 INFO  Guests:39 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:47:25:004 INFO  Guests:41 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-21 23:47:25:004 INFO  Guests:41 - Guest Zika: finished mainCourse
+[pool-1-thread-2] 2022-06-21 23:47:25:493 INFO  Guests:41 - Guest Mika: finished mainCourse
+[pool-1-thread-2] 2022-06-21 23:47:25:494 INFO  Guests:51 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-21 23:47:25:494 INFO  Guests:51 - Guest Zika: starting the desert
+[pool-1-thread-1] 2022-06-21 23:47:25:494 INFO  Guests:51 - Guest Pera: starting the desert
+[pool-1-thread-3] 2022-06-21 23:47:25:896 INFO  Guests:53 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-21 23:47:26:006 INFO  Guests:53 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-21 23:47:26:295 INFO  Guests:53 - Guest Mika: finished desert
+[pool-3-thread-1] 2022-06-21 23:47:28:000 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:47:28:000 INFO  Waiter:26 - Waiter: serve meals
+[pool-1-thread-3] 2022-06-21 23:47:51:566 INFO  Guests:24 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-21 23:47:51:566 INFO  Guests:24 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-21 23:47:51:566 INFO  Guests:24 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:47:52:478 INFO  Guests:26 - Guest Zika: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:47:52:566 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:47:52:567 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-1] 2022-06-21 23:47:52:571 INFO  Guests:26 - Guest Pera: finished appetizer
+[pool-1-thread-2] 2022-06-21 23:47:53:071 INFO  Guests:26 - Guest Mika: finished appetizer
+[pool-1-thread-2] 2022-06-21 23:47:53:071 INFO  Guests:39 - Guest Mika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:47:53:071 INFO  Guests:39 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:47:53:071 INFO  Guests:39 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:47:54:572 INFO  Guests:41 - Guest Pera: finished mainCourse
+[pool-1-thread-3] 2022-06-21 23:47:54:584 INFO  Guests:41 - Guest Zika: finished mainCourse
+[pool-1-thread-2] 2022-06-21 23:47:55:072 INFO  Guests:41 - Guest Mika: finished mainCourse
+[pool-1-thread-2] 2022-06-21 23:47:55:073 INFO  Guests:51 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-21 23:47:55:073 INFO  Guests:51 - Guest Zika: starting the desert
+[pool-1-thread-1] 2022-06-21 23:47:55:073 INFO  Guests:51 - Guest Pera: starting the desert
+[pool-1-thread-3] 2022-06-21 23:47:55:475 INFO  Guests:53 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-21 23:47:55:589 INFO  Guests:53 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-21 23:47:55:874 INFO  Guests:53 - Guest Mika: finished desert
+[pool-3-thread-1] 2022-06-21 23:47:57:582 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:47:57:582 INFO  Waiter:26 - Waiter: serve meals
+[pool-1-thread-1] 2022-06-21 23:49:25:922 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-21 23:49:25:922 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:49:25:922 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:49:26:837 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:49:26:922 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:49:26:923 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-1] 2022-06-21 23:49:26:932 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-1-thread-2] 2022-06-21 23:49:27:433 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-1-thread-3] 2022-06-21 23:49:27:434 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:49:27:434 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:49:28:936 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-21 23:49:28:937 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-3-thread-1] 2022-06-21 23:49:31:926 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:49:31:927 INFO  Waiter:26 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:49:31:928 INFO  Waiter:19 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:49:31:928 INFO  Waiter:24 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:49:31:928 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-2] 2022-06-21 23:49:33:936 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-1-thread-3] 2022-06-21 23:56:22:544 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-21 23:56:22:544 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-21 23:56:22:544 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:56:23:450 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-21 23:56:23:550 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:56:23:556 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:23:558 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:56:24:061 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-1-thread-3] 2022-06-21 23:56:24:062 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-1] 2022-06-21 23:56:24:062 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:56:25:563 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-21 23:56:25:567 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-3-thread-1] 2022-06-21 23:56:28:565 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:56:28:565 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:56:28:566 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-2] 2022-06-21 23:56:28:566 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-21 23:56:28:566 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:56:30:568 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-1-thread-2] 2022-06-21 23:56:30:568 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-1-thread-3] 2022-06-21 23:56:30:568 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-3] 2022-06-21 23:56:30:980 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-2] 2022-06-21 23:56:31:370 INFO  Guests:56 - Guest Mika: finished desert
+[pool-3-thread-1] 2022-06-21 23:56:33:568 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:56:33:568 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:56:33:569 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:569 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 23:56:33:569 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-2-thread-1] 2022-06-21 23:56:33:569 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:570 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:570 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:570 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:571 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:571 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:56:33:571 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 23:56:34:071 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-3] 2022-06-21 23:58:03:681 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-1] 2022-06-21 23:58:03:681 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-2] 2022-06-21 23:58:03:681 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:58:04:586 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:58:04:684 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:04:685 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-1] 2022-06-21 23:58:04:688 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-1-thread-2] 2022-06-21 23:58:05:189 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-21 23:58:09:699 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:58:09:700 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:58:09:700 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 23:58:09:701 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:58:09:701 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-1-thread-2] 2022-06-21 23:58:09:701 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-2-thread-1] 2022-06-21 23:58:09:701 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:09:703 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:09:703 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:09:704 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:10:689 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 23:58:11:202 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-21 23:58:11:203 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-21 23:58:11:684 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:11:684 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:58:11:715 INFO  Guests:43 - Guest Mika: finished mainCourse
+[pool-3-thread-1] 2022-06-21 23:58:16:694 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:58:16:695 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:58:16:696 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 23:58:16:696 INFO  Guests:54 - Guest Pera: starting the desert
+[pool-1-thread-3] 2022-06-21 23:58:16:696 INFO  Guests:54 - Guest Zika: starting the desert
+[pool-1-thread-2] 2022-06-21 23:58:16:696 INFO  Guests:54 - Guest Mika: starting the desert
+[pool-2-thread-1] 2022-06-21 23:58:16:697 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:16:700 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:16:701 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:58:16:702 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 23:58:17:102 INFO  Guests:56 - Guest Zika: finished desert
+[pool-1-thread-1] 2022-06-21 23:58:17:199 INFO  Guests:56 - Guest Pera: finished desert
+[pool-1-thread-2] 2022-06-21 23:58:17:507 INFO  Guests:56 - Guest Mika: finished desert
+[pool-1-thread-1] 2022-06-21 23:59:51:336 INFO  Guests:25 - Guest Pera: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:59:51:336 INFO  Guests:25 - Guest Zika: starting the appetizer
+[pool-1-thread-2] 2022-06-21 23:59:51:336 INFO  Guests:25 - Guest Mika: starting the appetizer
+[pool-1-thread-3] 2022-06-21 23:59:52:249 INFO  Guests:27 - Guest Zika: finished appetizer
+[pool-1-thread-1] 2022-06-21 23:59:52:342 INFO  Guests:27 - Guest Pera: finished appetizer
+[pool-2-thread-1] 2022-06-21 23:59:52:342 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:59:52:343 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:59:52:845 INFO  Guests:27 - Guest Mika: finished appetizer
+[pool-3-thread-1] 2022-06-21 23:59:57:352 INFO  Chief:26 - Chief: I'm notifying waiter that meals are made
+[pool-2-thread-1] 2022-06-21 23:59:57:353 INFO  Waiter:28 - Waiter: serve meals
+[pool-2-thread-1] 2022-06-21 23:59:57:354 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-1] 2022-06-21 23:59:57:354 INFO  Guests:41 - Guest Pera: starting the mainCourse
+[pool-1-thread-2] 2022-06-21 23:59:57:354 INFO  Guests:41 - Guest Mika: starting the mainCourse
+[pool-1-thread-3] 2022-06-21 23:59:57:354 INFO  Guests:41 - Guest Zika: starting the mainCourse
+[pool-2-thread-1] 2022-06-21 23:59:57:355 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:59:57:358 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:59:57:359 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:59:57:360 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:59:58:343 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-1-thread-3] 2022-06-21 23:59:58:858 INFO  Guests:43 - Guest Zika: finished mainCourse
+[pool-1-thread-1] 2022-06-21 23:59:58:858 INFO  Guests:43 - Guest Pera: finished mainCourse
+[pool-2-thread-1] 2022-06-21 23:59:59:346 INFO  Waiter:21 - Waiter: I'm checking if enough guests have finished the meal
+[pool-2-thread-1] 2022-06-21 23:59:59:346 INFO  Waiter:26 - Waiter: Waiting for chief to prepare new meals
+[pool-1-thread-2] 2022-06-21 23:59:59:358 INFO  Guests:43 - Guest Mika: finished mainCourse

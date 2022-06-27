@@ -1,0 +1,15 @@
+[Thread-3] 2022-06-17 21:50:32 INFO  SharedStorage:11 - Waiting to get message
+[Thread-5] 2022-06-17 21:50:32 INFO  SharedStorage:11 - Waiting to get message
+[Thread-4] 2022-06-17 21:50:32 INFO  SharedStorage:11 - Waiting to get message
+[Thread-2] 2022-06-17 21:50:32 INFO  SharedStorage:26 - Thread is waiting to set the message
+[Thread-2] 2022-06-17 21:50:32 INFO  SharedStorage:34 - Setting the message
+[Thread-3] 2022-06-17 21:50:32 INFO  SharedStorage:19 - Got the message
+[Thread-3] 2022-06-17 21:50:32 INFO  Consumer:13 - Message 2
+[Thread-1] 2022-06-17 21:50:32 INFO  SharedStorage:26 - Thread is waiting to set the message
+[Thread-1] 2022-06-17 21:50:32 INFO  SharedStorage:34 - Setting the message
+[Thread-0] 2022-06-17 21:50:32 INFO  SharedStorage:26 - Thread is waiting to set the message
+[Thread-5] 2022-06-17 21:50:32 INFO  SharedStorage:19 - Got the message
+[Thread-5] 2022-06-17 21:50:32 INFO  Consumer:13 - Message 1
+[Thread-0] 2022-06-17 21:50:32 INFO  SharedStorage:34 - Setting the message
+[Thread-4] 2022-06-17 21:50:32 INFO  SharedStorage:19 - Got the message
+[Thread-4] 2022-06-17 21:50:32 INFO  Consumer:13 - Message 0

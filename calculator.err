@@ -1,0 +1,16 @@
+[pool-1-thread-3] 2022-06-23 19:22:00:087 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 3000)
+[pool-1-thread-2] 2022-06-23 19:22:00:087 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 2000)
+[pool-1-thread-6] 2022-06-23 19:22:00:087 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 2000)
+[pool-1-thread-4] 2022-06-23 19:22:00:087 INFO  ConverterTask:18 - Converting the value with converter REVERSER  (timeout 4000)
+[pool-1-thread-1] 2022-06-23 19:22:00:087 INFO  ConverterTask:18 - Converting the value with converter SCRAMBLER  (timeout 1000)
+[pool-1-thread-5] 2022-06-23 19:22:00:087 INFO  ConverterTask:18 - Converting the value with converter CAPITALIZER  (timeout 1500)
+[pool-1-thread-5] 2022-06-23 19:22:01:596 INFO  ConverterTask:27 - CAPITALIZER - Countdown
+[pool-1-thread-5] 2022-06-23 19:22:01:596 INFO  ConverterTask:29 - CAPITALIZER - Converted value: THIS IS A MESSAGE
+[pool-1-thread-2] 2022-06-23 19:22:02:092 INFO  ConverterTask:27 - REVERSER - Countdown
+[pool-1-thread-2] 2022-06-23 19:22:02:092 INFO  ConverterTask:29 - REVERSER - Converted value: egassem a si sihT
+[main] 2022-06-23 19:22:02:092 INFO  CountDownLatchDemo:33 - Enough tasks have finished, abandoning other tasks
+[main] 2022-06-23 19:22:02:094 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[pool-1-thread-4] 2022-06-23 19:22:02:094 WARN  ConverterTask:24 - REVERSER - Conversion abandoned
+[main] 2022-06-23 19:22:02:094 ERROR CountDownLatchDemo:44 - This task has been canceled!
+[main] 2022-06-23 19:22:02:094 ERROR CountDownLatchDemo:42 - This task has been abandoned
+[main] 2022-06-23 19:22:02:095 ERROR CountDownLatchDemo:44 - This task has been canceled!

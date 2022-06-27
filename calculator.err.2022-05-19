@@ -1,0 +1,46 @@
+[Thread-1] 2022-05-19 17:47:05 INFO  Consumer:11 - Waiting for message to be generated
+[Thread-0] 2022-05-19 17:47:05 INFO  Producer:16 - Waiting for storage to become empty
+[Thread-0] 2022-05-19 17:47:05 INFO  Producer:19 - Producing the message
+[Thread-1] 2022-05-19 17:47:05 INFO  Consumer:13 - Taking message from storage
+[Thread-1] 2022-05-19 17:47:05 INFO  Consumer:14 - Message: The message
+[Thread-3] 2022-05-19 18:08:54 INFO  SharedStorage:11 - Waiting to get message
+[Thread-5] 2022-05-19 18:08:54 INFO  SharedStorage:11 - Waiting to get message
+[Thread-4] 2022-05-19 18:08:54 INFO  SharedStorage:11 - Waiting to get message
+[Thread-1] 2022-05-19 18:08:54 INFO  SharedStorage:26 - Thread is waiting to set the message
+[Thread-1] 2022-05-19 18:08:54 INFO  SharedStorage:34 - Setting the message
+[Thread-3] 2022-05-19 18:08:54 INFO  SharedStorage:19 - Got the message
+[Thread-3] 2022-05-19 18:08:54 INFO  Consumer:13 - Message 1
+[Thread-2] 2022-05-19 18:08:54 INFO  SharedStorage:26 - Thread is waiting to set the message
+[Thread-2] 2022-05-19 18:08:54 INFO  SharedStorage:34 - Setting the message
+[Thread-0] 2022-05-19 18:08:54 INFO  SharedStorage:26 - Thread is waiting to set the message
+[Thread-5] 2022-05-19 18:08:54 INFO  SharedStorage:19 - Got the message
+[Thread-5] 2022-05-19 18:08:54 INFO  Consumer:13 - Message 2
+[Thread-0] 2022-05-19 18:08:54 INFO  SharedStorage:34 - Setting the message
+[Thread-4] 2022-05-19 18:08:54 INFO  SharedStorage:19 - Got the message
+[Thread-4] 2022-05-19 18:08:54 INFO  Consumer:13 - Message 0
+[main] 2022-05-19 19:15:14 INFO  StarvationLock:21 - Main thread execution starts
+[main] 2022-05-19 19:15:14 INFO  StarvationLock:47 - Main thread execution completes
+[Thread-0] 2022-05-19 19:15:14 INFO  StarvationLock:12 - 1st Child Thread execution starts
+[Thread-2] 2022-05-19 19:15:14 INFO  StarvationLock:12 - 1st Child Thread execution starts
+[Thread-3] 2022-05-19 19:15:14 INFO  StarvationLock:12 - 1st Child Thread execution starts
+[Thread-3] 2022-05-19 19:15:14 INFO  StarvationLock:14 - Child thread execution completes
+[Thread-1] 2022-05-19 19:15:14 INFO  StarvationLock:12 - 1st Child Thread execution starts
+[Thread-1] 2022-05-19 19:15:14 INFO  StarvationLock:14 - Child thread execution completes
+[Thread-4] 2022-05-19 19:15:14 INFO  StarvationLock:12 - 1st Child Thread execution starts
+[Thread-4] 2022-05-19 19:15:14 INFO  StarvationLock:14 - Child thread execution completes
+[Thread-2] 2022-05-19 19:15:14 INFO  StarvationLock:14 - Child thread execution completes
+[Thread-0] 2022-05-19 19:15:14 INFO  StarvationLock:14 - Child thread execution completes
+[main] 2022-05-19 19:39:34 INFO  ExecutorsDemo:23 - All tasks submitted
+[pool-1-thread-1] 2022-05-19 19:39:34 INFO  RunnableTask:19 - Computing 10/2
+[pool-1-thread-1] 2022-05-19 19:39:34 INFO  RunnableTask:19 - Computing 9/2
+[pool-1-thread-1] 2022-05-19 19:39:34 INFO  RunnableTask:19 - Computing 8/2
+[pool-1-thread-1] 2022-05-19 19:39:34 INFO  RunnableTask:19 - Computing 7/2
+[main] 2022-05-19 19:42:09 INFO  ExecutorsDemo:25 - All tasks submitted
+[pool-1-thread-1] 2022-05-19 19:42:09 INFO  RunnableTask:19 - Computing 10/2
+[pool-1-thread-1] 2022-05-19 19:42:09 INFO  RunnableTask:19 - Computing 9/2
+[pool-1-thread-1] 2022-05-19 19:42:09 INFO  RunnableTask:19 - Computing 8/2
+[pool-1-thread-1] 2022-05-19 19:42:09 INFO  RunnableTask:19 - Computing 7/2
+[main] 2022-05-19 19:55:26 INFO  ExecutorsDemo:26 - All tasks submitted
+[pool-1-thread-1] 2022-05-19 19:55:26 INFO  CallableTask:17 - Computing 4/5
+[main] 2022-05-19 19:56:39 INFO  ExecutorsDemo:26 - All tasks submitted
+[pool-1-thread-1] 2022-05-19 19:56:39 INFO  CallableTask:18 - Computing 4/5
